@@ -1,0 +1,281 @@
+Char,Genre,Title,line_count
+DALLAS (CONT.),Animation,beavisandbuttheaddoamerica,21
+VAN DRIESSEN,Animation,beavisandbuttheaddoamerica,39
+DUMB GUY,Animation,beavisandbuttheaddoamerica,24
+BEAVIS (CONT.),Animation,beavisandbuttheaddoamerica,31
+DALLAS,Animation,beavisandbuttheaddoamerica,67
+MUDDY,Animation,beavisandbuttheaddoamerica,85
+MARTHA,Animation,beavisandbuttheaddoamerica,52
+SANDY,Animation,beavisandbuttheaddoamerica,21
+BEAVIS/CORNHOLIO,Animation,beavisandbuttheaddoamerica,56
+BORK,Animation,beavisandbuttheaddoamerica,87
+TOM,Animation,beavisandbuttheaddoamerica,63
+FLEMMING,Animation,beavisandbuttheaddoamerica,189
+BEAVIS,Animation,beavisandbuttheaddoamerica,344
+BUTT-HEAD,Animation,beavisandbuttheaddoamerica,387
+B&B,Animation,beavisandbuttheaddoamerica,60
+TV ANNOUNCER,Animation,toystory,21
+HANNAH,Animation,toystory,56
+WOODY (VOICE BOX),Animation,toystory,43
+SID,Animation,toystory,167
+SLINKY,Animation,toystory,85
+MRS. DAVIS,Animation,toystory,79
+BO PEEP,Animation,toystory,55
+REX,Animation,toystory,146
+HAMM,Animation,toystory,87
+MR. POTATO HEAD,Animation,toystory,149
+SARGENT,Animation,toystory,92
+BUZZ,Animation,toystory,438
+WOODY,Animation,toystory,862
+ANDY,Animation,toystory,99
+ELDER,Animation,heavymetal,27
+BELLYGUNNER,Animation,heavymetal,32
+BOMBARDIER,Animation,heavymetal,54
+NAVIGATOR,Animation,heavymetal,45
+PILOT,Animation,heavymetal,96
+GLORIA,Animation,heavymetal,41
+ROBOT,Animation,heavymetal,36
+EDSEL,Animation,heavymetal,50
+ZEKE,Animation,heavymetal,56
+PROSECUTOR,Animation,heavymetal,25
+FISTE,Animation,heavymetal,69
+STERNN,Animation,heavymetal,55
+AUSTIN,Animation,heavymetal,25
+GIRL,Animation,heavymetal,25
+NORL,Animation,heavymetal,27
+QUEEN,Animation,heavymetal,60
+ARD,Animation,heavymetal,70
+DEN,Animation,heavymetal,59
+DAN,Animation,heavymetal,160
+HARRY,Animation,heavymetal,30
+STANLEY,Animation,monkeybone,30
+BULL,Animation,monkeybone,33
+KIMMY,Animation,monkeybone,48
+KITTY,Animation,monkeybone,39
+HUTCH,Animation,monkeybone,26
+HERB,Animation,monkeybone,77
+ALICE,Animation,monkeybone,44
+O.D. STU,Animation,monkeybone,32
+STU-BONE,Animation,monkeybone,185
+MONKEYBONE,Animation,monkeybone,174
+DEATH,Animation,monkeybone,83
+HYPNOS,Animation,monkeybone,114
+JULIE,Animation,monkeybone,263
+STU,Animation,monkeybone,366
+JILLIAN,Animation,despicableme2,39
+SHANNON,Animation,despicableme2,34
+FLOYD,Animation,despicableme2,36
+SILAS,Animation,despicableme2,94
+ANTONIO,Animation,despicableme2,22
+EDUARDO,Animation,despicableme2,86
+KEVIN,Animation,despicableme2,23
+MARGO,Animation,despicableme2,79
+EL MACHO,Animation,despicableme2,91
+DR. NEFARIO,Animation,despicableme2,62
+LUCY,Animation,despicableme2,327
+GRU,Animation,despicableme2,799
+EDITH,Animation,despicableme2,46
+AGNES,Animation,despicableme2,163
+ANASTASIA,Animation,anastasia,31
+PHLEGMENKOF,Animation,anastasia,21
+VLADIMIR (CONT.),Animation,anastasia,24
+ANYA (CONT.),Animation,anastasia,40
+DMITRI (CONT.),Animation,anastasia,41
+SOPHIE,Animation,anastasia,56
+VLADIMIR,Animation,anastasia,187
+TATIANA,Animation,anastasia,150
+BARTOK,Animation,anastasia,144
+RASPUTIN,Animation,anastasia,151
+RASPUTIN (CONT.),Animation,anastasia,61
+DMITRI,Animation,anastasia,293
+ANYA,Animation,anastasia,354
+FRIEND #3,Animation,megamind,21
+EINSTEIN,Animation,megamind,98
+"""JOHN CUSACK""",Animation,megamind,120
+"""PAT MORITA""",Animation,megamind,100
+HAL,Animation,megamind,216
+VINNIE,Animation,megamind,26
+WAYNE SCOTT,Animation,megamind,89
+PLATO,Animation,megamind,135
+FRANK,Animation,megamind,53
+UBERMAN,Animation,megamind,34
+TITAN,Animation,megamind,314
+BRAD HELMS,Animation,megamind,81
+ROXANNE,Animation,megamind,442
+DA VINCI,Animation,megamind,36
+MASTER MIND,Animation,megamind,840
+TEACHER,Animation,happyfeet,45
+FIRST SKUA,Animation,happyfeet,60
+ELEPHANT SEAL 1,Animation,happyfeet,29
+THE ADELIES,Animation,happyfeet,178
+ADELIES,Animation,happyfeet,81
+AN ADELIE,Animation,happyfeet,61
+LOVEDAY,Animation,happyfeet,73
+ALBATROSS,Animation,happyfeet,26
+ELLA,Animation,happyfeet,75
+CARUSO,Animation,happyfeet,38
+CARUSO.,Animation,happyfeet,28
+PENGUINS,Animation,happyfeet,35
+WISHFUL,Animation,happyfeet,87
+MRS ASTRAKHAN,Animation,happyfeet,51
+MUMBLE (VO),Animation,happyfeet,61
+MUMBLE,Animation,happyfeet,583
+(CONTINUED),Animation,happyfeet,150
+NEWSREEL ANNOUNCER,Animation,up,80
+YOUNG ELLIE,Animation,up,99
+CRUCTION FOREMAN TOM,Animation,up,23
+VOICE,Animation,up,22
+BETA,Animation,up,37
+MUNTZ,Animation,up,184
+ALPHA,Animation,up,82
+GAMMA,Animation,up,37
+CAMP MASTER STRAUCH,Animation,up,24
+DUG,Animation,up,140
+RUSSELL,Animation,up,572
+CARL,Animation,up,632
+GRAN,Animation,croodsthe,104
+GUY,Animation,croodsthe,364
+UGGA,Animation,croodsthe,156
+BELT,Animation,croodsthe,22
+THUNK,Animation,croodsthe,197
+GRUG,Animation,croodsthe,587
+EEP,Animation,croodsthe,344
+FISHLEGS,Animation,howtotrainyourdragon,24
+TUFFNUT,Animation,howtotrainyourdragon,29
+SNOTLOUT,Animation,howtotrainyourdragon,23
+STOICK,Animation,howtotrainyourdragon,96
+ASTRID,Animation,howtotrainyourdragon,55
+GOBBER,Animation,howtotrainyourdragon,77
+HICCUP,Animation,howtotrainyourdragon,136
+(BEAT),Animation,howtotrainyourdragon,21
+CRABBY,Animation,cars2,25
+MEL DORADO (ON TV),Animation,cars2,44
+MATER'S VOICE (ON TV),Animation,cars2,22
+FRANCESCO (ON TV),Animation,cars2,40
+ROD REDLINE,Animation,cars2,30
+TOMBER,Animation,cars2,38
+UNCLE TOPOLINO,Animation,cars2,49
+ENGINE VOICE,Animation,cars2,60
+MILES AXLEROD (ON TV),Animation,cars2,33
+ACER,Animation,cars2,56
+GREM,Animation,cars2,66
+FINN (OVER RADIO),Animation,cars2,35
+DAVID HOBBSCAP,Animation,cars2,47
+DARRELL CARTRIP,Animation,cars2,54
+BRENT MUSTANGBURGER,Animation,cars2,120
+PROFESSOR ZUNDAPP,Animation,cars2,96
+MATER'S COMPUTER,Animation,cars2,32
+MILES AXLEROD,Animation,cars2,74
+LUIGI,Animation,cars2,31
+(TO HOLLEY),Animation,cars2,40
+FILLMORE,Animation,cars2,22
+SALLY,Animation,cars2,41
+HOLLEY,Animation,cars2,301
+FINN,Animation,cars2,321
+OTIS,Animation,cars2,35
+FRANCESCO,Animation,cars2,109
+MCQUEEN,Animation,cars2,414
+MATER,Animation,cars2,830
+OTHER MISS SPINK,Animation,coraline,21
+OTHER MOTHER,Animation,coraline,124
+TALL OTHER MOTHER,Animation,coraline,42
+OTHER FATHER,Animation,coraline,78
+OTHER MR. BOBINSKY,Animation,coraline,31
+CAT,Animation,coraline,56
+BELDAM,Animation,coraline,30
+SWEET GIRL GHOST,Animation,coraline,22
+WYBIE,Animation,coraline,129
+MISS FORCIBLE,Animation,coraline,46
+MISS SPINK,Animation,coraline,82
+CHARLIE,Animation,coraline,69
+MEL,Animation,coraline,110
+MR. BOBINSKY,Animation,coraline,48
+CORALINE,Animation,coraline,760
+FARQUAAD,Animation,shrek,70
+FIONA,Animation,shrek,150
+SHREK,Animation,shrek,326
+DONKEY,Animation,shrek,286
+(SINGING),Animation,howtotrainyourdragon2,36
+STOICK,Animation,howtotrainyourdragon2,211
+TUFFNUT,Animation,howtotrainyourdragon2,42
+(BEAT),Animation,howtotrainyourdragon2,47
+DRAGO,Animation,howtotrainyourdragon2,111
+FISHLEGS,Animation,howtotrainyourdragon2,40
+SNOTLOUT,Animation,howtotrainyourdragon2,39
+RUFFNUT,Animation,howtotrainyourdragon2,60
+ERET,Animation,howtotrainyourdragon2,166
+VALKA,Animation,howtotrainyourdragon2,206
+ASTRID,Animation,howtotrainyourdragon2,153
+GOBBER,Animation,howtotrainyourdragon2,115
+HICCUP,Animation,howtotrainyourdragon2,652
+(JAFAR pinches his beak shut.),Animation,aladdin,25
+ABU are gone.  They are sneaking away in barrels.  They,Animation,aladdin,24
+JASMINE to pet and hug him.)  You were just playing,Animation,aladdin,30
+(JAFAR says the word 'princess' with the accent on,Animation,aladdin,28
+ASMINE walking through the street.),Animation,aladdin,22
+"ALADDIN leans in to kiss her.  He is interrupted, howeve",Animation,aladdin,24
+"GENIE looks at ALADDIN.)  Say, you're a lot smaller",Animation,aladdin,31
+"GENIE appears in his vest, then sticks his arms out and",Animation,aladdin,87
+"GENIE takes the form of a stewardess, with lots of",Animation,aladdin,31
+"ONE, boy!",Animation,aladdin,22
+"ABU into:  a duck, an ostrich, a turtle, and a '57",Animation,aladdin,24
+GIRLS: (in couterpoint),Animation,aladdin,25
+JAFAR and IAGO behind the door.),Animation,aladdin,21
+"GENIE comes out holding the real turban.)  Al, all",Animation,aladdin,55
+"ALADDIN and JASMINE in free-fall, but catching them.  Th",Animation,aladdin,38
+CARPET in a knot around a tree.),Animation,aladdin,53
+"GENIE again is confused, then goes to him and pulls",Animation,aladdin,85
+CARPET shakes off the snow and rushes over to pick,Animation,aladdin,27
+JAFAR's back is to ALADDIN.),Animation,aladdin,27
+(JAFAR looks down questioningly) You wanted to be a geni,Animation,aladdin,26
+YOUNG ANNA,Animation,frozendisney,31
+KING,Animation,frozendisney,33
+OAKEN,Animation,frozendisney,47
+YOUNG ELSA,Animation,frozendisney,28
+GRAND PABBIE,Animation,frozendisney,29
+BULDA,Animation,frozendisney,22
+HANS,Animation,frozendisney,226
+DISSOLVE TO:,Animation,frozendisney,22
+KAI,Animation,frozendisney,32
+DUKE,Animation,frozendisney,111
+ELSA,Animation,frozendisney,208
+ANNA,Animation,frozendisney,783
+KRISTOFF,Animation,frozendisney,439
+FROZEN - J. Lee,Animation,frozendisney,114
+OLAF,Animation,frozendisney,321
+NARRATOR,Animation,kungfupanda,34
+COMMANDER,Animation,kungfupanda,61
+ZENG,Animation,kungfupanda,65
+OOGWAY,Animation,kungfupanda,114
+VIPER,Animation,kungfupanda,36
+MANTIS,Animation,kungfupanda,47
+CRANE,Animation,kungfupanda,52
+MONKEY,Animation,kungfupanda,26
+TAI LUNG,Animation,kungfupanda,97
+PDAD,Animation,kungfupanda,132
+TIGRESS,Animation,kungfupanda,109
+PO,Animation,kungfupanda,717
+SHIFU,Animation,kungfupanda,512
+PRIME,Animation,transformersthemovie,35
+MEGATRON,Animation,transformersthemovie,106
+STARSCREAM,Animation,transformersthemovie,64
+BLASTER,Animation,transformersthemovie,44
+BUMBLEBEE,Animation,transformersthemovie,21
+BLURR,Animation,transformersthemovie,21
+ULTRA MAGNUS,Animation,transformersthemovie,119
+PERCEPTOR,Animation,transformersthemovie,57
+UNICRON,Animation,transformersthemovie,79
+GRIMLOCK,Animation,transformersthemovie,75
+ARCEE,Animation,transformersthemovie,54
+ON DANIEL,Animation,transformersthemovie,29
+DANIEL,Animation,transformersthemovie,107
+SPIKE,Animation,transformersthemovie,31
+WRECK-GAR,Animation,transformersthemovie,81
+ANOTHER ANGLE,Animation,transformersthemovie,30
+OPTIMUS PRIME,Animation,transformersthemovie,49
+GALVATRON,Animation,transformersthemovie,114
+HOT ROD,Animation,transformersthemovie,247
+SPRINGER,Animation,transformersthemovie,102
+(CONTINUED),Animation,transformersthemovie,140
+JAZZ,Animation,transformersthemovie,25
+KUP,Animation,transformersthemovie,206
