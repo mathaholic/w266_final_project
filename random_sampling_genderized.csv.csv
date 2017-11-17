@@ -1,0 +1,2787 @@
+id,char,gender,genre,title,line_count,pkey
+1,WILLY,M,Musical,sisteract,58,willy-sisteract
+2,ATHOS,M,Action,manintheironmask,378,athos-manintheironmask
+3,AUGUSTUS,M,Action,perfectcreature,222,augustus-perfectcreature
+4,MCKEE (cont'd),,Drama,adaptation,24,mckee_(cont'd)-adaptation
+5,JIMMY,M,Romance,mulhollanddrive,43,jimmy-mulhollanddrive
+6,DENNIS,M,Drama,backdraft,42,dennis-backdraft
+7,CHIEF,M,Drama,laconfidential,98,chief-laconfidential
+8,SERGEANT HAYTHAM,M,Thriller,kingdomthe,59,sergeant_haytham-kingdomthe
+9,CONOR,M,Romance,hesjustnotthatintoyou,245,conor-hesjustnotthatintoyou
+10,NURSE,F,Drama,romeojuliet,126,nurse-romeojuliet
+11,NAVIGATOR,M,Action,heavymetal,45,navigator-heavymetal
+12,EDDIE,M,Action,15minutes,532,eddie-15minutes
+13,BILL MAHER,M,Drama,wallstreetmoneyneversleeps,48,bill_maher-wallstreetmoneyneversleeps
+14,BOY,M,Drama,powerofonethe,24,boy-powerofonethe
+15,DIBIASI,M,Romance,larrycrowne,65,dibiasi-larrycrowne
+16,- - P L E A S U R E PARTNER SELECTED; PROGRAM COMMENCING...,NA,Action,islandthe,32,-_-_p_l_e_a_s_u_r_e_partner_selected;_program_commencing...-islandthe
+17,MARCUS,M,Musical,burlesque,78,marcus-burlesque
+18,ERIK,M,Mystery,hanna,69,erik-hanna
+19,VOICE,,Horror,manhunter,34,voice-manhunter
+20,COUNT DOOKU,M,Action,starwarsattackoftheclones,110,count_dooku-starwarsattackoftheclones
+21,SIDNEY,F,Mystery,scream,460,sidney-scream
+22,LENA,F,Romance,punchdrunklove,336,lena-punchdrunklove
+23,STIFLER,M,Comedy,americanpie,163,stifler-americanpie
+24,MRS. ASHER,F,Thriller,takinglives,111,mrs._asher-takinglives
+25,VALENTIN,M,Thriller,tomorrowneverdies,40,valentin-tomorrowneverdies
+26,PRIEST,M,Drama,deerhunterthe,24,priest-deerhunterthe
+27,REILLY (cont.),,Action,ticker,59,reilly_(cont.)-ticker
+28,BURNHAM,M,Crime,panicroom,341,burnham-panicroom
+29,AHMET,M,Drama,midnightexpress,57,ahmet-midnightexpress
+30,DEN,M,Sci-Fi,heavymetal,59,den-heavymetal
+31,SCIENTIST,M,Romance,fifthelementthe,32,scientist-fifthelementthe
+32,VEEJAY,,Drama,cityofjoy,28,veejay-cityofjoy
+33,MAX,M,Thriller,losersthe,239,max-losersthe
+34,ANDY,M,Drama,manonthemoon,822,andy-manonthemoon
+35,LONG LENS POINT-OF-VIEW,,Comedy,burnafterreading,39,long_lens_point-of-view-burnafterreading
+36,MIKE,M,Adventure,jaws2,186,mike-jaws2
+37,AMY,F,Crime,casino,28,amy-casino
+38,PROFESSOR AZIZ,,Drama,fairgame,53,professor_aziz-fairgame
+39,ANDY,M,Comedy,manonthemoon,822,andy-manonthemoon
+40,DISSOLVE TO:,NA,Mystery,prophecythe,26,dissolve_to:-prophecythe
+41,WALT,M,Romance,chasingamy,40,walt-chasingamy
+42,(TO MOORE),NA,Thriller,heist,36,(to_moore)-heist
+43,(THEN),NA,Comedy,cedarrapids,26,(then)-cedarrapids
+44,MAIL CLERK,,Thriller,cellular,24,mail_clerk-cellular
+45,SKRAPINOV,M,Drama,beingthere,155,skrapinov-beingthere
+46,HIGHWAY PATROLMAN,,Comedy,fearandloathinginlasvegas,35,highway_patrolman-fearandloathinginlasvegas
+47,GEORGE (cont'd),M,Comedy,manonthemoon,36,george_(cont'd)-manonthemoon
+48,AGENT HALLORAN,M,Action,abovethelaw,32,agent_halloran-abovethelaw
+49,MILLER,M,Thriller,lordofillusions,25,miller-lordofillusions
+50,JEAN HILL,F,Crime,jfk,126,jean_hill-jfk
+51,(OVER RADIO),NA,Thriller,darkknightrisesthe,29,(over_radio)-darkknightrisesthe
+52,TED,M,Comedy,burnafterreading,176,ted-burnafterreading
+53,SANDINISTA #1,,Drama,underfire,34,sandinista_#1-underfire
+54,OLIVER,M,Drama,confessionsofadangerousmind,85,oliver-confessionsofadangerousmind
+55,JEFE,,Thriller,xxx,47,jefe-xxx
+56,BICKERMAN,,Comedy,lakeplacid,96,bickerman-lakeplacid
+57,WIPE TO:,NA,Drama,itsawonderfullife,29,wipe_to:-itsawonderfullife
+58,DIRECTOR GILLET,,Drama,takinglives,148,director_gillet-takinglives
+59,SCHEER,,Sci-Fi,islandthe,204,scheer-islandthe
+60,KORFIN,,Thriller,15minutes,103,korfin-15minutes
+61,MEGAN,F,Comedy,bridesmaids,48,megan-bridesmaids
+62,ALLISON,F,Comedy,littleathens,193,allison-littleathens
+63,DIGGER,,Comedy,mybestfriendswedding,205,digger-mybestfriendswedding
+64,CHAMBERS,,Drama,cradle2thegrave,105,chambers-cradle2thegrave
+65,CGUARD DISPATCHER ( RADIO),,Thriller,ghostship,57,cguard_dispatcher_(_radio)-ghostship
+66,J.D.,,Adventure,haroldandkumargotowhitecastle,69,j.d.-haroldandkumargotowhitecastle
+67,ANNE,F,Adventure,fugitivethe,51,anne-fugitivethe
+68,BEN,M,Adventure,starwarstheempirestrikesback,32,ben-starwarstheempirestrikesback
+69,FRANCIS,M,War,platoon,69,francis-platoon
+70,ROBERT HAWKINS,M,Action,15minutes,36,robert_hawkins-15minutes
+71,SLACK,F,Action,landofthedead,145,slack-landofthedead
+72,LENORE,F,Drama,forrestgump,30,lenore-forrestgump
+73,MANTIS,M,Action,kungfupanda,47,mantis-kungfupanda
+74,NAVIGATOR,M,Adventure,dune,44,navigator-dune
+75,WITHERSPOON,,Comedy,arsenicandoldlace,119,witherspoon-arsenicandoldlace
+76,STAN,M,Thriller,fargo,58,stan-fargo
+77,(CONTINUED),NA,Drama,whiteout,180,(continued)-whiteout
+78,SLINKY,M,Comedy,toystory,85,slinky-toystory
+79,DOREEN,F,Drama,getcarter,32,doreen-getcarter
+80,ELLIE (cont'd),F,Drama,insomnia,102,ellie_(cont'd)-insomnia
+81,MIDDLE-AGED WOMAN,F,Action,abovethelaw,23,middle-aged_woman-abovethelaw
+82,BIFF,M,Fantasy,pleasantville,104,biff-pleasantville
+83,FLASH,M,Action,spiderman,108,flash-spiderman
+84,HAMM,M,Animation,toystory,87,hamm-toystory
+85,GIDDYPU!,,Comedy,armyofdarkness,27,giddypu!-armyofdarkness
+86,BOURNE,M,Thriller,bourneidentitythe,564,bourne-bourneidentitythe
+87,D.J.,,Drama,bodyguard,26,d.j.-bodyguard
+88,JENNIFER,F,Mystery,backdraft,260,jennifer-backdraft
+89,VICK,M,Mystery,hangoverthe,896,vick-hangoverthe
+90,CLAIRE,F,Mystery,whatliesbeneath,1129,claire-whatliesbeneath
+91,JIGSAW,M,Crime,saw,166,jigsaw-saw
+92,RENE,M,Drama,basquiat,227,rene-basquiat
+93,DIRECTOR,,Comedy,replacementsthe,25,director-replacementsthe
+94,TOP DOLLAR,M,Thriller,crowthe,71,top_dollar-crowthe
+95,AL,M,Thriller,losthighway,62,al-losthighway
+96,(CONTINUED),NA,Fantasy,wizardofozthe,254,(continued)-wizardofozthe
+97,TONY,M,Romance,anniehall,87,tony-anniehall
+98,BOOTH,M,Drama,walkingtall,23,booth-walkingtall
+99,LUKE,M,Adventure,missiontomars,443,luke-missiontomars
+100,GRU,M,Adventure,despicableme2,799,gru-despicableme2
+101,ANTHONY,M,Drama,pearlharbor,48,anthony-pearlharbor
+102,PARKER,F,Family,newyorkminute,759,parker-newyorkminute
+103,NADEE,F,Thriller,onlygodforgives,28,nadee-onlygodforgives
+104,CAPTAIN LISTER,,Thriller,mrbrooks,90,captain_lister-mrbrooks
+105,LENNY,M,Drama,butterflyeffectthe,91,lenny-butterflyeffectthe
+106,DICK (cont'd),M,Comedy,almostfamous,62,dick_(cont'd)-almostfamous
+107,JENNIE,F,Comedy,hottubtimemachine,32,jennie-hottubtimemachine
+108,M,,Drama,rebelwithoutacause,28,m-rebelwithoutacause
+109,MARIANNE,F,Romance,senseandsensibility,543,marianne-senseandsensibility
+110,SARAH,F,Thriller,terminator,667,sarah-terminator
+111,TEACHER,,Drama,readerthe,26,teacher-readerthe
+112,GRETCHEN,F,Drama,helpthe,21,gretchen-helpthe
+113,WERNER,M,Drama,takingsides,45,werner-takingsides
+114,HANK,M,Horror,eightleggedfreaks,23,hank-eightleggedfreaks
+115,MR. MCQUIRE,M,Comedy,graduatethe,24,mr._mcquire-graduatethe
+116,JEREMY,M,Drama,unbreakable,86,jeremy-unbreakable
+117,ODA MAE,F,Fantasy,ghost,618,oda_mae-ghost
+118,MCGUIRE,M,Crime,afewgoodmen,34,mcguire-afewgoodmen
+119,JACK,M,Mystery,laconfidential,347,jack-laconfidential
+120,JIM VOICE,M,Drama,doorsthe,44,jim_voice-doorsthe
+121,PEARSON,M,Thriller,daytheearthstoodstillthe,32,pearson-daytheearthstoodstillthe
+122,PILOT,,Romance,fifthelementthe,32,pilot-fifthelementthe
+123,DONALD,M,Drama,adaptation,298,donald-adaptation
+124,SHERRI,,Romance,soimarriedanaxemurderer,64,sherri-soimarriedanaxemurderer
+125,ROMAN COP,,Thriller,angelsdemons,25,roman_cop-angelsdemons
+126,MORRISON,M,Action,terminatorsalvation,40,morrison-terminatorsalvation
+127,HOWARD,M,Thriller,afewgoodmen,95,howard-afewgoodmen
+128,BETSY,F,Fantasy,beinghuman,232,betsy-beinghuman
+129,TOMLIN,,Thriller,cellular,83,tomlin-cellular
+130,MOSES,M,Romance,hudsuckerproxythe,99,moses-hudsuckerproxythe
+131,BETSY,F,Drama,taxidriver,321,betsy-taxidriver
+132,MISTER FRENCH,M,Crime,departedthe,127,mister_french-departedthe
+133,WALLACE,M,Music,takingsides,62,wallace-takingsides
+134,DON LUIS,M,Action,colombiana,119,don_luis-colombiana
+135,(THEN),NA,Drama,moneyball,86,(then)-moneyball
+136,RHAH,,Action,platoon,189,rhah-platoon
+137,ANYA,F,Family,anastasia,354,anya-anastasia
+138,RADIO (GARBER),,Crime,takingofpelhamonetwothreethe,36,radio_(garber)-takingofpelhamonetwothreethe
+139,ELI'S VOICE,,Action,stuntmanthe,27,eli's_voice-stuntmanthe
+140,MUSIC FADES OUT,,Drama,intothewild,30,music_fades_out-intothewild
+141,VANCE,M,Horror,bladetrinity,146,vance-bladetrinity
+142,LERNER,M,War,platoon,69,lerner-platoon
+143,TOM,M,Mystery,scream3,73,tom-scream3
+144,JONES,M,Fantasy,perfectcreature,406,jones-perfectcreature
+145,CANTER,M,Thriller,surrogates,24,canter-surrogates
+146,DONNIE (O.C.),M,Crime,donniebrasco,21,donnie_(o.c.)-donniebrasco
+147,BARON,M,Sci-Fi,dune,159,baron-dune
+148,RAYMOND,M,Drama,citizenkane,105,raymond-citizenkane
+149,YOUNG MAN,M,Thriller,longkissgoodnightthe,28,young_man-longkissgoodnightthe
+150,BOY OXFORD,M,Drama,anonymous,24,boy_oxford-anonymous
+151,KENNY,M,Action,hardrain,77,kenny-hardrain
+152,SARAH,F,Crime,thelmalouise,26,sarah-thelmalouise
+153,QUINN,,Comedy,newyorkminute,91,quinn-newyorkminute
+154,STINGER,M,Action,topgun,22,stinger-topgun
+155,RONNIE,F,Thriller,metro,212,ronnie-metro
+156,BANKY,,Adventure,jayandsilentbobstrikeback,81,banky-jayandsilentbobstrikeback
+157,STARSCREAM,M,Sci-Fi,transformersthemovie,64,starscream-transformersthemovie
+158,KORFIN,M,Crime,15minutes,103,korfin-15minutes
+159,DR. BAY,M,Crime,blow,26,dr._bay-blow
+160,TARA V/O,F,Drama,moneyball,36,tara_v/o-moneyball
+161,MR. DANVERS,M,Sci-Fi,supergirl,26,mr._danvers-supergirl
+162,DOLLY,F,Horror,suspectzero,40,dolly-suspectzero
+163,DR. TRAMMEL,,Romance,bodyofevidence,21,dr._trammel-bodyofevidence
+164,STELLA,F,Comedy,airplane2thesequel,97,stella-airplane2thesequel
+165,DOCTOR,M,Comedy,asgoodasitgets,24,doctor-asgoodasitgets
+166,CHEEBA,M,Comedy,bamboozled,176,cheeba-bamboozled
+167,SCHINDLER,M,War,schindlerslist,1009,schindler-schindlerslist
+168,KATIE,F,Crime,burnafterreading,253,katie-burnafterreading
+169,CICI,F,Thriller,scream2,130,cici-scream2
+170,JANINE,F,Sci-Fi,shivers,85,janine-shivers
+171,LLOYD,M,Romance,fabulousbakerboysthe,26,lloyd-fabulousbakerboysthe
+172,ALEXA,,Romance,zerophilia,25,alexa-zerophilia
+173,(JAFAR says the word 'princess' with the accent on,,Animation,aladdin,28,(jafar_says_the_word_'princess'_with_the_accent_on-aladdin
+174,ANNABEL,F,Comedy,youvegotmail,54,annabel-youvegotmail
+175,AMANDA,F,Musical,honeydripper,114,amanda-honeydripper
+176,EARL,M,Drama,pearlharbor,25,earl-pearlharbor
+177,SIMONE / VIKTOR,,Sci-Fi,simone,113,simone_/_viktor-simone
+178,MOTHER,F,Drama,rebelwithoutacause,119,mother-rebelwithoutacause
+179,GRIGORI,M,Sci-Fi,frankenstein,28,grigori-frankenstein
+180,PACE,,Crime,wildatheart,32,pace-wildatheart
+181,DR. RESFIELD,,Drama,minorityreport,42,dr._resfield-minorityreport
+182,LULU,F,Comedy,pacifierthe,128,lulu-pacifierthe
+183,DRUMMOND,M,Drama,hospitalthe,209,drummond-hospitalthe
+184,KAYLEIGH,F,Drama,butterflyeffectthe,356,kayleigh-butterflyeffectthe
+185,"REVISED May 16, 1989",NA,Horror,gremlins2,23,"revised_may_16,_1989-gremlins2"
+186,RED DOG,M,Drama,almostfamous,22,red_dog-almostfamous
+187,RED DOG,M,Romance,almostfamous,22,red_dog-almostfamous
+188,KING,,War,platoon,184,king-platoon
+189,LARRY,M,Action,ronin,135,larry-ronin
+190,FISTE,M,Action,heavymetal,69,fiste-heavymetal
+191,BURT GRUSINSKY,M,Drama,weownthenight,262,burt_grusinsky-weownthenight
+192,FISTE,M,Sci-Fi,heavymetal,69,fiste-heavymetal
+193,MAXINE,F,Drama,ghostworld,26,maxine-ghostworld
+194,BOOKER D,M,Drama,wrestlerthe,24,booker_d-wrestlerthe
+195,JENNIFER,F,Comedy,buffythevampireslayer,91,jennifer-buffythevampireslayer
+196,WALTER,M,Drama,changeling,49,walter-changeling
+197,PAUL,M,Comedy,500daysofsummer,144,paul-500daysofsummer
+198,BOSIE,M,Romance,coldmountain,25,bosie-coldmountain
+199,SEED.,,Adventure,intothewild,21,seed.-intothewild
+200,CONNOR,M,Drama,boondocksaints2allsaintsday,293,connor-boondocksaints2allsaintsday
+201,CRUZ,M,Thriller,entrapment,72,cruz-entrapment
+202,SINCLAIR,,Adventure,tronlegacy,190,sinclair-tronlegacy
+203,MILLER,F,Crime,faceoff,26,miller-faceoff
+204,COMA,,Action,pearlharbor,43,coma-pearlharbor
+205,CHRISTMAS,F,Adventure,worldisnotenoughthe,152,christmas-worldisnotenoughthe
+206,FRANK,M,Comedy,megamind,53,frank-megamind
+207,AUDREY,F,Thriller,legion,119,audrey-legion
+208,LISA,F,Comedy,fasttimesatridgemonthigh,34,lisa-fasttimesatridgemonthigh
+209,MAN,M,Mystery,biglebowskithe,29,man-biglebowskithe
+210,NANCY,F,Drama,silverliningsplaybook,29,nancy-silverliningsplaybook
+211,TOM,M,Horror,scream3,73,tom-scream3
+212,AIDE,,Action,airforceone,36,aide-airforceone
+213,STEVE,M,Mystery,hangoverthe,31,steve-hangoverthe
+214,JENNIFER,F,Thriller,scream3,113,jennifer-scream3
+215,REV. SULLIVAN,M,Drama,walktoremembera,205,rev._sullivan-walktoremembera
+216,MAN,M,Action,rambofirstbloodiithemission,44,man-rambofirstbloodiithemission
+217,CHRISTOPHER,M,Comedy,30minutesorless,32,christopher-30minutesorless
+218,TAKAGI,M,Action,diehard,69,takagi-diehard
+219,ELLIE (cont'd),F,Thriller,insomnia,102,ellie_(cont'd)-insomnia
+220,TALIA,F,Action,darkknightrisesthe,64,talia-darkknightrisesthe
+221,BILL,M,Comedy,henryfool,27,bill-henryfool
+222,DJ,,Comedy,forrestgump,28,dj-forrestgump
+223,DOC,,Drama,magnolia,31,doc-magnolia
+224,PREW'S VOICE,M,Drama,fromheretoeternity,42,prew's_voice-fromheretoeternity
+225,GUARD,,Thriller,midnightexpress,26,guard-midnightexpress
+226,COLONEL AL-GHAZI,,Action,kingdomthe,516,colonel_al-ghazi-kingdomthe
+227,QUINCEY,M,Thriller,saltonseathe,21,quincey-saltonseathe
+228,INIGO,M,Family,princessbridethe,440,inigo-princessbridethe
+229,HAMMOND,M,Action,jurassicparkthelostworld,106,hammond-jurassicparkthelostworld
+230,BRYAN,M,Drama,lifeasahouse,93,bryan-lifeasahouse
+231,COUNTESS,F,War,barrylyndon,190,countess-barrylyndon
+232,BELLE,F,Horror,feast,58,belle-feast
+233,VOICE,,Thriller,super8,28,voice-super8
+234,HANDS,,Comedy,snatch,259,hands-snatch
+235,KAREN,F,Romance,nottinghill,33,karen-nottinghill
+236,ELROND,M,Action,lordoftheringsfellowshipoftheringthe,106,elrond-lordoftheringsfellowshipoftheringthe
+237,SUSAN,F,War,patriotthe,33,susan-patriotthe
+238,LISA,F,Drama,manonfire,175,lisa-manonfire
+239,RUBY,F,Drama,jfk,51,ruby-jfk
+240,JAMES LEER,M,Drama,wonderboys,489,james_leer-wonderboys
+241,SALESWOMAN # 1,,Romance,prettywomanfinalscript,25,saleswoman_#_1-prettywomanfinalscript
+242,FOREIGN EDITOR,,Drama,allthepresidentsmen,41,foreign_editor-allthepresidentsmen
+243,JULIE,F,Romance,17again,125,julie-17again
+244,DISSOLVE TO:,NA,Drama,horsewhispererthe,23,dissolve_to:-horsewhispererthe
+245,HEDGES,,Thriller,bladetrinity,37,hedges-bladetrinity
+246,BOB,M,Romance,runawaybride,142,bob-runawaybride
+247,ENGINE VOICE,,Animation,cars2,60,engine_voice-cars2
+248,JONNO,M,Comedy,kingofcomedythe,35,jonno-kingofcomedythe
+249,OFFICER TURLINGTON,,Horror,gothika,60,officer_turlington-gothika
+250,CORTEZ,M,Action,gijane,50,cortez-gijane
+251,JEANNIE,F,Sci-Fi,next,23,jeannie-next
+252,CASANOVA,M,Fantasy,mysterymen,292,casanova-mysterymen
+253,WOMAN,F,Drama,wrestlerthe,21,woman-wrestlerthe
+254,ST. JOHN,M,Drama,powerofonethe,129,st._john-powerofonethe
+255,ECKER,M,Drama,thirteendays,78,ecker-thirteendays
+256,DANIELS,M,Thriller,takingofpelhamonetwothreethe,28,daniels-takingofpelhamonetwothreethe
+257,HAL,M,Action,thelmalouise,290,hal-thelmalouise
+258,BLAKE,M,Action,darkknightrisesthe,417,blake-darkknightrisesthe
+259,STAGE AGENT,NA,Mystery,tallinthesaddle,33,stage_agent-tallinthesaddle
+260,MIRANDA (VO),F,Action,rushhour,35,miranda_(vo)-rushhour
+261,CREIGHTON,M,Drama,manwhowasnttherethe,151,creighton-manwhowasnttherethe
+262,BULL,,Comedy,monkeybone,33,bull-monkeybone
+263,SELENA,F,Adventure,supergirl,160,selena-supergirl
+264,BUD,M,Thriller,abyssthe,486,bud-abyssthe
+265,VADIM NEZHINSKI,M,Thriller,weownthenight,98,vadim_nezhinski-weownthenight
+266,NICK/CARLOTTA,,Comedy,youthinrevolt,28,nick/carlotta-youthinrevolt
+267,GEEHAN,M,Drama,manhunter,36,geehan-manhunter
+268,YOUNG MAN (cont'd),M,Romance,meetjoeblack,30,young_man_(cont'd)-meetjoeblack
+269,HEIDI,F,Fantasy,butterflyeffectthe,35,heidi-butterflyeffectthe
+270,TEACHER,,Romance,cinemaparadiso,21,teacher-cinemaparadiso
+271,BERNIE,M,Comedy,nottinghill,79,bernie-nottinghill
+272,MOTHER,F,Drama,barrylyndon,90,mother-barrylyndon
+273,GALOVITCH,M,Drama,fromheretoeternity,43,galovitch-fromheretoeternity
+274,JACK,M,Crime,laconfidential,347,jack-laconfidential
+275,ATC,,Drama,flight,66,atc-flight
+276,STILGAR,,Adventure,dune,139,stilgar-dune
+277,JOBAL,,Adventure,starwarsattackoftheclones,22,jobal-starwarsattackoftheclones
+278,ATHENA,F,Crime,lonestar,84,athena-lonestar
+279,HOLLOWAY,,Adventure,prometheus,359,holloway-prometheus
+280,OFFICIAL,,Crime,jfk,23,official-jfk
+281,JIM,M,Crime,jfk,2936,jim-jfk
+282,KATE,F,Drama,tombstone,35,kate-tombstone
+283,AJAY,,Sci-Fi,jurassicparkthelostworld,35,ajay-jurassicparkthelostworld
+284,DOT,,Drama,icestormthe,24,dot-icestormthe
+285,ARCEE,,Animation,transformersthemovie,54,arcee-transformersthemovie
+286,POLICE OFFICER,,Thriller,babel,97,police_officer-babel
+287,GOATEE KID,M,Comedy,wonderboys,23,goatee_kid-wonderboys
+288,DISSOLVE TO:,NA,Action,abovethelaw,32,dissolve_to:-abovethelaw
+289,DIANE,F,Drama,rememberme,150,diane-rememberme
+290,SARUMAN,M,Adventure,lordoftheringsfellowshipoftheringthe,119,saruman-lordoftheringsfellowshipoftheringthe
+291,JENNIFER,F,Mystery,grudgethe,62,jennifer-grudgethe
+292,CAPTAIN,,Romance,soimarriedanaxemurderer,70,captain-soimarriedanaxemurderer
+293,HEDRA,,Thriller,singlewhitefemale,603,hedra-singlewhitefemale
+294,JONAH,,Drama,sleeplessinseattle,442,jonah-sleeplessinseattle
+295,GERROLD,,Comedy,ghostworld,27,gerrold-ghostworld
+296,GIMLI,M,Fantasy,lordoftheringsreturnoftheking,58,gimli-lordoftheringsreturnoftheking
+297,CAZ,,Crime,takingofpelhamonetwothreethe,34,caz-takingofpelhamonetwothreethe
+298,DANA,,Fantasy,liarliar,67,dana-liarliar
+299,BROTHER BUYL,M,Adventure,1492conquestofparadise,28,brother_buyl-1492conquestofparadise
+300,BENNY,M,Family,sandlotkidsthe,324,benny-sandlotkidsthe
+301,DARRELL CARTRIP,,Animation,cars2,54,darrell_cartrip-cars2
+302,INTERVIEWER,,Comedy,trumanshowthe,67,interviewer-trumanshowthe
+303,JESSE,,Crime,looper,28,jesse-looper
+304,ALICE (CON'T),F,Drama,losthighway,50,alice_(con't)-losthighway
+305,ALANSO,,Horror,insidious,32,alanso-insidious
+306,JACKSON,,Action,abovethelaw,213,jackson-abovethelaw
+307,JACOB,M,Thriller,jacobsladder,1258,jacob-jacobsladder
+308,VOICE,NA,Fantasy,fifthelementthe,72,voice-fifthelementthe
+309,ANNINA NOSEI,,Drama,basquiat,74,annina_nosei-basquiat
+310,MOM,F,Drama,highfidelity,35,mom-highfidelity
+311,FRANCESCO,,Adventure,cars2,109,francesco-cars2
+312,T-BIRD,,Fantasy,crowthe,68,t-bird-crowthe
+313,JENNA,F,Sci-Fi,pi,29,jenna-pi
+314,BURNS,,Drama,hisgirlfriday,1578,burns-hisgirlfriday
+315,HEATHER,F,Drama,clerks,68,heather-clerks
+316,VOICE,,Romance,intolerablecruelty,45,voice-intolerablecruelty
+317,EAMES,,Adventure,inception,272,eames-inception
+318,THE MAN,M,Adventure,bourneidentitythe,51,the_man-bourneidentitythe
+319,NEWSCASTER,,Thriller,feast,29,newscaster-feast
+320,BOY,M,Drama,elephantmanthe,43,boy-elephantmanthe
+321,HOLLY,F,Action,diehard,183,holly-diehard
+322,DOROTA,F,Biography,pianistthe,98,dorota-pianistthe
+323,STRACK,M,Thriller,darkman,129,strack-darkman
+324,MRS. DEEGAN (cont'd),F,Drama,almostfamous,26,mrs._deegan_(cont'd)-almostfamous
+325,WOMAN,F,Comedy,custody,32,woman-custody
+326,SHEP,M,Thriller,fargo,33,shep-fargo
+327,MARROW (cont'd),,Mystery,hauntingthe,104,marrow_(cont'd)-hauntingthe
+328,FLYNN,,Action,tronlegacy,404,flynn-tronlegacy
+329,TRAXLER,,Romance,terminator,84,traxler-terminator
+330,BORAS V/O,M,Drama,moneyball,31,boras_v/o-moneyball
+331,IKE,M,Romance,runawaybride,781,ike-runawaybride
+332,BARRY,M,Comedy,thisis40,62,barry-thisis40
+333,SOLOMON,M,Drama,magnolia,58,solomon-magnolia
+334,TEEMO,,Adventure,willow,67,teemo-willow
+335,DOUGLAS,M,Comedy,cradle2thegrave,31,douglas-cradle2thegrave
+336,VICTOR TELLEGIO,M,Crime,americanhustle,79,victor_tellegio-americanhustle
+337,GIRL ON PHONE,F,Thriller,scream2,40,girl_on_phone-scream2
+338,HILDY,F,Drama,hisgirlfriday,1610,hildy-hisgirlfriday
+339,OWENS,M,Horror,pitchblack,78,owens-pitchblack
+340,A AS THOMAS,,Comedy,shakespeareinlove,85,a_as_thomas-shakespeareinlove
+341,YORITOMO,M,Adventure,lastsamuraithe,38,yoritomo-lastsamuraithe
+342,HEAD,M,Adventure,startreknemesis,31,head-startreknemesis
+343,OBLY,,Drama,annakarenina,163,obly-annakarenina
+344,POOCH,,Mystery,losersthe,252,pooch-losersthe
+345,DIETRICH,,Crime,faceoff,60,dietrich-faceoff
+346,MRS. WHEATLEY,F,Horror,shivers,39,mrs._wheatley-shivers
+347,MOTHER,F,Comedy,mysterymen,36,mother-mysterymen
+348,MARIE,F,Romance,frankenstein,27,marie-frankenstein
+349,CUT.,NA,Drama,chronicle,72,cut.-chronicle
+350,(BEAT),NA,Drama,marthamarcymaymarlene,77,(beat)-marthamarcymaymarlene
+351,SOLDIER,,Drama,robinhoodprinceofthieves,22,soldier-robinhoodprinceofthieves
+352,MISS PETERS,F,Drama,pleasantville,24,miss_peters-pleasantville
+353,CLARISSA,F,Comedy,haroldandkumargotowhitecastle,23,clarissa-haroldandkumargotowhitecastle
+354,SAWSAN,,Drama,fairgame,100,sawsan-fairgame
+355,PORTER,,Crime,aliennation,27,porter-aliennation
+356,DOLLY,,Drama,suspectzero,40,dolly-suspectzero
+357,VOICE,NA,Action,stuntmanthe,67,voice-stuntmanthe
+358,JOEY,,Crime,sisteract,118,joey-sisteract
+359,DIETER,,Action,jurassicparkthelostworld,27,dieter-jurassicparkthelostworld
+360,BETH,F,Adventure,detroitrockcity,90,beth-detroitrockcity
+361,METATRON,,Adventure,dogma,69,metatron-dogma
+362,OFFICER,,Drama,minorityreport,23,officer-minorityreport
+363,GEORGIA,,Crime,confessionsofadangerousmind,30,georgia-confessionsofadangerousmind
+364,SANDY,,Comedy,beavisandbuttheaddoamerica,21,sandy-beavisandbuttheaddoamerica
+365,TOULOUR,,Comedy,oceanstwelve,228,toulour-oceanstwelve
+366,SECRET SERVICE MAN,,Drama,taxidriver,24,secret_service_man-taxidriver
+367,WHITE,,Action,tombstone,95,white-tombstone
+368,TRAVERS,,Adventure,cliffhanger,362,travers-cliffhanger
+369,DON CORLEONE,,Drama,godfatherpartii,34,don_corleone-godfatherpartii
+370,DOC,,Action,getawaythe,692,doc-getawaythe
+371,BOB ANDERS,M,Drama,argo,27,bob_anders-argo
+372,LIBBY,,Drama,fairgame,108,libby-fairgame
+373,POPPA M,,Thriller,boondocksaints2allsaintsday,161,poppa_m-boondocksaints2allsaintsday
+374,PICARD,,Crime,confessionsofadangerousmind,35,picard-confessionsofadangerousmind
+375,DIRECTOR,NA,Action,pacifierthe,21,director-pacifierthe
+376,DAN,,Adventure,heavymetal,160,dan-heavymetal
+377,UNTITLED,NA,Drama,almostfamous,30,untitled-almostfamous
+378,MILLER,,Action,lastboyscoutthe,31,miller-lastboyscoutthe
+379,SYLVIA,F,Thriller,dogdayafternoon,152,sylvia-dogdayafternoon
+380,REGGIE,,Thriller,charade,1475,reggie-charade
+381,MARIE,F,Crime,frenchconnectionthe,49,marie-frenchconnectionthe
+382,ESTELLE,,Drama,youthinrevolt,212,estelle-youthinrevolt
+383,BORELLI,,Crime,casino,50,borelli-casino
+384,MRS. MULWRAY,F,Thriller,chinatown,29,mrs._mulwray-chinatown
+385,MINISTER,M,Drama,ghost,24,minister-ghost
+386,KATHERINE,F,Thriller,prophecythe,574,katherine-prophecythe
+387,HENRY,M,Horror,armyofdarkness,51,henry-armyofdarkness
+388,THE HWIFE,,Drama,killbillvolume12,27,the_hwife-killbillvolume12
+389,SENATOR MALCOLM,,Crime,minorityreport,67,senator_malcolm-minorityreport
+390,DUFFY,,Action,boondocksaints2allsaintsday,116,duffy-boondocksaints2allsaintsday
+391,DR. EHRLICH,,Biography,pianistthe,22,dr._ehrlich-pianistthe
+392,JAVIER,,Comedy,hesjustnotthatintoyou,24,javier-hesjustnotthatintoyou
+393,APRIL,F,Romance,revolutionaryroad,690,april-revolutionaryroad
+394,SPEYER,,Sci-Fi,residentevil,46,speyer-residentevil
+395,CIA memo on Oswald's activities in,NA,Thriller,jfk,30,cia_memo_on_oswald's_activities_in-jfk
+396,IKE,,Drama,tombstone,71,ike-tombstone
+397,GIRL,F,Action,fifthelementthe,34,girl-fifthelementthe
+398,CONTINUED:,NA,Comedy,beginners,85,continued:-beginners
+399,JENSEN,,Adventure,losersthe,389,jensen-losersthe
+400,GLASS,,Thriller,ticker,363,glass-ticker
+401,BUDLY,,Comedy,pineappleexpress,56,budly-pineappleexpress
+402,HELEN,F,Romance,crash,122,helen-crash
+403,YUPPIE SCUM,,Drama,fourrooms,30,yuppie_scum-fourrooms
+404,GISBORNE,,Adventure,robinhoodprinceofthieves,125,gisborne-robinhoodprinceofthieves
+405,MONICA,F,Drama,aptpupil,68,monica-aptpupil
+406,(CONTINUED),NA,Horror,jennifersbody,208,(continued)-jennifersbody
+407,PETER,M,Family,threemenandababy,1623,peter-threemenandababy
+408,ELAINE,F,Action,48hrs,227,elaine-48hrs
+409,SILENT BOB,M,Adventure,jayandsilentbobstrikeback,22,silent_bob-jayandsilentbobstrikeback
+410,PETIT OMAR,,Drama,battleofalgiersthe,23,petit_omar-battleofalgiersthe
+411,JEREMY,M,Mystery,sdarko,303,jeremy-sdarko
+412,LIANE,,Comedy,haroldandkumargotowhitecastle,44,liane-haroldandkumargotowhitecastle
+413,MARK,M,Drama,observeandreport,195,mark-observeandreport
+414,ELI'S VOICE,,Thriller,stuntmanthe,27,eli's_voice-stuntmanthe
+415,FRAN,,Drama,flight,57,fran-flight
+416,MARCUS,,Sci-Fi,terminatorsalvation,389,marcus-terminatorsalvation
+417,BRIDGET,,Romance,battleofshakerheightsthe,27,bridget-battleofshakerheightsthe
+418,WAYNE,M,Action,darkknightrisesthe,508,wayne-darkknightrisesthe
+419,TANK,M,Action,matrixthe,192,tank-matrixthe
+420,LISA,F,Thriller,antitrust,234,lisa-antitrust
+421,BERGMAN (cont'd),,Drama,heist,39,bergman_(cont'd)-heist
+422,QUEEN,F,Comedy,shakespeareinlove,127,queen-shakespeareinlove
+423,CLAIRE,F,Drama,whatliesbeneath,1129,claire-whatliesbeneath
+424,HAZEL,,Romance,faultinourstarsthe,1290,hazel-faultinourstarsthe
+425,SHERMAN,,Mystery,thunderheart,28,sherman-thunderheart
+426,TICK,,Mystery,strangedays,78,tick-strangedays
+427,SARA,F,Action,abovethelaw,54,sara-abovethelaw
+428,BUZZ,,Fantasy,hudsuckerproxythe,142,buzz-hudsuckerproxythe
+429,"""PAT MORITA""",,Family,megamind,100,"""pat_morita""-megamind"
+430,KELLY,,Drama,battleofshakerheightsthe,1033,kelly-battleofshakerheightsthe
+431,CARL,,Comedy,breakfastclubthe,70,carl-breakfastclubthe
+432,FUJIMA,,Action,miamivice,122,fujima-miamivice
+433,RICHARD,M,Comedy,fromdusktilldawn,292,richard-fromdusktilldawn
+434,DOUG,M,Comedy,stateandmain,306,doug-stateandmain
+435,GIRL,F,Drama,fifthelementthe,34,girl-fifthelementthe
+436,DARKMAN,M,Thriller,darkman,63,darkman-darkman
+437,FATHER HOMEIJER,M,Crime,sdarko,57,father_homeijer-sdarko
+438,MORGAN,,Western,tombstone,135,morgan-tombstone
+439,PAUL,M,Sci-Fi,dune,733,paul-dune
+440,HARTMAN,,Romance,hisgirlfriday,458,hartman-hisgirlfriday
+441,GRANDMOTHER,F,Mystery,prophecythe,23,grandmother-prophecythe
+442,AVERY,,Romance,jerrymaguire,169,avery-jerrymaguire
+443,BURDON,,Thriller,islandthe,30,burdon-islandthe
+444,LIEUTENANT,,Western,searchersthe,47,lieutenant-searchersthe
+445,NIKKO,,Thriller,copycat,100,nikko-copycat
+446,SLUM LANDLORD,,Fantasy,perfectcreature,23,slum_landlord-perfectcreature
+447,VOICE,,Mystery,losthighway,22,voice-losthighway
+448,BOB,,Horror,jaws2,48,bob-jaws2
+449,JUDGE,,Drama,allthekingsmen,122,judge-allthekingsmen
+450,ADMINISTRATOR,,Mystery,changeling,22,administrator-changeling
+451,ELLEN BLOCK,,Drama,flight,233,ellen_block-flight
+452,GENERAL MARSHALL,,Romance,pearlharbor,32,general_marshall-pearlharbor
+453,MARTIN,,Thriller,takinglives,33,martin-takinglives
+454,FISCHER,,Action,inception,183,fischer-inception
+455,TRAUTMAN,,Action,rambofirstbloodiithemission,204,trautman-rambofirstbloodiithemission
+456,RAY,,Crime,bountyhunterthe,28,ray-bountyhunterthe
+457,MRS. PILLETTI,F,Drama,marty,384,mrs._pilletti-marty
+458,SAM (cont'd),M,Fantasy,lordoftheringsreturnoftheking,63,sam_(cont'd)-lordoftheringsreturnoftheking
+459,SERGEANT AT ARMS,,Crime,afewgoodmen,32,sergeant_at_arms-afewgoodmen
+460,SUSAN,F,Crime,copycat,40,susan-copycat
+461,FRIEND 4,,Sci-Fi,waroftheworlds,24,friend_4-waroftheworlds
+462,BONANNO,,Comedy,crimespree,93,bonanno-crimespree
+463,SAM,,Drama,stuntmanthe,218,sam-stuntmanthe
+464,SOCKHEAD,,Sci-Fi,freaked,34,sockhead-freaked
+465,ALICE,F,Drama,adaptation,64,alice-adaptation
+466,GORDON,,Drama,croupier,29,gordon-croupier
+467,JEANNE'S MOTHER,F,Drama,lasttangoinparis,41,jeanne's_mother-lasttangoinparis
+468,JABBA,,Action,starwarsanewhope,39,jabba-starwarsanewhope
+469,RENFRO,,Action,fugitivethe,107,renfro-fugitivethe
+470,FRANK,,Romance,fabulousbakerboysthe,1588,frank-fabulousbakerboysthe
+471,LYNN,,Drama,laconfidential,261,lynn-laconfidential
+472,ALEX,,Drama,hesjustnotthatintoyou,364,alex-hesjustnotthatintoyou
+473,MARTY,,Romance,coolerthe,23,marty-coolerthe
+474,SYLVIE,,Comedy,charade,89,sylvie-charade
+475,KING (V.0.),,Thriller,bladetrinity,23,king_(v.0.)-bladetrinity
+476,JOHN,M,Romance,marleyme,651,john-marleyme
+477,VOICE,,Thriller,deepcover,25,voice-deepcover
+478,REPORTER #1,,Action,boondocksaints2allsaintsday,39,reporter_#1-boondocksaints2allsaintsday
+479,DIRECTOR GRACE,,Action,kingdomthe,126,director_grace-kingdomthe
+480,TAPP,,Crime,saw,149,tapp-saw
+481,LUCY,F,Adventure,despicableme2,327,lucy-despicableme2
+482,HOST,,Mystery,strangedays,25,host-strangedays
+483,TRENT,,Romance,youthinrevolt,36,trent-youthinrevolt
+484,CONTINUED:,NA,Mystery,redridinghood,76,continued:-redridinghood
+485,ZOEY,,Fantasy,christcomplex,608,zoey-christcomplex
+486,IRENA,,Adventure,waybackthe,45,irena-waybackthe
+487,COURFEYRAC,,Drama,lesmiserables,37,courfeyrac-lesmiserables
+488,ASHER,,Horror,bladetrinity,25,asher-bladetrinity
+489,DUNKIN DONUTS CASHIER,,Romance,yesman,25,dunkin_donuts_cashier-yesman
+490,BISHOP,,Horror,aliens,145,bishop-aliens
+491,STAN,,Sci-Fi,eternalsunshineofthespotlessmind,192,stan-eternalsunshineofthespotlessmind
+492,FAITH,,Mystery,strangedays,204,faith-strangedays
+493,HOST,,Action,strangedays,25,host-strangedays
+494,LEAVITT,,Thriller,kingdomthe,47,leavitt-kingdomthe
+495,VOICES,,Romance,anniehall,26,voices-anniehall
+496,WORF,,Drama,startreknemesis,117,worf-startreknemesis
+497,OPERATOR,,Crime,aliennation,38,operator-aliennation
+498,NURSE DEVINE,,Drama,hospitalthe,27,nurse_devine-hospitalthe
+499,DIVA,F,Comedy,fifthelementthe,36,diva-fifthelementthe
+500,FRAN (cont'd),F,Crime,heist,41,fran_(cont'd)-heist
+501,JAVIER,M,Romance,brokenembraces,24,javier-brokenembraces
+502,THE CAPTAIN,M,Mystery,citizenkane,30,the_captain-citizenkane
+503,CAROL,F,Romance,hannahandhersisters,41,carol-hannahandhersisters
+504,CORONER,F,Crime,insomnia,21,coroner-insomnia
+505,ETHAN,M,Western,searchersthe,765,ethan-searchersthe
+506,SENATOR MALCOLM,M,Drama,minorityreport,67,senator_malcolm-minorityreport
+507,JEREMY,M,Sci-Fi,sdarko,303,jeremy-sdarko
+508,JEN,F,Thriller,super8,40,jen-super8
+509,BREE,F,Thriller,klute,989,bree-klute
+510,BTT,M,Comedy,snatch,327,btt-snatch
+511,DIETER,M,Romance,readerthe,82,dieter-readerthe
+512,SONNY,M,Drama,godfatherpartii,21,sonny-godfatherpartii
+513,TIGRESS,F,Comedy,kungfupanda,109,tigress-kungfupanda
+514,ANNIE,F,Comedy,anniehall,1362,annie-anniehall
+515,ARN,M,Action,irobot,30,arn-irobot
+516,KRISTEL,F,Adventure,cliffhanger,87,kristel-cliffhanger
+517,CARA,F,Thriller,touristthe,404,cara-touristthe
+518,ATASHIR,M,Comedy,hangoverthe,26,atashir-hangoverthe
+519,GIRL,F,Film-Noir,sweetsmellofsuccess,21,girl-sweetsmellofsuccess
+520,MAN,M,Drama,fourrooms,113,man-fourrooms
+521,NURSE RANDALL,F,Drama,mygirl,23,nurse_randall-mygirl
+522,DR. MONTGOMERY,M,Drama,changeling,28,dr._montgomery-changeling
+523,GLADYS,F,Crime,manhattanmurdermystery,34,gladys-manhattanmurdermystery
+524,LYMAN,M,Drama,starman,69,lyman-starman
+525,RAMONA,F,Comedy,scottpilgrimvstheworld,218,ramona-scottpilgrimvstheworld
+526,STRIDER,M,Adventure,lordoftheringsfellowshipoftheringthe,103,strider-lordoftheringsfellowshipoftheringthe
+527,DETECTIVE NEAL DOMGAARD,M,Drama,mulhollanddrive,53,detective_neal_domgaard-mulhollanddrive
+528,TESS,F,Comedy,dropdeadgorgeous,32,tess-dropdeadgorgeous
+529,ZUZU,F,Family,itsawonderfullife,25,zuzu-itsawonderfullife
+530,LONG,M,Crime,jfk,65,long-jfk
+531,ELAINE'S VOICE,F,Comedy,graduatethe,26,elaine's_voice-graduatethe
+532,WILLY,M,Drama,backdraft,32,willy-backdraft
+533,HENRY,M,Fantasy,frankenstein,227,henry-frankenstein
+534,SOKAL,M,Drama,cincinnatikidthe,52,sokal-cincinnatikidthe
+535,MARGARET,F,Action,getcarter,67,margaret-getcarter
+536,PISCANMOTHER,F,Crime,casino,51,piscanmother-casino
+537,FRANK D'IGNAZIO,M,Thriller,minorityreport,65,frank_d'ignazio-minorityreport
+538,GLORIA,F,Horror,heavymetal,41,gloria-heavymetal
+539,EGYPTOLOGIST,M,Horror,mummythe,33,egyptologist-mummythe
+540,LUISA,F,Romance,nine,128,luisa-nine
+541,GENERAL SLATER,M,Drama,fromheretoeternity,26,general_slater-fromheretoeternity
+542,MR. GIBBONS,M,Horror,finaldestination2,39,mr._gibbons-finaldestination2
+543,DON PRICE,M,Comedy,bigfish,34,don_price-bigfish
+544,THORKEL,M,Sci-Fi,spiderman,123,thorkel-spiderman
+545,BURT,M,Thriller,memento,85,burt-memento
+546,DJ,M,Sci-Fi,eventhorizon,140,dj-eventhorizon
+547,ED'S VOICE,M,Drama,edwood,27,ed's_voice-edwood
+548,LOUNDS,M,Thriller,manhunter,111,lounds-manhunter
+549,(BEAT),,Family,sandlotkidsthe,196,(beat)-sandlotkidsthe
+550,BIALYSTOCK AND BLOOM,M,Musical,producerthe,30,bialystock_and_bloom-producerthe
+551,MRS. MUNSON,F,Comedy,ladykillersthe,511,mrs._munson-ladykillersthe
+552,CODY,M,Drama,lonestar,41,cody-lonestar
+553,CLERK,M,Thriller,fatalinstinct,22,clerk-fatalinstinct
+554,JOEL,M,Thriller,scream2,57,joel-scream2
+555,ANDREA,F,Drama,butterflyeffectthe,211,andrea-butterflyeffectthe
+556,FIRST POLICEMAN,M,Thriller,mutewitness,37,first_policeman-mutewitness
+557,GIGI,F,Comedy,hesjustnotthatintoyou,682,gigi-hesjustnotthatintoyou
+558,L.C.,,Drama,fasttimesatridgemonthigh,36,l.c.-fasttimesatridgemonthigh
+559,LIEUTENANT COLONEL,M,Romance,fromheretoeternity,24,lieutenant_colonel-fromheretoeternity
+560,LIEUTENANT GLASER,M,Crime,minorityreport,38,lieutenant_glaser-minorityreport
+561,CONDUCTOR,M,Drama,stingthe,26,conductor-stingthe
+562,KIRKHILL,M,Action,rambofirstbloodiithemission,263,kirkhill-rambofirstbloodiithemission
+563,LARRY,M,Comedy,election,51,larry-election
+564,LUCIFER,M,Thriller,prophecythe,86,lucifer-prophecythe
+565,RAYMOND,M,Action,metro,43,raymond-metro
+566,GRIMSRUD,M,Thriller,fargo,34,grimsrud-fargo
+567,WOMAN,F,Action,logansrun,23,woman-logansrun
+568,CARL ELWAY,M,Crime,americanhustle,61,carl_elway-americanhustle
+569,HARRIET,F,Thriller,soimarriedanaxemurderer,589,harriet-soimarriedanaxemurderer
+570,DR. LECTER,M,Crime,silenceofthelambs,574,dr._lecter-silenceofthelambs
+571,BILL,M,Drama,edwardscissorhands,54,bill-edwardscissorhands
+572,ASMINE walking through the street.),F,Family,aladdin,22,asmine_walking_through_the_street.)-aladdin
+573,"NARRATOR: The next day, after school, I went to",,Mystery,whiteribbonthe,23,"narrator:_the_next_day,_after_school,_i_went_to-whiteribbonthe"
+574,ANNA,F,Drama,nottinghill,667,anna-nottinghill
+575,PAUL (voice over),M,Comedy,manhattanmurdermystery,50,paul_(voice_over)-manhattanmurdermystery
+576,BILLY,M,Crime,bonnieandclyde,23,billy-bonnieandclyde
+577,MAYOR,M,Comedy,stateandmain,95,mayor-stateandmain
+578,CHARLES,M,Crime,observeandreport,81,charles-observeandreport
+579,STEPHANIE,F,Romance,nine,69,stephanie-nine
+580,CAB DRIVER,M,Comedy,arsenicandoldlace,52,cab_driver-arsenicandoldlace
+581,MATT,M,Thriller,gravity,519,matt-gravity
+582,JUDGE FELDMAN,M,Drama,fracture,38,judge_feldman-fracture
+583,PETERS,F,Sci-Fi,eventhorizon,246,peters-eventhorizon
+584,ZACK,M,Thriller,lifeofdavidgalethe,352,zack-lifeofdavidgalethe
+585,EVAN,M,Adventure,cliffhanger,21,evan-cliffhanger
+586,STEELE,,Adventure,castaway,23,steele-castaway
+587,FARAMIR,M,Fantasy,lordoftheringsthetwotowers,27,faramir-lordoftheringsthetwotowers
+588,TRINITY,F,Action,matrixthe,336,trinity-matrixthe
+589,SYLVIA,F,Comedy,dogdayafternoon,152,sylvia-dogdayafternoon
+590,SYKES,F,Drama,smokinaces,226,sykes-smokinaces
+591,ADAM,M,Comedy,verybadthings,390,adam-verybadthings
+592,VOLUMNIA,F,Thriller,coriolanus,71,volumnia-coriolanus
+593,CRABBY,M,Animation,cars2,25,crabby-cars2
+594,BUNUEL,M,Drama,henryfool,70,bunuel-henryfool
+595,KRUGER,M,Sci-Fi,airplane2thesequel,91,kruger-airplane2thesequel
+596,GUDGE,M,Crime,ladykillersthe,32,gudge-ladykillersthe
+597,ADRIAN,M,Sci-Fi,2012,344,adrian-2012
+598,HIGHWAY PATROLMAN,M,Drama,fearandloathinginlasvegas,35,highway_patrolman-fearandloathinginlasvegas
+599,EXECUTIVE 1,M,Drama,simone,21,executive_1-simone
+600,LENA,F,Thriller,thelmalouise,24,lena-thelmalouise
+601,ANGLO MOTHER,F,Crime,lonestar,26,anglo_mother-lonestar
+602,CASINO EMPLOYEE,M,Drama,smokinaces,38,casino_employee-smokinaces
+603,JENNY,F,Fantasy,bigfish,239,jenny-bigfish
+604,KAY-EM 14,F,Action,jasonx,230,kay-em_14-jasonx
+605,HIK,,Adventure,dragonslayer,69,hik-dragonslayer
+606,KUATO,M,Adventure,totalrecall,72,kuato-totalrecall
+607,CHARLES,M,Mystery,super8,446,charles-super8
+608,DAVID,M,Sci-Fi,prometheus,247,david-prometheus
+609,HULL,M,Comedy,beingthere,26,hull-beingthere
+610,DAVID 0. SELZNICK,M,Drama,rko281,22,david_0._selznick-rko281
+611,HENRYK,M,War,pianistthe,178,henryk-pianistthe
+612,ELROND (cont'd),M,Adventure,lordoftheringsreturnoftheking,24,elrond_(cont'd)-lordoftheringsreturnoftheking
+613,HAM,M,Drama,sandlotkidsthe,160,ham-sandlotkidsthe
+614,MATT (cont'd),M,Sci-Fi,hollowman,36,matt_(cont'd)-hollowman
+615,SALLAH,M,Adventure,indianajonesandtheraidersofthelostark,76,sallah-indianajonesandtheraidersofthelostark
+616,HOOKER,F,Comedy,stingthe,609,hooker-stingthe
+617,JOHN,M,Horror,whenastrangercalls,180,john-whenastrangercalls
+618,BIGGS,M,Thriller,bodyofevidence,99,biggs-bodyofevidence
+619,SCHERNER,M,War,schindlerslist,39,scherner-schindlerslist
+620,NIKOLAI,M,Comedy,jennifersbody,124,nikolai-jennifersbody
+621,MRS. LEFFERTS,F,Drama,laconfidential,65,mrs._lefferts-laconfidential
+622,STANLEY,M,Comedy,manonthemoon,68,stanley-manonthemoon
+623,ROSA'S MOTHER,F,Romance,lasttangoinparis,85,rosa's_mother-lasttangoinparis
+624,RAMONA,F,Crime,intolerablecruelty,53,ramona-intolerablecruelty
+625,SZPILMAN,M,Drama,pianistthe,446,szpilman-pianistthe
+626,CHET,M,Thriller,lastboyscoutthe,39,chet-lastboyscoutthe
+627,CHLOE,F,Comedy,trumanshowthe,108,chloe-trumanshowthe
+628,LUCINDA'S SON,M,Western,tombstone,21,lucinda's_son-tombstone
+629,BEN,M,Comedy,hesjustnotthatintoyou,280,ben-hesjustnotthatintoyou
+630,NARRATOR,M,Romance,moonrisekingdom,70,narrator-moonrisekingdom
+631,SHORT SCIENTIST,M,Adventure,losersthe,62,short_scientist-losersthe
+632,GOYAL,M,Thriller,touristthe,44,goyal-touristthe
+633,MIKE,M,Adventure,whitesquall,83,mike-whitesquall
+634,ROK,M,Sci-Fi,airplane2thesequel,35,rok-airplane2thesequel
+635,PAUL,M,Music,doorsthe,62,paul-doorsthe
+636,MR. MILLER,M,Fantasy,butterflyeffectthe,91,mr._miller-butterflyeffectthe
+637,MARKE,M,Romance,tristanandisolde,135,marke-tristanandisolde
+638,JEAN,F,Fantasy,jacketthe,24,jean-jacketthe
+639,MALCOLM X,M,Drama,ali,176,malcolm_x-ali
+640,PRIVATE MILLER,M,Comedy,pineappleexpress,23,private_miller-pineappleexpress
+641,WAYNE SCOTT,M,Action,megamind,89,wayne_scott-megamind
+642,ARAMIS,M,Drama,manintheironmask,430,aramis-manintheironmask
+643,MAX,M,Crime,losersthe,239,max-losersthe
+644,BLURR,M,Action,transformersthemovie,21,blurr-transformersthemovie
+645,SIMON,M,Romance,autumninnewyork,104,simon-autumninnewyork
+646,DR. GELLER,M,Comedy,edtv,34,dr._geller-edtv
+647,MR. DUDLEY,M,Horror,hauntingthe,57,mr._dudley-hauntingthe
+648,JACK,M,Romance,airplane,26,jack-airplane
+649,YOUNG WOMAN,F,Romance,broadcastnews,47,young_woman-broadcastnews
+650,GIBBS,M,Action,piratesofthecaribbeandeadmanschest,232,gibbs-piratesofthecaribbeandeadmanschest
+651,GREER,M,Adventure,ghostship,325,greer-ghostship
+652,AL,M,Action,breakdown,29,al-breakdown
+653,MOTHER,F,Drama,vforvendetta,62,mother-vforvendetta
+654,HUDD,M,Drama,gangrelated,21,hudd-gangrelated
+655,BOBBY,M,Comedy,backupplanthe,204,bobby-backupplanthe
+656,EASTER,F,Drama,meetjoeblack,78,easter-meetjoeblack
+657,GREGOIRE,M,Drama,hotelrwanda,39,gregoire-hotelrwanda
+658,WISHFUL,F,Animation,happyfeet,87,wishful-happyfeet
+659,COMPUTER VOICE,,Thriller,jasonx,25,computer_voice-jasonx
+660,LEBI,M,Mystery,biglebowskithe,167,lebi-biglebowskithe
+661,PADICHE,M,Drama,smokinaces,98,padiche-smokinaces
+662,DISSOLVE TO:,,Drama,perfectcreature,122,dissolve_to:-perfectcreature
+663,MARY LAZARUS,F,Musical,sisteract,115,mary_lazarus-sisteract
+664,CORRADO,M,Thriller,avventuraltheadventure,150,corrado-avventuraltheadventure
+665,DAPPER GENT,M,Action,ronin,25,dapper_gent-ronin
+666,COFFEY,M,Action,abyssthe,141,coffey-abyssthe
+667,JEREMY,M,Thriller,unbreakable,86,jeremy-unbreakable
+668,NAT,F,Thriller,takeshelter,25,nat-takeshelter
+669,RED DOG,M,Comedy,almostfamous,22,red_dog-almostfamous
+670,CLAY,M,Action,hellboy,82,clay-hellboy
+671,GUARD,M,Crime,midnightexpress,26,guard-midnightexpress
+672,REF,M,Comedy,replacementsthe,38,ref-replacementsthe
+673,DUSTY,M,Crime,sdarko,32,dusty-sdarko
+674,DEANNA,F,Drama,godfatherpartii,59,deanna-godfatherpartii
+675,MR. BOATS,M,Drama,americansplendor,42,mr._boats-americansplendor
+676,JIMMY PIG,M,Action,soldier,47,jimmy_pig-soldier
+677,JEN,F,Drama,burningannie,24,jen-burningannie
+678,ALLISON,F,Horror,hellraiserhellseeker,216,allison-hellraiserhellseeker
+679,CHARLIE,M,Drama,blackrain,241,charlie-blackrain
+680,PATCHETT,M,Mystery,laconfidential,108,patchett-laconfidential
+681,LION,M,Adventure,wizardofozthe,328,lion-wizardofozthe
+682,RACHEL,F,Mystery,hanna,36,rachel-hanna
+683,KELLY,F,Thriller,fugitivethe,28,kelly-fugitivethe
+684,CHARLOTTE,F,Drama,autumninnewyork,903,charlotte-autumninnewyork
+685,MONICA,F,Drama,confessionsofadangerousmind,28,monica-confessionsofadangerousmind
+686,ANNOUNCER,M,Comedy,hudsuckerproxythe,39,announcer-hudsuckerproxythe
+687,GALE,F,Horror,scream2,296,gale-scream2
+688,BLANE,M,Drama,spartan,27,blane-spartan
+689,MANTIS,M,Comedy,kungfupanda,47,mantis-kungfupanda
+690,JERRY'S VOICE,M,Drama,jerrymaguire,124,jerry's_voice-jerrymaguire
+691,A.D.,F,Drama,battleofshakerheightsthe,43,a.d.-battleofshakerheightsthe
+692,MR. WILLIS,M,Horror,houseof1000corpses,106,mr._willis-houseof1000corpses
+693,GIRL,F,Thriller,brokenembraces,22,girl-brokenembraces
+694,LAMA SU,M,Fantasy,starwarsattackoftheclones,89,lama_su-starwarsattackoftheclones
+695,BMAN,M,Action,feast,144,bman-feast
+696,MR. GIVINGS,M,Romance,revolutionaryroad,30,mr._givings-revolutionaryroad
+697,KARLA (cont'd),F,Horror,istillknowwhatyoudidlastsummer,45,karla_(cont'd)-istillknowwhatyoudidlastsummer
+698,SARAH,F,Comedy,intolerablecruelty,92,sarah-intolerablecruelty
+699,TRACY,F,Horror,roommatethe,42,tracy-roommatethe
+700,OTTO,M,Sci-Fi,repoman,460,otto-repoman
+701,WAITRESS,F,Fantasy,jacketthe,154,waitress-jacketthe
+702,SHELLEY,F,Mystery,gothika,104,shelley-gothika
+703,MISS SELLERS,F,Thriller,bodyofevidence,46,miss_sellers-bodyofevidence
+704,TRAVIS (CONTD),M,Crime,taxidriver,35,travis_(contd)-taxidriver
+705,ELLIS LOEW,M,Drama,blackdahliathe,97,ellis_loew-blackdahliathe
+706,DUFFY,,Drama,boondocksaints2allsaintsday,116,duffy-boondocksaints2allsaintsday
+707,CHON,,Romance,brokenembraces,102,chon-brokenembraces
+708,DMITRI,,Drama,lordofwar,53,dmitri-lordofwar
+709,CAMEL,,Romance,waterforelephants,35,camel-waterforelephants
+710,WAITER,,Comedy,inventionoflyingthe,38,waiter-inventionoflyingthe
+711,QUANTZ,,Adventure,tronlegacy,24,quantz-tronlegacy
+712,MARANDINO,,Drama,badcountry,94,marandino-badcountry
+713,MULLR0Y,,Adventure,piratesofthecaribbean,31,mullr0y-piratesofthecaribbean
+714,REGGIE'S VOICE,,Thriller,charade,46,reggie's_voice-charade
+715,TIDWELL,,Romance,jerrymaguire,432,tidwell-jerrymaguire
+716,NURSE,,Horror,perfectcreature,32,nurse-perfectcreature
+717,NAIR,,War,fromheretoeternity,40,nair-fromheretoeternity
+718,BANK MANAGER,,Drama,killingzoe,27,bank_manager-killingzoe
+719,CATHERINE,,Drama,storytelling,34,catherine-storytelling
+720,NEFF'S VOICE,,Drama,doubleindemnity,341,neff's_voice-doubleindemnity
+721,AHMED,,Thriller,babel,141,ahmed-babel
+722,HAWKINS,,Sci-Fi,predator,31,hawkins-predator
+723,BENVOLIO,,Crime,romeojuliet,121,benvolio-romeojuliet
+724,STAGE AGENT,,Western,tallinthesaddle,33,stage_agent-tallinthesaddle
+725,BATMAN,,Crime,darkknightrisesthe,143,batman-darkknightrisesthe
+726,AXE,,Drama,backdraft,178,axe-backdraft
+727,SECURITY TFM,,Drama,fightclub,28,security_tfm-fightclub
+728,LORRAINE,,Horror,insidious,95,lorraine-insidious
+729,RAMON,,Drama,musicoftheheart,46,ramon-musicoftheheart
+730,GENERAL,,War,battleofalgiersthe,32,general-battleofalgiersthe
+731,(YELLING),,Comedy,silverliningsplaybook,58,(yelling)-silverliningsplaybook
+732,PASTOR KRAUSE,,Crime,machinegunpreacher,26,pastor_krause-machinegunpreacher
+733,DEATH,,Comedy,monkeybone,83,death-monkeybone
+734,LIONEL,,Crime,confidence,24,lionel-confidence
+735,ROSALIE,,Fantasy,twilightnewmoon,45,rosalie-twilightnewmoon
+736,REX,,Fantasy,toystory,146,rex-toystory
+737,TRACY,,Thriller,hangoverthe,53,tracy-hangoverthe
+738,INT. VALERIE'S FRONT ROOM. DAY,,Thriller,shifty,30,int._valerie's_front_room._day-shifty
+739,LUKE,,Action,starwarstheempirestrikesback,398,luke-starwarstheempirestrikesback
+740,MEKUM/VIDEO IMAGE,,Action,soldier,33,mekum/video_image-soldier
+741,MISS ADRIAN,,Romance,evencowgirlsgettheblues,98,miss_adrian-evencowgirlsgettheblues
+742,A AS JULIET,,Comedy,shakespeareinlove,26,a_as_juliet-shakespeareinlove
+743,POOMINA,,Drama,cityofjoy,26,poomina-cityofjoy
+744,MUDDY,,Comedy,beavisandbuttheaddoamerica,85,muddy-beavisandbuttheaddoamerica
+745,ELLE,,Drama,candletowater,56,elle-candletowater
+746,VUKOVICH,,Romance,terminator,147,vukovich-terminator
+747,DRUMGO,,Horror,hannibal,30,drumgo-hannibal
+748,SYKES,,Crime,smokinaces,226,sykes-smokinaces
+749,SAMANTHA,,Thriller,obsessed,34,samantha-obsessed
+750,WILKINSON,,Comedy,replacementsthe,25,wilkinson-replacementsthe
+751,DANNY,,Comedy,oceanstwelve,458,danny-oceanstwelve
+752,GEORGE,,Comedy,pleasantville,134,george-pleasantville
+753,FRED (cont'd),,Drama,insomnia,29,fred_(cont'd)-insomnia
+754,JACK,,Drama,boogienights,645,jack-boogienights
+755,DANIELS,,Action,mummythe,55,daniels-mummythe
+756,SARAH,,Thriller,jacobsladder,43,sarah-jacobsladder
+757,JACKIE KENNEDY,,Mystery,jfk,109,jackie_kennedy-jfk
+758,DENISE,,Comedy,stuntmanthe,76,denise-stuntmanthe
+759,JUAN,,Mystery,tallinthesaddle,43,juan-tallinthesaddle
+760,KAI,,Animation,frozendisney,32,kai-frozendisney
+761,STRANGER,,Crime,stingthe,63,stranger-stingthe
+762,NILSEN,,Thriller,basicinstinct,29,nilsen-basicinstinct
+763,AGENT HADLEY,,Crime,crimespree,215,agent_hadley-crimespree
+764,DOC RIDING,,Mystery,tallinthesaddle,52,doc_riding-tallinthesaddle
+765,JACK,,Drama,42,230,jack-42
+766,AUNT BARBARA,,Thriller,bluevelvet,38,aunt_barbara-bluevelvet
+767,(OVER RADIO),,Crime,darkknightrisesthe,29,(over_radio)-darkknightrisesthe
+768,DREW,,Comedy,newyorkminute,765,drew-newyorkminute
+769,MORRISON,,Sci-Fi,terminatorsalvation,40,morrison-terminatorsalvation
+770,MIKE,,Horror,jaws2,186,mike-jaws2
+771,"O'Ryan lunges forward like an animal, throwing his cuffed",,Drama,suspectzero,22,"o'ryan_lunges_forward_like_an_animal,_throwing_his_cuffed-suspectzero"
+772,JIGSAW,,Mystery,saw,166,jigsaw-saw
+773,DIETRICH,,Thriller,faceoff,60,dietrich-faceoff
+774,BETH,,Comedy,celestejesseforever,83,beth-celestejesseforever
+775,DAVID,,Fantasy,fifthelementthe,39,david-fifthelementthe
+776,AMBER,,Comedy,dropdeadgorgeous,386,amber-dropdeadgorgeous
+777,DOLPHINE,,Thriller,blackdahliathe,45,dolphine-blackdahliathe
+778,GRACCHUS,,Drama,gladiator,135,gracchus-gladiator
+779,FATHER,,Romance,frankenstein,59,father-frankenstein
+780,JACK,,Thriller,afterlife,81,jack-afterlife
+781,CRAWFORD,,Horror,silenceofthelambs,536,crawford-silenceofthelambs
+782,MILTON,,Drama,simone,52,milton-simone
+783,LARKIN,,Horror,crowsalvationthe,47,larkin-crowsalvationthe
+784,IKE (cont'd),,Romance,runawaybride,128,ike_(cont'd)-runawaybride
+785,SOMMERFIELD,,Horror,bladetrinity,100,sommerfield-bladetrinity
+786,LOC RHOD,,Comedy,fifthelementthe,257,loc_rhod-fifthelementthe
+787,ARAGORN,,Action,lordoftheringsfellowshipoftheringthe,142,aragorn-lordoftheringsfellowshipoftheringthe
+788,BEGIN TITLES.,,Thriller,suspectzero,21,begin_titles.-suspectzero
+789,MANTIS,,Family,kungfupanda,47,mantis-kungfupanda
+790,CHOI YAN LEE,,Crime,onlygodforgives,23,choi_yan_lee-onlygodforgives
+791,OTIS,,Horror,houseof1000corpses,235,otis-houseof1000corpses
+792,MATER,,Action,cars2,830,mater-cars2
+793,AGENT,,Thriller,spartan,26,agent-spartan
+794,DAVE,,Drama,littleathens,83,dave-littleathens
+795,BUMBLEBEE,,Family,transformersthemovie,21,bumblebee-transformersthemovie
+796,LAURA,,Crime,fatalinstinct,289,laura-fatalinstinct
+797,LUDLOW (cont'd),,Thriller,jurassicparkthelostworld,61,ludlow_(cont'd)-jurassicparkthelostworld
+798,ASSUNTA,,Drama,musicoftheheart,78,assunta-musicoftheheart
+799,BOB ANDERS,,Thriller,argo,27,bob_anders-argo
+800,VULTAN,,Fantasy,flashgordon,75,vultan-flashgordon
+801,RANDY,,Romance,airplane,126,randy-airplane
+802,BANE,,Action,darkknightrisesthe,364,bane-darkknightrisesthe
+803,VIRGIL,,Action,tombstone,138,virgil-tombstone
+804,MOTHER,,Drama,pianistthe,70,mother-pianistthe
+805,- - P L E A S U R E PARTNER SELECTED; PROGRAM COMMENCING...,NA,Thriller,islandthe,32,-_-_p_l_e_a_s_u_r_e_partner_selected;_program_commencing...-islandthe
+806,DOUG,,Thriller,jacobsladder,35,doug-jacobsladder
+807,AVA,,Thriller,lordofwar,181,ava-lordofwar
+808,SOLDIER,,Action,getawaythe,31,soldier-getawaythe
+809,DEANNA,,Sci-Fi,startreknemesis,125,deanna-startreknemesis
+810,RAQUEL,,Horror,losthighway,22,raquel-losthighway
+811,COWBOY (cont'd),,Thriller,mulhollanddrive,28,cowboy_(cont'd)-mulhollanddrive
+812,(OC),,Drama,badlieutenant,30,(oc)-badlieutenant
+813,MOTHER,,Family,itsawonderfullife,31,mother-itsawonderfullife
+814,BARTHA,,Drama,sweetsmellofsuccess,60,bartha-sweetsmellofsuccess
+815,CHOIR TEACHER,,Comedy,americanpie,25,choir_teacher-americanpie
+816,MANAGER,,Drama,americangraffiti,73,manager-americangraffiti
+817,ISHERWOOD,,Action,rockthe,31,isherwood-rockthe
+818,DRUNK,,Romance,birdsthe,33,drunk-birdsthe
+819,MARIA,,Drama,philadelphia,25,maria-philadelphia
+820,HANS,,Comedy,frozendisney,226,hans-frozendisney
+821,HAHN,,Drama,changeling,153,hahn-changeling
+822,O-REN (JAPANESE),,Thriller,killbillvolume12,64,o-ren_(japanese)-killbillvolume12
+823,DOM PAULO,,Comedy,beinghuman,261,dom_paulo-beinghuman
+824,DEUTSCH,,Thriller,bartonfink,71,deutsch-bartonfink
+825,HENRY,,Thriller,stuntmanthe,80,henry-stuntmanthe
+826,PATRICK,,Romance,faultinourstarsthe,37,patrick-faultinourstarsthe
+827,FATHER,,Action,stuntmanthe,26,father-stuntmanthe
+828,ROBBIE,,Adventure,waroftheworlds,202,robbie-waroftheworlds
+829,DREW (cont'D),,Romance,meetjoeblack,22,drew_(cont'd)-meetjoeblack
+830,GRACE,,Action,avatar,434,grace-avatar
+831,LAMAR,,Drama,silenceofthelambs,23,lamar-silenceofthelambs
+832,NEWT,,Horror,aliens,140,newt-aliens
+833,BANKY,,Comedy,chasingamy,779,banky-chasingamy
+834,JACK,,Drama,revolutionaryroad,55,jack-revolutionaryroad
+835,DOCTOR GILCHRIST,,Comedy,arsenicandoldlace,29,doctor_gilchrist-arsenicandoldlace
+836,MOTHER,,Biography,pianistthe,70,mother-pianistthe
+837,MAN,,Drama,anonymous,33,man-anonymous
+838,BERNSTEIN,,Drama,allthepresidentsmen,800,bernstein-allthepresidentsmen
+839,TAVIS SMILEY,,Comedy,bamboozled,45,tavis_smiley-bamboozled
+840,VINCE,,Musical,sisteract,231,vince-sisteract
+841,LENORE,,Comedy,forrestgump,30,lenore-forrestgump
+842,FRICK,,Action,batman2,29,frick-batman2
+843,POOCH,,Action,losersthe,252,pooch-losersthe
+844,DOC,,Western,baddayatblackrock,370,doc-baddayatblackrock
+845,GENERAL GREY,,Sci-Fi,independenceday,212,general_grey-independenceday
+846,WYMAN,,Comedy,smokinaces,56,wyman-smokinaces
+847,WILLIAM,,Drama,braveheart,144,william-braveheart
+848,PENNY LANE (cont'd),,Comedy,almostfamous,24,penny_lane_(cont'd)-almostfamous
+849,HELEN,,Sci-Fi,vforvendetta,253,helen-vforvendetta
+850,KAUFMAN,,Horror,landofthedead,170,kaufman-landofthedead
+851,RAY,,Drama,fieldofdreams,448,ray-fieldofdreams
+852,YOUNG MAN,,Mystery,biglebowskithe,60,young_man-biglebowskithe
+853,HILDY,,Romance,hisgirlfriday,1610,hildy-hisgirlfriday
+854,SHELLEY,,Thriller,gothika,104,shelley-gothika
+855,LEE (cont'd),,Crime,blackdahliathe,32,lee_(cont'd)-blackdahliathe
+856,COUNT DOOKU,,Sci-Fi,starwarsattackoftheclones,110,count_dooku-starwarsattackoftheclones
+857,VERONICA,,Mystery,blackswan,38,veronica-blackswan
+858,MOTHER,,Drama,brokenembraces,47,mother-brokenembraces
+859,DR. KEEGAN,,Romance,marty,61,dr._keegan-marty
+860,BOEMAN,,Action,jasonx,255,boeman-jasonx
+861,VOICE,,Crime,deepcover,25,voice-deepcover
+862,AUTUMN,,Drama,programthe,187,autumn-programthe
+863,DELONGPRE,,Thriller,jasonx,286,delongpre-jasonx
+864,ALGREN,,Thriller,48hrs,28,algren-48hrs
+865,HOST,,Drama,edwood,26,host-edwood
+866,CHANI,,Sci-Fi,dune,37,chani-dune
+867,MR. STERNER,,Crime,serialmom,50,mr._sterner-serialmom
+868,CHRISSY,,Drama,moonstruck,42,chrissy-moonstruck
+869,SMITH,,Comedy,mrblandingsbuildshisdreamhouse,93,smith-mrblandingsbuildshisdreamhouse
+870,REPORTER,,Romance,wildatheart,26,reporter-wildatheart
+871,GORGEGEORGE,,Comedy,snatch,46,gorgegeorge-snatch
+872,SECRETARY,,Thriller,crowsalvationthe,48,secretary-crowsalvationthe
+873,TINA,,Adventure,jaws2,62,tina-jaws2
+874,JOHN,,Adventure,whitesquall,216,john-whitesquall
+875,ROSALYN ROSENFELD,,Crime,americanhustle,447,rosalyn_rosenfeld-americanhustle
+876,CLARENCE,,Fantasy,itsawonderfullife,269,clarence-itsawonderfullife
+877,VOICE-OVER,,Romance,eternalsunshineofthespotlessmind,172,voice-over-eternalsunshineofthespotlessmind
+878,LENNY MEYER,,Thriller,pi,251,lenny_meyer-pi
+879,GRACE,,Drama,horsewhispererthe,451,grace-horsewhispererthe
+880,LYOSHA,,Thriller,mutewitness,53,lyosha-mutewitness
+881,MARCO,,Crime,colombiana,257,marco-colombiana
+882,ASHLY glances to the grave and sees LINDA's necklace on,,Fantasy,evildead,38,ashly_glances_to_the_grave_and_sees_linda's_necklace_on-evildead
+883,SYDNEY,,Romance,zerophilia,373,sydney-zerophilia
+884,PHARMACIST,,Thriller,signs,24,pharmacist-signs
+885,FRANK,,Drama,asgoodasitgets,138,frank-asgoodasitgets
+886,SWANN,,Fantasy,lordofillusions,230,swann-lordofillusions
+887,CHRIS,,Thriller,walkingtall,394,chris-walkingtall
+888,SOLOMON,,Mystery,redridinghood,79,solomon-redridinghood
+889,CHESWICK,,Drama,oneflewoverthecuckoosnest,81,cheswick-oneflewoverthecuckoosnest
+890,HOSTESS,,Drama,bachelorpartythe,21,hostess-bachelorpartythe
+891,KEITH,,Crime,getcarter,90,keith-getcarter
+892,TEE PEE,,Drama,jerrymaguire,39,tee_pee-jerrymaguire
+893,MARGARET,,Drama,senseandsensibility,122,margaret-senseandsensibility
+894,JUNO,,Drama,juno,1208,juno-juno
+895,ZAINAB,,Drama,visitorthe,278,zainab-visitorthe
+896,WOODY (VOICE BOX),,Fantasy,toystory,43,woody_(voice_box)-toystory
+897,B&B,,Animation,beavisandbuttheaddoamerica,60,b&b-beavisandbuttheaddoamerica
+898,AARON,,Comedy,broadcastnews,856,aaron-broadcastnews
+899,TRUMAN,,Drama,trumanshowthe,794,truman-trumanshowthe
+900,KENNY,,Musical,detroitrockcity,83,kenny-detroitrockcity
+901,FILLMORE,,Action,cars2,22,fillmore-cars2
+902,ELINOR,,Comedy,senseandsensibility,693,elinor-senseandsensibility
+903,MOTHER,,Romance,barrylyndon,90,mother-barrylyndon
+904,COP,,Action,batman2,24,cop-batman2
+905,DAD,,Drama,warhorse,94,dad-warhorse
+906,LAMAR,,Horror,silenceofthelambs,23,lamar-silenceofthelambs
+907,ARCH,,Crime,fatalinstinct,84,arch-fatalinstinct
+908,SOL,,Romance,amour,76,sol-amour
+909,PETE,,Mystery,lonestar,44,pete-lonestar
+910,HOLLOWAY,,Sci-Fi,prometheus,359,holloway-prometheus
+911,AMADO,,Mystery,lonestar,63,amado-lonestar
+912,LAZARUS,,Drama,blacksnakemoan,1055,lazarus-blacksnakemoan
+913,SLIDER,,Drama,topgun,23,slider-topgun
+914,JAG LAWYER,,Mystery,basic,23,jag_lawyer-basic
+915,AIDE,,Adventure,airforceone,36,aide-airforceone
+916,VITTORIA (cont'd),,Mystery,angelsdemons,43,vittoria_(cont'd)-angelsdemons
+917,KNIGHT,,Drama,seventhsealthe,324,knight-seventhsealthe
+918,MILLER,,Thriller,eventhorizon,773,miller-eventhorizon
+919,MYSTERY MAN,,Crime,nickoftime,56,mystery_man-nickoftime
+920,KAREN,,Drama,punchdrunklove,28,karen-punchdrunklove
+921,PINA,,Thriller,brokenembraces,105,pina-brokenembraces
+922,MR. FELDMAN,,Comedy,edwood,41,mr._feldman-edwood
+923,CUT BACK TO:,,Action,cellular,37,cut_back_to:-cellular
+924,MITCHELL,,Crime,boondocksaintsthe,27,mitchell-boondocksaintsthe
+925,MAYFIELD,,Drama,arbitrage,48,mayfield-arbitrage
+926,GRINDLE,,Thriller,backdraft,71,grindle-backdraft
+927,GREGOR,,Thriller,ronin,214,gregor-ronin
+928,BLANE,,Thriller,heist,318,blane-heist
+929,MYSTERY MAN,,Horror,losthighway,31,mystery_man-losthighway
+930,(JAFAR looks down questioningly) You wanted to be a geni,,Fantasy,aladdin,26,(jafar_looks_down_questioningly)_you_wanted_to_be_a_geni-aladdin
+931,PATRICK,,War,barrylyndon,52,patrick-barrylyndon
+932,DUKE HAMMOND,,Drama,snowwhiteandthehuntsman,23,duke_hammond-snowwhiteandthehuntsman
+933,FANUCCI,,Drama,godfatherpartii,92,fanucci-godfatherpartii
+934,STANDARD,,Crime,drive,75,standard-drive
+935,OMITTED,,Horror,grudgethe,44,omitted-grudgethe
+936,RANDALL,,Action,crowsalvationthe,71,randall-crowsalvationthe
+937,NARRATOR,,Family,sandlotkidsthe,251,narrator-sandlotkidsthe
+938,PRINCESS SHCHERBATSKY,,Drama,annakarenina,21,princess_shcherbatsky-annakarenina
+939,OLD MAN,,Adventure,logansrun,116,old_man-logansrun
+940,LANCE,,Comedy,battleofshakerheightsthe,99,lance-battleofshakerheightsthe
+941,RED,,Crime,pineappleexpress,245,red-pineappleexpress
+942,GINO,,Crime,bound,56,gino-bound
+943,CHLOE,,Thriller,gothika,156,chloe-gothika
+944,ROBERT STACK,,Drama,mumford,36,robert_stack-mumford
+945,THUFIR,,Sci-Fi,dune,71,thufir-dune
+946,DR. MARIA,,Romance,faultinourstarsthe,30,dr._maria-faultinourstarsthe
+947,DAD,,Action,walkingtall,51,dad-walkingtall
+948,ELAINE,,Drama,simone,583,elaine-simone
+949,CALLER,,Crime,stingthe,97,caller-stingthe
+950,BARMAN,,Romance,leavinglasvegas,26,barman-leavinglasvegas
+951,CARLA,,Comedy,evencowgirlsgettheblues,21,carla-evencowgirlsgettheblues
+952,MRS. COOK,,Comedy,mumford,60,mrs._cook-mumford
+953,ROSANNA,,Crime,manonfire,116,rosanna-manonfire
+954,KID,,Thriller,xxx,23,kid-xxx
+955,SUPERGIRL,,Sci-Fi,supergirl,114,supergirl-supergirl
+956,BELDAM,,Family,coraline,30,beldam-coraline
+957,JAKE,,Comedy,silverliningsplaybook,90,jake-silverliningsplaybook
+958,DOCTOR #1,,Drama,americansplendor,27,doctor_#1-americansplendor
+959,DOCTOR SHANNAN,,Thriller,takeshelter,47,doctor_shannan-takeshelter
+960,GEORGE,,Drama,zerodarkthirty,31,george-zerodarkthirty
+961,(WHISPERING),,Drama,silverliningsplaybook,27,(whispering)-silverliningsplaybook
+962,NORRINGTON,,Adventure,piratesofthecaribbean,258,norrington-piratesofthecaribbean
+963,BARRETT,,Action,batman2,26,barrett-batman2
+964,ALICIA,,Fantasy,fantasticfour,50,alicia-fantasticfour
+965,JOE (cont'd),,Romance,mulhollanddrive,22,joe_(cont'd)-mulhollanddrive
+966,KARL,,Thriller,diehard,51,karl-diehard
+967,BLAKE,,Crime,darkknightrisesthe,417,blake-darkknightrisesthe
+968,GANDHI'S VOICE,,Drama,gandhi,34,gandhi's_voice-gandhi
+969,QUINN,,Mystery,copycat,267,quinn-copycat
+970,CESAIRE,,Mystery,redridinghood,38,cesaire-redridinghood
+971,HAMM,,Comedy,toystory,87,hamm-toystory
+972,A MAN,,Romance,grandhotel,24,a_man-grandhotel
+973,ANABEL,,Action,mysterymen,23,anabel-mysterymen
+974,ABIGAIL,,Thriller,bladetrinity,91,abigail-bladetrinity
+975,TEDDY,,Crime,arsenicandoldlace,199,teddy-arsenicandoldlace
+976,STILLWELL,,Sci-Fi,prometheus,25,stillwell-prometheus
+977,CARLSON,,Fantasy,kateleopold,105,carlson-kateleopold
+978,JOHN DENVER,,Thriller,finaldestination,29,john_denver-finaldestination
+979,LINUS,,Crime,oceanstwelve,206,linus-oceanstwelve
+980,EDITH,,Drama,5050,181,edith-5050
+981,WAITRESS,,Drama,leavinglasvegas,28,waitress-leavinglasvegas
+982,MARC,,War,battleofalgiersthe,22,marc-battleofalgiersthe
+983,CLARENCE,,Drama,itsawonderfullife,269,clarence-itsawonderfullife
+984,VERONICA,,Comedy,silverliningsplaybook,91,veronica-silverliningsplaybook
+985,DENI,,Drama,walkingtall,52,deni-walkingtall
+986,TAKA,,Drama,lastsamuraithe,50,taka-lastsamuraithe
+987,MONK,,Action,americanshaolinkingofkickboxersii,55,monk-americanshaolinkingofkickboxersii
+988,ANNOUNCER,,Comedy,manonthemoon,31,announcer-manonthemoon
+989,MIKKELSON,,Action,hostage,27,mikkelson-hostage
+990,UNDERTAKER,,Comedy,grandtheftparsons,24,undertaker-grandtheftparsons
+991,-- CHATTERING out -- on police hea,,Drama,drywhiteseasona,27,--_chattering_out_--_on_police_hea-drywhiteseasona
+992,MCBRIDE,,Thriller,abyssthe,29,mcbride-abyssthe
+993,DICK,,Action,batman2,37,dick-batman2
+994,LINDA,,Drama,believerthe,35,linda-believerthe
+995,RICHIE DIMASO,,Crime,americanhustle,1040,richie_dimaso-americanhustle
+996,ASLAN,,Adventure,robinhoodprinceofthieves,321,aslan-robinhoodprinceofthieves
+997,KELLY HOUGE,,Action,fromdusktilldawn,93,kelly_houge-fromdusktilldawn
+998,KELLY,,Horror,promnight,25,kelly-promnight
+999,WATSON,,Drama,privatelifeofsherlockholmesthe,874,watson-privatelifeofsherlockholmesthe
+1000,JIM,,Crime,hardrain,350,jim-hardrain
+1001,EVE,,Thriller,faceoff,283,eve-faceoff
+1002,BUNUEL,,Comedy,henryfool,70,bunuel-henryfool
+1003,TREEBEARD,,Fantasy,lordoftheringsthetwotowers,30,treebeard-lordoftheringsthetwotowers
+1004,MRS. SINGLEMAN,,Romance,graduatethe,27,mrs._singleman-graduatethe
+1005,EARRING,,Thriller,ticker,30,earring-ticker
+1006,JOE,,Thriller,mulhollanddrive,37,joe-mulhollanddrive
+1007,MONICA,,Action,mysterymen,160,monica-mysterymen
+1008,BETTINA,,Drama,castaway,50,bettina-castaway
+1009,EGYPTOLOGIST,,Action,mummythe,33,egyptologist-mummythe
+1010,GIBBS,,Thriller,airforceone,106,gibbs-airforceone
+1011,DYLAN,,Thriller,suspectzero,42,dylan-suspectzero
+1012,ELIZABETH,,Drama,godfatherpartiiithe,36,elizabeth-godfatherpartiiithe
+1013,INGRID,,Drama,americanthe,29,ingrid-americanthe
+1014,CHICK,,Music,purplerain,21,chick-purplerain
+1015,CONTROLLER 2,,Sci-Fi,airplane2thesequel,42,controller_2-airplane2thesequel
+1016,TOMMY,,Thriller,carrie,470,tommy-carrie
+1017,ASAD,,Action,bladeii,48,asad-bladeii
+1018,PETERS,,Thriller,eventhorizon,246,peters-eventhorizon
+1019,MEGA,,Adventure,tronlegacy,282,mega-tronlegacy
+1020,"CAMERA PANS to show Nina among them, her excitement hardly more",,Adventure,stuntmanthe,28,"camera_pans_to_show_nina_among_them,_her_excitement_hardly_more-stuntmanthe"
+1021,ABBOTT,,Adventure,bourneidentitythe,91,abbott-bourneidentitythe
+1022,T.J.,,Action,someonetowatchoverme,56,t.j.-someonetowatchoverme
+1023,WILL,,Thriller,istillknowwhatyoudidlastsummer,269,will-istillknowwhatyoudidlastsummer
+1024,CHERYL stops.,,Horror,evildead,25,cheryl_stops.-evildead
+1025,ANCIENT SORTER,,Romance,hudsuckerproxythe,31,ancient_sorter-hudsuckerproxythe
+1026,WOMAN'S VOICE,,Action,legion,26,woman's_voice-legion
+1027,NOAH,,Sci-Fi,2012,78,noah-2012
+1028,MARIN,,Comedy,somethingsgottagive,490,marin-somethingsgottagive
+1029,KALLENBACH,,Drama,gandhi,52,kallenbach-gandhi
+1030,KUNTSLER,,Drama,boondocksaints2allsaintsday,68,kuntsler-boondocksaints2allsaintsday
+1031,QUEEN,,Adventure,heavymetal,60,queen-heavymetal
+1032,COOLEY,,Comedy,hisgirlfriday,25,cooley-hisgirlfriday
+1033,RANDOLPH,,Drama,afewgoodmen,156,randolph-afewgoodmen
+1034,"TICKETS for the rides and games, past the Cotton-Candy Guy.",,Thriller,suspectzero,21,"tickets_for_the_rides_and_games,_past_the_cotton-candy_guy.-suspectzero"
+1035,IKE,,Action,tombstone,71,ike-tombstone
+1036,KARL,,Sci-Fi,darkcity,26,karl-darkcity
+1037,THENARDIERS,,Drama,lesmiserables,29,thenardiers-lesmiserables
+1038,ADA (VO - Scs 2 to 7),,Drama,pianothe,25,ada_(vo_-_scs_2_to_7)-pianothe
+1039,CHAMBERS,,Comedy,cradle2thegrave,105,chambers-cradle2thegrave
+1040,STANDARD,,Horror,alien,967,standard-alien
+1041,MIRANDA (VO),,Crime,rushhour,35,miranda_(vo)-rushhour
+1042,HARRY,,Family,itsawonderfullife,84,harry-itsawonderfullife
+1043,RAY,,Crime,hardrain,68,ray-hardrain
+1044,LILLY,,Action,perfectcreature,578,lilly-perfectcreature
+1045,FRANK,,Comedy,youvegotmail,259,frank-youvegotmail
+1046,ALFREDO reacts like a wild,,Romance,cinemaparadiso,33,alfredo_reacts_like_a_wild-cinemaparadiso
+1047,KEOUGH,,Thriller,lakeplacid,453,keough-lakeplacid
+1048,LILY,,Sci-Fi,hottubtimemachine,37,lily-hottubtimemachine
+1049,D'ANGELO,,Film-Noir,sweetsmellofsuccess,205,d'angelo-sweetsmellofsuccess
+1050,JANUSZ,,Drama,waybackthe,218,janusz-waybackthe
+1051,RAMONA,,Mystery,blackdahliathe,47,ramona-blackdahliathe
+1052,CAMMERON,,Thriller,americanhistoryx,59,cammeron-americanhistoryx
+1053,REX,,Animation,toystory,146,rex-toystory
+1054,NATHAN,,Thriller,longkissgoodnightthe,154,nathan-longkissgoodnightthe
+1055,COSTA,,Horror,takinglives,511,costa-takinglives
+1056,MRS. FEUR,,Horror,whatliesbeneath,76,mrs._feur-whatliesbeneath
+1057,CLERK,,Drama,schindlerslist,32,clerk-schindlerslist
+1058,REINEMAN,,Romance,itsawonderfullife,33,reineman-itsawonderfullife
+1059,RUWEE,,Adventure,starwarsattackoftheclones,26,ruwee-starwarsattackoftheclones
+1060,CROWD,,Thriller,bodyguard,21,crowd-bodyguard
+1061,SALLAH,,Action,indianajonesandthelastcrusade,82,sallah-indianajonesandthelastcrusade
+1062,ALICE,,Thriller,losthighway,169,alice-losthighway
+1063,(CONTINUED),,Adventure,newyorkminute,176,(continued)-newyorkminute
+1064,BART,,Comedy,battleofshakerheightsthe,479,bart-battleofshakerheightsthe
+1065,HELLER,,Biography,pianistthe,50,heller-pianistthe
+1066,ENID,,Drama,ghostworld,1517,enid-ghostworld
+1067,SALLY,,Mystery,blackdahliathe,41,sally-blackdahliathe
+1068,DAPPER GENT,,Crime,ronin,25,dapper_gent-ronin
+1069,CLERK,,Drama,birdsthe,103,clerk-birdsthe
+1070,BEN,,Comedy,almostfamous,142,ben-almostfamous
+1071,LANDLADY,,Comedy,bountyhunterthe,31,landlady-bountyhunterthe
+1072,RIZZO,,Sci-Fi,jasonx,417,rizzo-jasonx
+1073,CHARLES,,Thriller,super8,446,charles-super8
+1074,RICHIE'S MOTHER,,Drama,americanhustle,25,richie's_mother-americanhustle
+1075,PAUL,,Family,threemenandababy,64,paul-threemenandababy
+1076,HADEN,,Thriller,48hrs,103,haden-48hrs
+1077,BROOKS,,Mystery,thunderheart,31,brooks-thunderheart
+1078,CASHIER,,Adventure,existenz,23,cashier-existenz
+1079,WILL (cont'd),,Thriller,istillknowwhatyoudidlastsummer,21,will_(cont'd)-istillknowwhatyoudidlastsummer
+1080,ATTORNEY,,Horror,copycat,46,attorney-copycat
+1081,WAITRESS,,Romance,leavinglasvegas,28,waitress-leavinglasvegas
+1082,GEORGE,,Comedy,runawaybride,31,george-runawaybride
+1083,SIDNEY,,Drama,awakenings,41,sidney-awakenings
+1084,BARTENDER,,Crime,suspectzero,28,bartender-suspectzero
+1085,ERIC,,Action,arcticblue,520,eric-arcticblue
+1086,KENDRA,,Drama,takeshelter,31,kendra-takeshelter
+1087,NICK,,Drama,itsawonderfullife,65,nick-itsawonderfullife
+1088,PLUMED DWARF,,Drama,elephantmanthe,34,plumed_dwarf-elephantmanthe
+1089,POLICEMAN,,Thriller,brokenembraces,21,policeman-brokenembraces
+1090,MATHILDA,,Drama,battleofshakerheightsthe,28,mathilda-battleofshakerheightsthe
+1091,ISAACS,,Mystery,hanna,26,isaacs-hanna
+1092,CLERK,,Adventure,starman,27,clerk-starman
+1093,MICHAEL,,Romance,faultinourstarsthe,84,michael-faultinourstarsthe
+1094,HAL,,Drama,longkissgoodnightthe,40,hal-longkissgoodnightthe
+1095,BREE VOICE,,Mystery,klute,25,bree_voice-klute
+1096,FLEMMING,,Comedy,beavisandbuttheaddoamerica,189,flemming-beavisandbuttheaddoamerica
+1097,TOM,,Drama,doorsthe,100,tom-doorsthe
+1098,WILLIAM,,War,braveheart,144,william-braveheart
+1099,COP,,Adventure,dumbanddumber,28,cop-dumbanddumber
+1100,NEWSCASTER,,Action,badcountry,26,newscaster-badcountry
+1101,A Mercury is a good car and that's,,Drama,slingblade,31,a_mercury_is_a_good_car_and_that's-slingblade
+1102,LAURA,,Adventure,2012,82,laura-2012
+1103,ERNESTO JUNIOR,,Drama,brokenembraces,48,ernesto_junior-brokenembraces
+1104,BASIL EXPOSITION,,Action,austinpowersthespywhoshaggedme,120,basil_exposition-austinpowersthespywhoshaggedme
+1105,MAGGIE,,Crime,thunderheart,142,maggie-thunderheart
+1106,ANDY,,Thriller,jaws2,182,andy-jaws2
+1107,LEE (cont'd),,Mystery,blackdahliathe,32,lee_(cont'd)-blackdahliathe
+1108,HIPPIE ASSHOLE,,Comedy,haroldandkumargotowhitecastle,55,hippie_asshole-haroldandkumargotowhitecastle
+1109,THE PATIENT (,,Romance,englishpatientthe,21,the_patient_(-englishpatientthe
+1110,SUSHI CHEF (ENGLISH),,Thriller,killbillvolume12,63,sushi_chef_(english)-killbillvolume12
+1111,TRAN,,Crime,strangedays,112,tran-strangedays
+1112,TOM,,Thriller,babel,86,tom-babel
+1113,YOUNG COP,,Crime,maxpayne,27,young_cop-maxpayne
+1114,PILAR,,Drama,lonestar,375,pilar-lonestar
+1115,MCCABE,,Drama,kingofcomedythe,21,mccabe-kingofcomedythe
+1116,SHEIK,,Drama,babel,34,sheik-babel
+1117,LIZ,,Sci-Fi,hellboy,166,liz-hellboy
+1118,BROOKE,,Adventure,jaws2,83,brooke-jaws2
+1119,PLOG,,Drama,seventhsealthe,150,plog-seventhsealthe
+1120,EXECUTIVE 1,,Comedy,simone,21,executive_1-simone
+1121,SISTER ANGELINA,,Romance,airplane,24,sister_angelina-airplane
+1122,SCOTT,,Romance,celestejesseforever,42,scott-celestejesseforever
+1123,CLAUDE,,Crime,killingzoe,132,claude-killingzoe
+1124,TERMINATOR,,Romance,terminator,59,terminator-terminator
+1125,TRACY (VO),,Comedy,election,127,tracy_(vo)-election
+1126,MALE VOICE (over),,Adventure,ghostandthedarknessthe,27,male_voice_(over)-ghostandthedarknessthe
+1127,DR. ROYCE,,Romance,laboroflove,29,dr._royce-laboroflove
+1128,KODAK,,Romance,americanpresidentthe,114,kodak-americanpresidentthe
+1129,RUDY,,Crime,getawaythe,136,rudy-getawaythe
+1130,(CONTINUED),,Thriller,getawaythe,146,(continued)-getawaythe
+1131,TED,,Thriller,sphere,291,ted-sphere
+1132,EDWARD,,Comedy,prettywomanfinalscript,1046,edward-prettywomanfinalscript
+1133,PATRICIA,,Drama,confessionsofadangerousmind,118,patricia-confessionsofadangerousmind
+1134,FLASH,,Sci-Fi,spiderman,108,flash-spiderman
+1135,COATES,,Thriller,laconfidential,42,coates-laconfidential
+1136,ISABELLA (cont'd),,Crime,miamivice,25,isabella_(cont'd)-miamivice
+1137,LENA,,Drama,punchdrunklove,336,lena-punchdrunklove
+1138,I-BEEM,,Adventure,tronlegacy,82,i-beem-tronlegacy
+1139,DENI,,Thriller,walkingtall,52,deni-walkingtall
+1140,LARRY,,Romance,colorofnight,39,larry-colorofnight
+1141,TRACY,,Horror,whenastrangercalls,126,tracy-whenastrangercalls
+1142,TOOTH MAN,,Drama,lesmiserables,21,tooth_man-lesmiserables
+1143,CANCE,,Thriller,lifeofdavidgalethe,241,cance-lifeofdavidgalethe
+1144,BETSY,,Comedy,beinghuman,232,betsy-beinghuman
+1145,DR. SANGER (cont'd),,Thriller,islandthe,24,dr._sanger_(cont'd)-islandthe
+1146,JULIET (CONT.),,Romance,romeojuliet,52,juliet_(cont.)-romeojuliet
+1147,(MORE),,Drama,americanhustle,22,(more)-americanhustle
+1148,DMITRI (CONT.),,Animation,anastasia,41,dmitri_(cont.)-anastasia
+1149,PADRE,,Action,machete,74,padre-machete
+1150,MR. REINDEER,,Thriller,wildatheart,31,mr._reindeer-wildatheart
+1151,KRISTINA,,Drama,blow,65,kristina-blow
+1152,FOR US...,,Horror,dawnofthedead,24,for_us...-dawnofthedead
+1153,AMANDA,,Comedy,burningannie,37,amanda-burningannie
+1154,PRINCESS MYAGKAYA,,Drama,annakarenina,31,princess_myagkaya-annakarenina
+1155,TRUCKER,,Action,xxx,22,trucker-xxx
+1156,PORTER,,Sci-Fi,aliennation,27,porter-aliennation
+1157,(TO BEN),,Drama,knockedup,41,(to_ben)-knockedup
+1158,LANGE,,Horror,hellraiserhellseeker,115,lange-hellraiserhellseeker
+1159,ANNOUNCER,,Comedy,deathtosmoochy,32,announcer-deathtosmoochy
+1160,CAB DRIVER,,Thriller,killingzoe,58,cab_driver-killingzoe
+1161,VITELLI,,Crime,godfather,30,vitelli-godfather
+1162,WOMAN,,Comedy,fargo,40,woman-fargo
+1163,ANDREW,,Thriller,blackswan,31,andrew-blackswan
+1164,MARLON,,Drama,trumanshowthe,226,marlon-trumanshowthe
+1165,JACK,,Romance,ciderhouserulesthe,32,jack-ciderhouserulesthe
+1166,MILTON MEAD,,Comedy,hospitalthe,113,milton_mead-hospitalthe
+1167,BONTECOU,,Fantasy,meetjoeblack,22,bontecou-meetjoeblack
+1168,BILLY,,Horror,carrie,137,billy-carrie
+1169,MATT,,Drama,terminator,35,matt-terminator
+1170,BANDY,,Romance,revolutionaryroad,21,bandy-revolutionaryroad
+1171,"ABU into:  a duck, an ostrich, a turtle, and a '57",,Musical,aladdin,24,"abu_into:__a_duck,_an_ostrich,_a_turtle,_and_a_'57-aladdin"
+1172,BARRETT,,Crime,batman2,26,barrett-batman2
+1173,DICK,,Romance,highfidelity,145,dick-highfidelity
+1174,HICCUP,,Adventure,howtotrainyourdragon2,652,hiccup-howtotrainyourdragon2
+1175,MAE MOBLEY,,Drama,helpthe,63,mae_mobley-helpthe
+1176,DANIELS,,Adventure,mummythe,55,daniels-mummythe
+1177,LUDWIG,,Drama,kafka,78,ludwig-kafka
+1178,BALDEZ,,Action,irobot,25,baldez-irobot
+1179,MRS. VANDER,,Romance,angeleyes,25,mrs._vander-angeleyes
+1180,CREATURE,,Drama,frankenstein,275,creature-frankenstein
+1181,SANTANICO,,Comedy,fromdusktilldawn,22,santanico-fromdusktilldawn
+1182,HERNANDEZ,,Thriller,deepcover,42,hernandez-deepcover
+1183,TROXELL,,Thriller,bodyofevidence,39,troxell-bodyofevidence
+1184,DOYLE,,Drama,slingblade,505,doyle-slingblade
+1185,MOM,,Thriller,boondocksaintsthe,92,mom-boondocksaintsthe
+1186,BODKIN,,Adventure,tristanandisolde,23,bodkin-tristanandisolde
+1187,PIMENOV,,Romance,grandhotel,97,pimenov-grandhotel
+1188,VEASEY,,War,coldmountain,209,veasey-coldmountain
+1189,MR. McCLEERY,,Comedy,graduatethe,61,mr._mccleery-graduatethe
+1190,CAPULET (CONT.),,Drama,romeojuliet,32,capulet_(cont.)-romeojuliet
+1191,MAS AMEDDA,,Sci-Fi,starwarsattackoftheclones,24,mas_amedda-starwarsattackoftheclones
+1192,DR. WOODWARD,,Sci-Fi,super8,43,dr._woodward-super8
+1193,HANS,,Thriller,diehard,552,hans-diehard
+1194,BEN,,Adventure,spiderman,49,ben-spiderman
+1195,REAGAN,,Thriller,pointbreak,21,reagan-pointbreak
+1196,HARRY,,Adventure,heavymetal,30,harry-heavymetal
+1197,CROCKETT,,Crime,kingofcomedythe,54,crockett-kingofcomedythe
+1198,DANNY/TOM,,Drama,saltonseathe,66,danny/tom-saltonseathe
+1199,PALMER,,Comedy,burnafterreading,175,palmer-burnafterreading
+1200,MALE HOST,,Drama,helpthe,24,male_host-helpthe
+1201,MR. FISHER,,Thriller,verybadthings,61,mr._fisher-verybadthings
+1202,VICTOR,,Sci-Fi,frankenstein,598,victor-frankenstein
+1203,EDMUNDS,,Sci-Fi,sphere,65,edmunds-sphere
+1204,SS CAPTAIN,,Biography,pianistthe,29,ss_captain-pianistthe
+1205,SAM,,Crime,sdarko,452,sam-sdarko
+1206,WAYNE,,Crime,darkknightrisesthe,508,wayne-darkknightrisesthe
+1207,TODD,,Drama,soldier,58,todd-soldier
+1208,LORRAINE,,Romance,bountyhunterthe,41,lorraine-bountyhunterthe
+1209,TODD,,Sci-Fi,soldier,58,todd-soldier
+1210,(MORE),,Family,marleyme,43,(more)-marleyme
+1211,GREG,,Drama,5050,31,greg-5050
+1212,POLO,,Adventure,jaws2,35,polo-jaws2
+1213,DAISY,,Crime,machinegunpreacher,36,daisy-machinegunpreacher
+1214,FACTORY WOMEN,,Drama,lesmiserables,22,factory_women-lesmiserables
+1215,LINDA (cont'd),,Thriller,hollowman,86,linda_(cont'd)-hollowman
+1216,TRUCKER,,Thriller,thelmalouise,29,trucker-thelmalouise
+1217,KAREN,,Romance,punchdrunklove,28,karen-punchdrunklove
+1218,CLERK,,Adventure,totalrecall,31,clerk-totalrecall
+1219,YEVHEN,,Action,italianjobthe,66,yevhen-italianjobthe
+1220,SHAUNESSY'S VOICE,,Drama,kramervskramer,36,shaunessy's_voice-kramervskramer
+1221,MOTHERSHEAD,,Drama,elephantmanthe,145,mothershead-elephantmanthe
+1222,LOKI,,Adventure,avengersthe2012,196,loki-avengersthe2012
+1223,ANDRE,,Drama,beinghuman,46,andre-beinghuman
+1224,CHIEF,,Action,boondocksaints2allsaintsday,36,chief-boondocksaints2allsaintsday
+1225,HECTOR,,Action,lakeplacid,471,hector-lakeplacid
+1226,OLD SALIERI,,Drama,amadeus,522,old_salieri-amadeus
+1227,ARD,,Horror,heavymetal,70,ard-heavymetal
+1228,STRANGER,,Comedy,manwhowasnttherethe,23,stranger-manwhowasnttherethe
+1229,WILL,,Fantasy,bigfish,445,will-bigfish
+1230,SPIRO GIAVANNIS,,Thriller,weownthenight,36,spiro_giavannis-weownthenight
+1231,COLIN,,Drama,myweekwithmarilyn,689,colin-myweekwithmarilyn
+1232,CASEY,,Horror,scream,168,casey-scream
+1233,POLO,,Thriller,jaws2,35,polo-jaws2
+1234,MARY,,Comedy,mrblandingsbuildshisdreamhouse,38,mary-mrblandingsbuildshisdreamhouse
+1235,WALTER,,Romance,waterforelephants,25,walter-waterforelephants
+1236,LISA,,Fantasy,seventhsealthe,22,lisa-seventhsealthe
+1237,JANE,,Thriller,hauntingthe,41,jane-hauntingthe
+1238,MAX,,Crime,thelmalouise,81,max-thelmalouise
+1239,PIERSON,,Drama,griftersthe,59,pierson-griftersthe
+1240,COX,,Comedy,larrycrowne,54,cox-larrycrowne
+1241,KNOX (cont.),,Crime,batman,55,knox_(cont.)-batman
+1242,LISA (cont'd),,Drama,obsessed,60,lisa_(cont'd)-obsessed
+1243,DEEP THROAT,,Thriller,allthepresidentsmen,159,deep_throat-allthepresidentsmen
+1244,OLIVIER (AS REGENT),,Drama,myweekwithmarilyn,36,olivier_(as_regent)-myweekwithmarilyn
+1245,METATRON,,Comedy,dogma,69,metatron-dogma
+1246,WYMAN,,Drama,smokinaces,56,wyman-smokinaces
+1247,CHARLIE FROST,,Drama,2012,91,charlie_frost-2012
+1248,NURSE #1,,Comedy,inventionoflyingthe,21,nurse_#1-inventionoflyingthe
+1249,NEWSMAN 1,,Drama,jfk,39,newsman_1-jfk
+1250,PINCUS,,Drama,heist,211,pincus-heist
+1251,COMPUTER,,Horror,alien,63,computer-alien
+1252,(CONTTNTTFD ),,Drama,waybackthe,24,(conttnttfd_)-waybackthe
+1253,BERGER,,Crime,klute,22,berger-klute
+1254,MR. NEWBERRY,,Romance,grossepointblank,27,mr._newberry-grossepointblank
+1255,GINA,,Drama,miamivice,106,gina-miamivice
+1256,STEVE,,Western,roughshod,429,steve-roughshod
+1257,TRAVERS,,Thriller,cliffhanger,362,travers-cliffhanger
+1258,JULIE,,Comedy,17again,125,julie-17again
+1259,DALE,,Thriller,pineappleexpress,1015,dale-pineappleexpress
+1260,MIKE,,Thriller,fairgame,80,mike-fairgame
+1261,FLYNN,,Sci-Fi,tronlegacy,404,flynn-tronlegacy
+1262,BILL,,Romance,colorofnight,1042,bill-colorofnight
+1263,SATNAM,,Drama,2012,26,satnam-2012
+1264,MEYERLING,,Thriller,arcticblue,114,meyerling-arcticblue
+1265,SUSHI CHEF (ENGLISH),,Comedy,killbillvolume12,63,sushi_chef_(english)-killbillvolume12
+1266,ROLAND (cont'd),,Horror,jurassicparkthelostworld,24,roland_(cont'd)-jurassicparkthelostworld
+1267,DARGUS,,Comedy,jackiebrown,182,dargus-jackiebrown
+1268,BARTHOLOMEW'S VOICE,,Thriller,charade,22,bartholomew's_voice-charade
+1269,KIPLING,,Crime,aliennation,23,kipling-aliennation
+1270,PRINCIPAL,,Romance,almostfamous,43,principal-almostfamous
+1271,(CONTINUED),,Adventure,robinhoodprinceofthieves,238,(continued)-robinhoodprinceofthieves
+1272,RAY,,Sci-Fi,waroftheworlds,772,ray-waroftheworlds
+1273,DODGE,,Adventure,ghostship,455,dodge-ghostship
+1274,HELLER,,Action,mysterymen,75,heller-mysterymen
+1275,GENETIC DOCTOR,,Drama,perfectcreature,58,genetic_doctor-perfectcreature
+1276,DANNY,,Mystery,lonestar,34,danny-lonestar
+1277,BILL,,Drama,jfk,286,bill-jfk
+1278,TINA,,Drama,siegethe,55,tina-siegethe
+1279,THE 39 STEPS,,Drama,hannahandhersisters,36,the_39_steps-hannahandhersisters
+1280,GERTA,,Romance,juno,28,gerta-juno
+1281,REGGIE,,Thriller,wildatheart,114,reggie-wildatheart
+1282,JEFF,,Thriller,rearwindow,1273,jeff-rearwindow
+1283,MERRICK,,Sci-Fi,shivers,56,merrick-shivers
+1284,ALEX,,Thriller,maxpayne,27,alex-maxpayne
+1285,HOST,,Sci-Fi,strangedays,25,host-strangedays
+1286,OLIVETTI,,Mystery,angelsdemons,123,olivetti-angelsdemons
+1287,FEMALE REPORTER,,Crime,observeandreport,61,female_reporter-observeandreport
+1288,DEREK,,Action,vforvendetta,99,derek-vforvendetta
+1289,SID,,Action,bountyhunterthe,152,sid-bountyhunterthe
+1290,PITER,,Action,dune,63,piter-dune
+1291,BOSS,,Action,machete,28,boss-machete
+1292,GENERAL MARSHALL,,Drama,pearlharbor,32,general_marshall-pearlharbor
+1293,TECHNICIAN,,Thriller,minorityreport,35,technician-minorityreport
+1294,WRIGLEY,,Comedy,intolerablecruelty,89,wrigley-intolerablecruelty
+1295,BRYANT,,Action,bladerunner,93,bryant-bladerunner
+1296,FLOYD,,Crime,stingthe,42,floyd-stingthe
+1297,PHIL,,Adventure,whitesquall,174,phil-whitesquall
+1298,ELLIS,,Crime,cellular,48,ellis-cellular
+1299,DOLPHINE,,Drama,blackdahliathe,45,dolphine-blackdahliathe
+1300,LISA,,Thriller,rearwindow,660,lisa-rearwindow
+1301,ISABEL,,Thriller,oceanstwelve,515,isabel-oceanstwelve
+1302,MCCONNELL,,Sci-Fi,missiontomars,589,mcconnell-missiontomars
+1303,VOICES,,Crime,frenchconnectionthe,23,voices-frenchconnectionthe
+1304,CAROLYN,,Crime,lonestar,59,carolyn-lonestar
+1305,TRENTINO,,Musical,ducksoup,239,trentino-ducksoup
+1306,WILL SCARLET,,Drama,robinhoodprinceofthieves,153,will_scarlet-robinhoodprinceofthieves
+1307,SHERIFF RYAN,,Horror,gothika,264,sheriff_ryan-gothika
+1308,MAGUIRE,,Drama,cryinggame,126,maguire-cryinggame
+1309,GREENLY,,Drama,boondocksaintsthe,94,greenly-boondocksaintsthe
+1310,MARILYN,,Drama,cellular,27,marilyn-cellular
+1311,ANNA,,Crime,americanthe,21,anna-americanthe
+1312,BILLY,,Western,tombstone,21,billy-tombstone
+1313,THERAPIST,,Drama,iamsam,24,therapist-iamsam
+1314,PERCEPTOR,,Family,transformersthemovie,57,perceptor-transformersthemovie
+1315,DEREK,,Drama,americanhistoryx,228,derek-americanhistoryx
+1316,MR. BLUDWORTH,,Thriller,finaldestination,84,mr._bludworth-finaldestination
+1317,WEINE,,Thriller,finaldestination,66,weine-finaldestination
+1318,YURI,,Thriller,2012,94,yuri-2012
+1319,DYED HAIR GIRL,,Thriller,unbreakable,37,dyed_hair_girl-unbreakable
+1320,STU,,Mystery,scream,218,stu-scream
+1321,JUANA,,Crime,wildatheart,57,juana-wildatheart
+1322,ANDRE,,Comedy,beinghuman,46,andre-beinghuman
+1323,PROVOST,,Fantasy,batman2,66,provost-batman2
+1324,LEONARD (cont'd),,Drama,memento,305,leonard_(cont'd)-memento
+1325,VERONICA,,Fantasy,trumanshowthe,29,veronica-trumanshowthe
+1326,RESIDENT #1,,Thriller,islandthe,33,resident_#1-islandthe
+1327,AMANDA,,Comedy,detroitrockcity,53,amanda-detroitrockcity
+1328,DENISE'S VOICE,,Romance,stuntmanthe,37,denise's_voice-stuntmanthe
+1329,DOC FELIX,,Action,machete,47,doc_felix-machete
+1330,SADIE,,Romance,knockedup,60,sadie-knockedup
+1331,ANNA,,Drama,kafka,24,anna-kafka
+1332,DAVID HOBBSCAP,,Adventure,cars2,47,david_hobbscap-cars2
+1333,URI,,Drama,candletowater,206,uri-candletowater
+1334,MASTER MIND,,Comedy,megamind,840,master_mind-megamind
+1335,SHADOW,,Drama,backdraft,473,shadow-backdraft
+1336,AMERICAN ANNOUNCER,,Sci-Fi,daytheearthstoodstillthe,35,american_announcer-daytheearthstoodstillthe
+1337,JANET,,Fantasy,beinghuman,46,janet-beinghuman
+1338,ROBERTA,,Drama,ghostworld,217,roberta-ghostworld
+1339,(CONTINUED),,Drama,beinghuman,634,(continued)-beinghuman
+1340,KATHRYN,,Drama,getlow,22,kathryn-getlow
+1341,WILLY,,Crime,sisteract,58,willy-sisteract
+1342,(CONTINUED),,Action,mariachiel,82,(continued)-mariachiel
+1343,COLETTE,,Comedy,authorsanonymous,561,colette-authorsanonymous
+1344,VOICE,,Action,minorityreport,35,voice-minorityreport
+1345,TRUDY,,Thriller,miamivice,62,trudy-miamivice
+1346,DISSOLVE TO:,,Comedy,graduatethe,60,dissolve_to:-graduatethe
+1347,NURSE PILBOW,,Drama,oneflewoverthecuckoosnest,26,nurse_pilbow-oneflewoverthecuckoosnest
+1348,TV ANCHOR,,Drama,laboroflove,32,tv_anchor-laboroflove
+1349,GREENHUT,,Comedy,wonderboys,45,greenhut-wonderboys
+1350,BARRIS,,Drama,confessionsofadangerousmind,1282,barris-confessionsofadangerousmind
+1351,SEAN,,Thriller,departedthe,67,sean-departedthe
+1352,DANNY,,Romance,silverliningsplaybook,181,danny-silverliningsplaybook
+1353,DOREEN,,Action,hardrain,90,doreen-hardrain
+1354,FAT LOU,,Action,jasonx,29,fat_lou-jasonx
+1355,AUSTIN,,Drama,chronicle,22,austin-chronicle
+1356,VON ZYL,,Drama,powerofonethe,112,von_zyl-powerofonethe
+1357,PINK DOT GIRL,,Drama,magnolia,29,pink_dot_girl-magnolia
+1358,MERRILL,,Sci-Fi,signs,387,merrill-signs
+1359,WOMAN,,Romance,fabulousbakerboysthe,68,woman-fabulousbakerboysthe
+1360,SECOND A.D.,,Drama,stuntmanthe,22,second_a.d.-stuntmanthe
+1361,RACHEL,,Thriller,waroftheworlds,267,rachel-waroftheworlds
+1362,MARVIN,,Comedy,serialmom,23,marvin-serialmom
+1363,SIGY,,Thriller,mrbrooks,34,sigy-mrbrooks
+1364,MR. CARSON,,Drama,littleathens,47,mr._carson-littleathens
+1365,DR. GOODFELLOW,,Action,tombstone,24,dr._goodfellow-tombstone
+1366,COMBS,,Comedy,stingthe,47,combs-stingthe
+1367,MARGE,,Comedy,fargo,582,marge-fargo
+1368,MARTIN,,Horror,cellthe,34,martin-cellthe
+1369,HELEN,,Horror,birdsthe,45,helen-birdsthe
+1370,BUDDY (O.C.),,Action,jimmyandjudy,46,buddy_(o.c.)-jimmyandjudy
+1371,RANDY,,Horror,scream3,38,randy-scream3
+1372,MILES,,Action,inception,56,miles-inception
+1373,EMILIO,,Crime,colombiana,189,emilio-colombiana
+1374,POLICEMAN,,Comedy,observeandreport,28,policeman-observeandreport
+1375,GOTH GIRL,,Thriller,jennifersbody,49,goth_girl-jennifersbody
+1376,AGENT MARIA HILL,,Sci-Fi,avengersthe2012,67,agent_maria_hill-avengersthe2012
+1377,BERTHA MAE,,Musical,honeydripper,81,bertha_mae-honeydripper
+1378,MADAME THENARDIER,,Drama,lesmiserables,134,madame_thenardier-lesmiserables
+1379,COLONEL OLIVER,,Thriller,hotelrwanda,157,colonel_oliver-hotelrwanda
+1380,OLD MAN,,Action,irobot,37,old_man-irobot
+1381,HELEN,,Comedy,whosyourdaddy,70,helen-whosyourdaddy
+1382,KYLE,,Drama,alien3,62,kyle-alien3
+1383,BLAZE,,Fantasy,ghostrider,163,blaze-ghostrider
+1384,JIMMY,,Thriller,boondocksaints2allsaintsday,27,jimmy-boondocksaints2allsaintsday
+1385,JACK (OFF),,Thriller,shiningthe,49,jack_(off)-shiningthe
+1386,BEN,,Crime,bluevelvet,35,ben-bluevelvet
+1387,GROCER,,Crime,grossepointblank,72,grocer-grossepointblank
+1388,PILLSBURY,,Horror,landofthedead,33,pillsbury-landofthedead
+1389,YORGI,,Adventure,xxx,292,yorgi-xxx
+1390,CARTER,,Drama,getcarter,887,carter-getcarter
+1391,MERCUTIO,,Crime,romeojuliet,152,mercutio-romeojuliet
+1392,COACH,,Comedy,buffythevampireslayer,40,coach-buffythevampireslayer
+1393,DR. MATHISON,,Drama,unbreakable,22,dr._mathison-unbreakable
+1394,SARAH,,Drama,autumninnewyork,31,sarah-autumninnewyork
+1395,BANK CUSTOMER,,Comedy,yesman,41,bank_customer-yesman
+1396,JUDGE FRANKEL,,Thriller,siegethe,34,judge_frankel-siegethe
+1397,KILLICK,,Action,masterandcommander,42,killick-masterandcommander
+1398,SHEPARD,,Action,badcountry,50,shepard-badcountry
+1399,FRODO,M,Action,lordoftheringsthetwotowers,72,frodo-lordoftheringsthetwotowers
+1400,ABILENE COP #1,,Thriller,suspectzero,40,abilene_cop_#1-suspectzero
+1401,ELLIS,,Thriller,diehard,131,ellis-diehard
+1402,HOOPER,,Romance,chasingamy,339,hooper-chasingamy
+1403,SMEAGOL,M,Fantasy,lordoftheringsreturnoftheking,55,smeagol-lordoftheringsreturnoftheking
+1404,GREY,,Drama,takingofpelhamonetwothreethe,22,grey-takingofpelhamonetwothreethe
+1405,STARGHER KING,,Horror,cellthe,55,stargher_king-cellthe
+1406,DOC,,Action,minorityreport,60,doc-minorityreport
+1407,BEAVIS,M,Comedy,beavisandbuttheaddoamerica,344,beavis-beavisandbuttheaddoamerica
+1408,"ONE, boy!",,Comedy,aladdin,22,"one,_boy!-aladdin"
+1409,VIDERAH,,Drama,terminator2judgementday,24,viderah-terminator2judgementday
+1410,DEREK,,Drama,blow,123,derek-blow
+1411,MICHAEL,,Family,threemenandababy,1025,michael-threemenandababy
+1412,VOICE,,Drama,angelsdemons,22,voice-angelsdemons
+1413,IRIS,,Mystery,strangedays,25,iris-strangedays
+1414,STEVIE,,Crime,observeandreport,69,stevie-observeandreport
+1415,PAVEL LUBYARSKY,,Crime,weownthenight,35,pavel_lubyarsky-weownthenight
+1416,BILL,,Thriller,colorofnight,1042,bill-colorofnight
+1417,KADER,,War,battleofalgiersthe,160,kader-battleofalgiersthe
+1418,STEWART,,Romance,bountyhunterthe,63,stewart-bountyhunterthe
+1419,SANTIAGO,,Drama,blow,23,santiago-blow
+1420,QUOYLE (reads),,Romance,shippingnewsthe,40,quoyle_(reads)-shippingnewsthe
+1421,SKILLZ,,Romance,celestejesseforever,49,skillz-celestejesseforever
+1422,DONEGHY,,Drama,verdictthe,60,doneghy-verdictthe
+1423,THE BEAK,,Thriller,carrie,48,the_beak-carrie
+1424,THE BRIDE *,,Action,killbillvolume12,66,the_bride_*-killbillvolume12
+1425,DOUG,,Mystery,grudgethe,151,doug-grudgethe
+1426,DR. KUNI,,Romance,knockedup,120,dr._kuni-knockedup
+1427,(CONTINUED),,Crime,mariachiel,82,(continued)-mariachiel
+1428,DUSSANDER,,Thriller,aptpupil,1028,dussander-aptpupil
+1429,ELLEN,,Action,soldier,21,ellen-soldier
+1430,ADAM LEAVITT,,Action,kingdomthe,155,adam_leavitt-kingdomthe
+1431,OTHER MR. BOBINSKY,,Animation,coraline,31,other_mr._bobinsky-coraline
+1432,REUBEN,,Crime,oceanstwelve,145,reuben-oceanstwelve
+1433,STELLA,,Crime,italianjobthe,264,stella-italianjobthe
+1434,SIBEAL,,Drama,boondocksaints2allsaintsday,30,sibeal-boondocksaints2allsaintsday
+1435,ARAGORN (cont'd),,Action,lordoftheringsreturnoftheking,31,aragorn_(cont'd)-lordoftheringsreturnoftheking
+1436,ROMEO (CONT.),,Romance,romeojuliet,87,romeo_(cont.)-romeojuliet
+1437,ALICE,,Drama,whitesquall,67,alice-whitesquall
+1438,KAUFMAN,,Comedy,adaptation,948,kaufman-adaptation
+1439,KRISTI,,Thriller,127hours,54,kristi-127hours
+1440,MURNEY,,Action,pacifierthe,116,murney-pacifierthe
+1441,JACK,,Comedy,threemenandababy,1031,jack-threemenandababy
+1442,ARIN,,Comedy,somethingsgottagive,21,arin-somethingsgottagive
+1443,LOUIS FALSETTI,,Drama,weownthenight,195,louis_falsetti-weownthenight
+1444,TOP DOLLAR,,Horror,crowthe,71,top_dollar-crowthe
+1445,ANDY (BRITISH) (cont'd),,Comedy,manonthemoon,24,andy_(british)_(cont'd)-manonthemoon
+1446,INDY,,Adventure,indianajonesandtheraidersofthelostark,591,indy-indianajonesandtheraidersofthelostark
+1447,SARA,,Horror,roommatethe,326,sara-roommatethe
+1448,TYRELL (cont'd),,Mystery,istillknowwhatyoudidlastsummer,25,tyrell_(cont'd)-istillknowwhatyoudidlastsummer
+1449,NASIM,,Romance,visitorthe,29,nasim-visitorthe
+1450,FRODO (cont'd),M,Action,lordoftheringsreturnoftheking,29,frodo_(cont'd)-lordoftheringsreturnoftheking
+1451,RYAN,,Action,colombiana,24,ryan-colombiana
+1452,TROY,,Comedy,littleathens,28,troy-littleathens
+1453,DEE,,Sci-Fi,meninblack,21,dee-meninblack
+1454,BILLY,,Drama,departedthe,763,billy-departedthe
+1455,CASTOR,,Crime,faceoff,575,castor-faceoff
+1456,ACOSTA,,Drama,smokinaces,62,acosta-smokinaces
+1457,BUSINESSMAN,,Comedy,fasttimesatridgemonthigh,42,businessman-fasttimesatridgemonthigh
+1458,JODY,,Action,cryinggame,393,jody-cryinggame
+1459,FOLLETT,,Comedy,mumford,151,follett-mumford
+1460,PROF. WEST,,Action,2012,42,prof._west-2012
+1461,TOM,,Comedy,beavisandbuttheaddoamerica,63,tom-beavisandbuttheaddoamerica
+1462,BRANDON,,Comedy,twoforthemoney,360,brandon-twoforthemoney
+1463,FRANK,,Family,megamind,53,frank-megamind
+1464,DAVIS,,Crime,midnightexpress,31,davis-midnightexpress
+1465,LEO,,Drama,americanpresidentthe,88,leo-americanpresidentthe
+1466,CLE OPERATOR 2,,Sci-Fi,perfectcreature,24,cle_operator_2-perfectcreature
+1467,BRITISH ASSHOLE (VO),,Action,cellular,23,british_asshole_(vo)-cellular
+1468,LAUREL,,Comedy,jerrymaguire,111,laurel-jerrymaguire
+1469,NELL,,Comedy,observeandreport,178,nell-observeandreport
+1470,PATRICE,,Fantasy,kateleopold,24,patrice-kateleopold
+1471,FEDORCHUK,,Sci-Fi,aliennation,49,fedorchuk-aliennation
+1472,HELEN,,Romance,birdsthe,45,helen-birdsthe
+1473,PAUL,,Drama,crazylove,208,paul-crazylove
+1474,"FIRST POLICE OFFICER (scornfully): Well, all",,Crime,whiteribbonthe,22,"first_police_officer_(scornfully):_well,_all-whiteribbonthe"
+1475,BARRY,,Sci-Fi,residentevil,118,barry-residentevil
+1476,FEMALE REPORTER,,Comedy,observeandreport,61,female_reporter-observeandreport
+1477,OLD MATLIN,,Horror,hellboy,28,old_matlin-hellboy
+1478,RALPH,,Comedy,arthur,61,ralph-arthur
+1479,"NARRATOR: On the Sunday between those dates, the",,Mystery,whiteribbonthe,49,"narrator:_on_the_sunday_between_those_dates,_the-whiteribbonthe"
+1480,KELLY,,Adventure,jurassicparkthelostworld,80,kelly-jurassicparkthelostworld
+1481,DELONGPREE,,Thriller,jasonx,34,delongpree-jasonx
+1482,MISS STEIN,,Drama,helpthe,71,miss_stein-helpthe
+1483,HARDEMEYER,,Sci-Fi,ghostbusters2,65,hardemeyer-ghostbusters2
+1484,ARCHIE,,Drama,cradle2thegrave,216,archie-cradle2thegrave
+1485,VOICE,,Thriller,jacobsladder,46,voice-jacobsladder
+1486,DIANE,,Comedy,sugarandspice,437,diane-sugarandspice
+1487,CABLE,,Mystery,klute,219,cable-klute
+1488,THUNK,,Adventure,croodsthe,197,thunk-croodsthe
+1489,MURRAY,,Crime,americanhistoryx,25,murray-americanhistoryx
+1490,MAJOR BELL,,Drama,starman,98,major_bell-starman
+1491,COATES,,Drama,laconfidential,42,coates-laconfidential
+1492,HARMSWAY,,Adventure,tomorrowneverdies,657,harmsway-tomorrowneverdies
+1493,BMAN,,Comedy,feast,144,bman-feast
+1494,JASON,,Comedy,thisis40,109,jason-thisis40
+1495,CYNTHIA,,Romance,walktoremembera,181,cynthia-walktoremembera
+1496,LOUIS,,Action,manintheironmask,385,louis-manintheironmask
+1497,FLASH CUT TO:,,Drama,donniebrasco,38,flash_cut_to:-donniebrasco
+1498,YOKO,,Horror,grudgethe,29,yoko-grudgethe
+1499,COSTA,,Crime,takinglives,511,costa-takinglives
+1500,TRINA,,Thriller,klute,36,trina-klute
+1501,WISDOM,,Action,next,226,wisdom-next
+1502,DR. OATMAN,,Romance,grossepointblank,67,dr._oatman-grossepointblank
+1503,GIMLI,,Adventure,lordoftheringsfellowshipoftheringthe,94,gimli-lordoftheringsfellowshipoftheringthe
+1504,MATER'S COMPUTER,,Animation,cars2,32,mater's_computer-cars2
+1505,BRITISH AIR COMMANDER,,War,pearlharbor,23,british_air_commander-pearlharbor
+1506,MURPHY,,Drama,hisgirlfriday,207,murphy-hisgirlfriday
+1507,OFF HARRY,,Drama,brokenembraces,75,off_harry-brokenembraces
+1508,DIL,,Action,cryinggame,718,dil-cryinggame
+1509,AUGUSTUS,,Horror,perfectcreature,222,augustus-perfectcreature
+1510,MACKELWAY,,Horror,suspectzero,804,mackelway-suspectzero
+1511,GRANDFATHER,,Adventure,princessbridethe,231,grandfather-princessbridethe
+1512,RANDAL,,Drama,clerks,1155,randal-clerks
+1513,JOE,,Crime,looper,175,joe-looper
+1514,BILLY,,Thriller,lordofillusions,84,billy-lordofillusions
+1515,AVI,,Drama,magnolia,23,avi-magnolia
+1516,CARRIE (cont'd),,Drama,whiteout,168,carrie_(cont'd)-whiteout
+1517,MANAGER,,Comedy,punchdrunklove,39,manager-punchdrunklove
+1518,AUSTIN,,Adventure,heavymetal,25,austin-heavymetal
+1519,SARACEN,,Drama,robinhoodprinceofthieves,44,saracen-robinhoodprinceofthieves
+1520,COMPUTER,,Sci-Fi,missiontomars,30,computer-missiontomars
+1521,FATE,,Thriller,vforvendetta,37,fate-vforvendetta
+1522,MORPHEUS,,Thriller,matrixthe,576,morpheus-matrixthe
+1523,NATHAN,,Romance,hesjustnotthatintoyou,36,nathan-hesjustnotthatintoyou
+1524,O'RYAN,,Crime,suspectzero,652,o'ryan-suspectzero
+1525,HERSHEY,,Action,judgedredd,113,hershey-judgedredd
+1526,DAVID,,Drama,moneyball,22,david-moneyball
+1527,JUDGE,,Adventure,ghostbusters2,77,judge-ghostbusters2
+1528,TEDDY,,Thriller,memento,426,teddy-memento
+1529,OLD WOMAN,,Drama,laboroflove,23,old_woman-laboroflove
+1530,HENDRICKS,,Adventure,jaws2,159,hendricks-jaws2
+1531,CARTER,,Horror,finaldestination,116,carter-finaldestination
+1532,WE GOT A LOT TO DO...ROGER...,,Action,dawnofthedead,25,we_got_a_lot_to_do...roger...-dawnofthedead
+1533,PENNY (cont'd),,Romance,almostfamous,33,penny_(cont'd)-almostfamous
+1534,WILL SCARLET,,Action,robinhoodprinceofthieves,153,will_scarlet-robinhoodprinceofthieves
+1535,MARCON,,Thriller,lastboyscoutthe,218,marcon-lastboyscoutthe
+1536,GRAHAM,,Drama,signs,815,graham-signs
+1537,GRAHAM,,Drama,manhunter,1111,graham-manhunter
+1538,PERCEVAL,,Drama,excalibur,108,perceval-excalibur
+1539,PIPPIN,,Adventure,lordoftheringsreturnoftheking,122,pippin-lordoftheringsreturnoftheking
+1540,AMANDA,,Romance,burningannie,37,amanda-burningannie
+1541,AL,,Drama,1492conquestofparadise,44,al-1492conquestofparadise
+1542,DEAN COVENTRY,,Adventure,indianajonesiv,23,dean_coventry-indianajonesiv
+1543,TAGGE,,Fantasy,starwarsanewhope,21,tagge-starwarsanewhope
+1544,PAUL,,Drama,doorsthe,62,paul-doorsthe
+1545,OWEN,,Sci-Fi,starwarsattackoftheclones,28,owen-starwarsattackoftheclones
+1546,CINDY,,Romance,bluevalentine,275,cindy-bluevalentine
+1547,ALICE,,Drama,airforceone,123,alice-airforceone
+1548,SUPERVISOR,,Drama,limeythe,38,supervisor-limeythe
+1549,JANE,,Drama,erinbrockovich,35,jane-erinbrockovich
+1550,QUAID,,Fantasy,lordofillusions,65,quaid-lordofillusions
+1551,LAUREL,,Romance,jerrymaguire,111,laurel-jerrymaguire
+1552,WARDEN,,War,fromheretoeternity,655,warden-fromheretoeternity
+1553,ERNESTO,,Thriller,brokenembraces,80,ernesto-brokenembraces
+1554,TOMLIN,,Drama,cellular,83,tomlin-cellular
+1555,RICARDO,,Thriller,killingzoe,83,ricardo-killingzoe
+1556,MARLON,,Sci-Fi,trumanshowthe,226,marlon-trumanshowthe
+1557,SIDNEY,,Mystery,scream2,325,sidney-scream2
+1558,THEO (cont'd),,Horror,hauntingthe,37,theo_(cont'd)-hauntingthe
+1559,JOHNNY,,Mystery,minorityreport,32,johnny-minorityreport
+1560,RIPLEY,,Action,aliens,753,ripley-aliens
+1561,MRS MATHEWS,,Thriller,8mm,148,mrs_mathews-8mm
+1562,GRANGE,,Thriller,crowthe,75,grange-crowthe
+1563,TREADWELL,,War,fromheretoeternity,33,treadwell-fromheretoeternity
+1564,BODKIN,,Action,tristanandisolde,23,bodkin-tristanandisolde
+1565,PILCHER,,Thriller,silenceofthelambs,31,pilcher-silenceofthelambs
+1566,MOTHER,,Comedy,jayandsilentbobstrikeback,27,mother-jayandsilentbobstrikeback
+1567,CHARLIE,,Fantasy,kateleopold,386,charlie-kateleopold
+1568,BRADY,,Comedy,storytelling,63,brady-storytelling
+1569,ANWAR,,Thriller,babel,272,anwar-babel
+1570,RUTH,,Romance,intolerablecruelty,133,ruth-intolerablecruelty
+1571,ALL			EDDIE,,Musical,rockyhorrorpictureshowthe,25,all			eddie-rockyhorrorpictureshowthe
+1572,PAROLE OFFICER,,Crime,kalifornia,64,parole_officer-kalifornia
+1573,COMINIUS,,Thriller,coriolanus,21,cominius-coriolanus
+1574,DAVID,,Drama,takingsides,217,david-takingsides
+1575,LILA,,Thriller,psycho,370,lila-psycho
+1576,BUMBLEBEE,,Sci-Fi,transformersthemovie,21,bumblebee-transformersthemovie
+1577,MARGARET,,Drama,fourrooms,49,margaret-fourrooms
+1578,BRAD,,Horror,rockyhorrorpictureshowthe,299,brad-rockyhorrorpictureshowthe
+1579,NAVIGATOR,,Horror,heavymetal,45,navigator-heavymetal
+1580,JENNIFER,,Fantasy,christcomplex,25,jennifer-christcomplex
+1581,NORMAN,,Drama,fourrooms,76,norman-fourrooms
+1582,DODONNA,,Sci-Fi,starwarsanewhope,41,dodonna-starwarsanewhope
+1583,TYRELL,,Thriller,istillknowwhatyoudidlastsummer,300,tyrell-istillknowwhatyoudidlastsummer
+1584,DASCOMBE,,Thriller,vforvendetta,53,dascombe-vforvendetta
+1585,DEVEREAUX,,Crime,frenchconnectionthe,73,devereaux-frenchconnectionthe
+1586,DR. LEES,,Thriller,finaldestination2,24,dr._lees-finaldestination2
+1587,CAPTAIN'S VOICE,,Action,totalrecall,45,captain's_voice-totalrecall
+1588,ATTENDANT,,Romance,starman,21,attendant-starman
+1589,LARRY,,Comedy,hesjustnotthatintoyou,29,larry-hesjustnotthatintoyou
+1590,PRESIDENT,,Thriller,fairgame,33,president-fairgame
+1591,ELWELL,,Drama,sweetsmellofsuccess,76,elwell-sweetsmellofsuccess
+1592,BUDD,,Drama,killbillvolume12,229,budd-killbillvolume12
+1593,PETER,,Action,robinhoodprinceofthieves,28,peter-robinhoodprinceofthieves
+1594,(JAFAR says the word 'princess' with the accent on,,Fantasy,aladdin,28,(jafar_says_the_word_'princess'_with_the_accent_on-aladdin
+1595,CORIN,,Adventure,conanthebarbarian,100,corin-conanthebarbarian
+1596,(MORE),,Action,fairgame,32,(more)-fairgame
+1597,MR. MEHLOR,,Thriller,hardrain,30,mr._mehlor-hardrain
+1598,AL-GHAZI,,Drama,kingdomthe,44,al-ghazi-kingdomthe
+1599,DYLE,,Comedy,charade,398,dyle-charade
+1600,MARTHA,,Drama,searchersthe,68,martha-searchersthe
+1601,ELINOR,,Romance,senseandsensibility,693,elinor-senseandsensibility
+1602,THE BRIDE (JAPANESE),,Comedy,killbillvolume12,99,the_bride_(japanese)-killbillvolume12
+1603,REBECCA,,Action,residentevil,57,rebecca-residentevil
+1604,DEWEY,,Horror,scream2,195,dewey-scream2
+1605,MESSNER,,Action,smokinaces,335,messner-smokinaces
+1606,FRANCIS,,Drama,icestormthe,96,francis-icestormthe
+1607,EMBRY,,Drama,erinbrockovich,40,embry-erinbrockovich
+1608,SAUL,,Comedy,pineappleexpress,1016,saul-pineappleexpress
+1609,TOM,,Comedy,broadcastnews,947,tom-broadcastnews
+1610,DOROTHEA,,Horror,lordofillusions,274,dorothea-lordofillusions
+1611,DENISE,,Drama,larrycrowne,37,denise-larrycrowne
+1612,PATRIZIA,,Mystery,avventuraltheadventure,196,patrizia-avventuraltheadventure
+1613,KILPACK,,Horror,eventhorizon,22,kilpack-eventhorizon
+1614,NICOLE,,Comedy,livinginoblivion,387,nicole-livinginoblivion
+1615,VERONICA,,Comedy,clerks,428,veronica-clerks
+1616,LYNN,,Mystery,laconfidential,261,lynn-laconfidential
+1617,ELADIO,,Drama,lonestar,37,eladio-lonestar
+1618,BRIGHAM,,Horror,hannibal,67,brigham-hannibal
+1619,LARRY,,Adventure,jaws2,74,larry-jaws2
+1620,SEAN,,Drama,blindsidethe,111,sean-blindsidethe
+1621,MIRANDA,,Thriller,gothika,968,miranda-gothika
+1622,SENIOR POLICE OFFICER,,Drama,gandhi,55,senior_police_officer-gandhi
+1623,YOSHITAKA/GRAHAM,,War,lastsamuraithe,21,yoshitaka/graham-lastsamuraithe
+1624,BELLBOY,,Thriller,killingzoe,21,bellboy-killingzoe
+1625,TAI LUNG,,Comedy,kungfupanda,97,tai_lung-kungfupanda
+1626,MICHAEL,,Comedy,mybestfriendswedding,742,michael-mybestfriendswedding
+1627,DR. LECTER,,Drama,silenceofthelambs,574,dr._lecter-silenceofthelambs
+1628,COLONEL AL-GHAZI,,Thriller,kingdomthe,516,colonel_al-ghazi-kingdomthe
+1629,TERMINATOR,,Action,terminator,59,terminator-terminator
+1630,DALE,,Mystery,colorofnight,98,dale-colorofnight
+1631,ALBINO,,Comedy,princessbridethe,29,albino-princessbridethe
+1632,BRAD,,Comedy,fasttimesatridgemonthigh,291,brad-fasttimesatridgemonthigh
+1633,LAWRENCE,,Comedy,trumanshowthe,44,lawrence-trumanshowthe
+1634,EDWARD (voice over),,Romance,prettywomanfinalscript,62,edward_(voice_over)-prettywomanfinalscript
+1635,LIZ,,Music,highfidelity,70,liz-highfidelity
+1636,JOSELLE,,Drama,laboroflove,27,joselle-laboroflove
+1637,BARNEY,,Mystery,chinatown,27,barney-chinatown
+1638,QUINTUS,,Action,gladiator,45,quintus-gladiator
+1639,B.B.,,Comedy,killbillvolume12,59,b.b.-killbillvolume12
+1640,DANIELS,,Crime,takingofpelhamonetwothreethe,28,daniels-takingofpelhamonetwothreethe
+1641,"GENIE appears in his vest, then sticks his arms out and",,Musical,aladdin,87,"genie_appears_in_his_vest,_then_sticks_his_arms_out_and-aladdin"
+1642,KIPLING,,Sci-Fi,aliennation,23,kipling-aliennation
+1643,EMPEROR,,Sci-Fi,dune,124,emperor-dune
+1644,DE VILLIERS,,Drama,drywhiteseasona,162,de_villiers-drywhiteseasona
+1645,LEO,,Romance,rememberme,28,leo-rememberme
+1646,TROY,,Drama,littleathens,28,troy-littleathens
+1647,ISABEL,,Adventure,1492conquestofparadise,92,isabel-1492conquestofparadise
+1648,ELLIE,,Action,someonetowatchoverme,301,ellie-someonetowatchoverme
+1649,DIGGS,,Sci-Fi,islandthe,150,diggs-islandthe
+1650,BILL,,Thriller,losthighway,85,bill-losthighway
+1651,JUDGE ROBINSON,,Crime,fracture,84,judge_robinson-fracture
+1652,TAPP,,Mystery,saw,149,tapp-saw
+1653,SWANN,,Comedy,piratesofthecaribbean,96,swann-piratesofthecaribbean
+1654,MICHAEL (Orson Welles - voice over from the film),,Comedy,manhattanmurdermystery,21,michael_(orson_welles_-_voice_over_from_the_film)-manhattanmurdermystery
+1655,MARIE,,Comedy,highfidelity,101,marie-highfidelity
+1656,ROONEY,,Comedy,yesman,103,rooney-yesman
+1657,SEN. MARTIN,,Thriller,silenceofthelambs,56,sen._martin-silenceofthelambs
+1658,MISS ADRIAN,,Comedy,evencowgirlsgettheblues,98,miss_adrian-evencowgirlsgettheblues
+1659,ENSEMBLE,,Musical,ducksoup,29,ensemble-ducksoup
+1660,EMMA,,Adventure,avengersthe,710,emma-avengersthe
+1661,SARAH (cont'd),,Sci-Fi,hollowman,32,sarah_(cont'd)-hollowman
+1662,MUMBLE (VO),,Family,happyfeet,61,mumble_(vo)-happyfeet
+1663,JUDE,,Drama,cryinggame,217,jude-cryinggame
+1664,MAX,,Crime,midnightexpress,211,max-midnightexpress
+1665,PILOT,,Crime,chinatown,49,pilot-chinatown
+1666,JUMPY,,Thriller,reindeergames,104,jumpy-reindeergames
+1667,MAJOREK,,War,pianistthe,54,majorek-pianistthe
+1668,TOMMY,,Drama,crowsalvationthe,69,tommy-crowsalvationthe
+1669,AL,,Horror,losthighway,62,al-losthighway
+1670,ROLAND (cont'd),,Adventure,jurassicparkthelostworld,24,roland_(cont'd)-jurassicparkthelostworld
+1671,LEDNOV,,Western,roughshod,109,lednov-roughshod
+1672,VOICE,,Drama,manonfire,43,voice-manonfire
+1673,SOUTHAMPTON,,Drama,anonymous,157,southampton-anonymous
+1674,DENISE,,Romance,stuntmanthe,76,denise-stuntmanthe
+1675,LISA,,Action,manonfire,175,lisa-manonfire
+1676,VIVIENNE,,Comedy,arthur,163,vivienne-arthur
+1677,CELESTE,,Drama,celestejesseforever,592,celeste-celestejesseforever
+1678,DARGUS,,Crime,jackiebrown,182,dargus-jackiebrown
+1679,PHOTOGRAPHER,,Drama,citizenkane,26,photographer-citizenkane
+1680,KATSUMOTO,,Action,lastsamuraithe,350,katsumoto-lastsamuraithe
+1681,SHARI,,Comedy,edtv,270,shari-edtv
+1682,MORGAN,,Drama,aptpupil,53,morgan-aptpupil
+1683,CHARLES,M,Drama,observeandreport,81,charles-observeandreport
+1684,FBI AGENT,,Action,breakdown,33,fbi_agent-breakdown
+1685,HEIDI,F,Drama,dogdayafternoon,130,heidi-dogdayafternoon
+1686,MR. SAUNDERS,M,Drama,youthinrevolt,42,mr._saunders-youthinrevolt
+1687,STELLA,F,Thriller,rearwindow,400,stella-rearwindow
+1688,AMBER,F,Comedy,hesjustnotthatintoyou,22,amber-hesjustnotthatintoyou
+1689,SPORTSCASTER,,Thriller,fatalinstinct,29,sportscaster-fatalinstinct
+1690,JOCASTA NU,,Adventure,starwarsattackoftheclones,81,jocasta_nu-starwarsattackoftheclones
+1691,NEWMAN,,Mystery,fugitivethe,60,newman-fugitivethe
+1692,DR. EVIL,,Comedy,austinpowersthespywhoshaggedme,492,dr._evil-austinpowersthespywhoshaggedme
+1693,PRESIDENT,,Comedy,rushhour,110,president-rushhour
+1694,AIDE,,Thriller,spartan,44,aide-spartan
+1695,RAY,,Drama,hardrain,68,ray-hardrain
+1696,JOHN,M,Fantasy,prophecythe,144,john-prophecythe
+1697,NOKES,,Drama,badcountry,40,nokes-badcountry
+1698,JIM,M,Drama,jfk,2936,jim-jfk
+1699,DORIE,,War,pearlharbor,40,dorie-pearlharbor
+1700,FERRO,,Action,aliens,30,ferro-aliens
+1701,EDDIE,M,Comedy,rockyhorrorpictureshowthe,30,eddie-rockyhorrorpictureshowthe
+1702,BARNEY BALABAN,M,Drama,hitchcock,73,barney_balaban-hitchcock
+1703,ADULTERER,,Horror,feast,107,adulterer-feast
+1704,PINKUS,,Comedy,hisgirlfriday,106,pinkus-hisgirlfriday
+1705,STAN,,Romance,17again,69,stan-17again
+1706,BAILIFF,,Crime,fatalinstinct,29,bailiff-fatalinstinct
+1707,CAPTAIN,,Thriller,soimarriedanaxemurderer,70,captain-soimarriedanaxemurderer
+1708,MRS. MORITZ,F,Sci-Fi,frankenstein,28,mrs._moritz-frankenstein
+1709,SPECIAL AGENT HARRIS,,Mystery,buried,39,special_agent_harris-buried
+1710,ROPER,,Drama,metro,1216,roper-metro
+1711,RAMBO,M,Action,rambofirstbloodiithemission,413,rambo-rambofirstbloodiithemission
+1712,PAUL,M,Action,dune,733,paul-dune
+1713,JENNA,F,Thriller,pi,29,jenna-pi
+1714,(MORE),NA,Crime,smokinaces,32,(more)-smokinaces
+1715,SAMANTHA,F,Romance,17again,46,samantha-17again
+1716,VALJEAN,M,Romance,lesmiserables,783,valjean-lesmiserables
+1717,BIG SISTER,F,Romance,pianothe,22,big_sister-pianothe
+1718,UBERMAN,,Animation,megamind,34,uberman-megamind
+1719,HARRY,M,Fantasy,itsawonderfullife,84,harry-itsawonderfullife
+1720,FAMBROUGH,,Adventure,danceswithwolves,62,fambrough-danceswithwolves
+1721,KEVIN,M,Animation,despicableme2,23,kevin-despicableme2
+1722,AUFIDIUS,,Thriller,coriolanus,43,aufidius-coriolanus
+1723,PETE,M,Comedy,charliesangels,47,pete-charliesangels
+1724,FATHER REILLY,M,Thriller,darkknightrisesthe,30,father_reilly-darkknightrisesthe
+1725,SUSAN (ON TV),F,Mystery,copycat,21,susan_(on_tv)-copycat
+1726,ELIZABETH SWANN,F,Comedy,piratesofthecaribbeandeadmanschest,229,elizabeth_swann-piratesofthecaribbeandeadmanschest
+1727,"""PROLOGUE""",NA,Drama,anonymous,22,"""prologue""-anonymous"
+1728,CRUIKSHANK,,Mystery,charade,54,cruikshank-charade
+1729,SIDDONS,,Biography,doorsthe,74,siddons-doorsthe
+1730,BELINDA,F,Drama,ali,153,belinda-ali
+1731,FOREMAN,,Musical,lesmiserables,37,foreman-lesmiserables
+1732,TATIANA,F,Drama,hotelrwanda,239,tatiana-hotelrwanda
+1733,HUGH LANG,M,Drama,flight,62,hugh_lang-flight
+1734,CARABINIERE,,Thriller,avventuraltheadventure,38,carabiniere-avventuraltheadventure
+1735,RUTH,F,Comedy,intolerablecruelty,133,ruth-intolerablecruelty
+1736,HENDRICKS,,Thriller,jaws2,159,hendricks-jaws2
+1737,DR. MALLORY,,Comedy,hospitalthe,40,dr._mallory-hospitalthe
+1738,MARLENA,,Romance,waterforelephants,108,marlena-waterforelephants
+1739,(BEAT),,Drama,socialnetworkthe,82,(beat)-socialnetworkthe
+1740,STARLING (cont'd),,Horror,hannibal,41,starling_(cont'd)-hannibal
+1741,THE KID,M,Adventure,princessbridethe,119,the_kid-princessbridethe
+1742,JAR JAR,M,Adventure,starwarsattackoftheclones,82,jar_jar-starwarsattackoftheclones
+1743,FIGURE,,Action,lostinspace,26,figure-lostinspace
+1744,WILLIAM,M,Comedy,almostfamous,1216,william-almostfamous
+1745,PLEXOR,,Sci-Fi,tronlegacy,262,plexor-tronlegacy
+1746,MARILYN,F,Mystery,manhattanmurdermystery,27,marilyn-manhattanmurdermystery
+1747,KIRK,M,Comedy,shesoutofmyleague,939,kirk-shesoutofmyleague
+1748,VIVIAN WU,F,Action,charliesangels,71,vivian_wu-charliesangels
+1749,BOB,M,Comedy,wildhogs,104,bob-wildhogs
+1750,DUFFY,,Thriller,boondocksaints2allsaintsday,116,duffy-boondocksaints2allsaintsday
+1751,ERNESTNIOR,,Drama,brokenembraces,36,ernestnior-brokenembraces
+1752,PILOT,,Drama,lordofwar,26,pilot-lordofwar
+1753,ULLMAN,,Horror,shiningthe,274,ullman-shiningthe
+1754,SOLLOZZO,,Drama,godfather,158,sollozzo-godfather
+1755,JUAN,M,Comedy,freaked,87,juan-freaked
+1756,KATHLEEN (cont'd),F,Comedy,youvegotmail,21,kathleen_(cont'd)-youvegotmail
+1757,HEDRA (voice over),,Drama,singlewhitefemale,31,hedra_(voice_over)-singlewhitefemale
+1758,MRS. GUMP,F,Comedy,forrestgump,128,mrs._gump-forrestgump
+1759,RAY,,Drama,ciderhouserulesthe,35,ray-ciderhouserulesthe
+1760,COLIN,M,Drama,44inchchest,667,colin-44inchchest
+1761,TREVOR,M,Drama,maxpayne,28,trevor-maxpayne
+1762,EXLEY,,Mystery,laconfidential,743,exley-laconfidential
+1763,LEONARD,M,Drama,memento,913,leonard-memento
+1764,PAUL,M,Thriller,jurassicparkiii,315,paul-jurassicparkiii
+1765,GOWER,,Drama,itsawonderfullife,53,gower-itsawonderfullife
+1766,LINDA,F,Drama,buried,52,linda-buried
+1767,KUMAR (O.C.),,Adventure,haroldandkumargotowhitecastle,40,kumar_(o.c.)-haroldandkumargotowhitecastle
+1768,BOB,M,Thriller,colorofnight,163,bob-colorofnight
+1769,DOC FELIX,,Thriller,machete,47,doc_felix-machete
+1770,NURSE,,Romance,amour,46,nurse-amour
+1771,ELIAS,,Drama,platoon,229,elias-platoon
+1772,LIN,,Drama,2012,29,lin-2012
+1773,KAMAROV,,Adventure,prometheus,29,kamarov-prometheus
+1774,GRANTAIRE,,Musical,lesmiserables,45,grantaire-lesmiserables
+1775,VEERS,,Sci-Fi,starwarstheempirestrikesback,25,veers-starwarstheempirestrikesback
+1776,LUDLOW (cont'd),,Horror,jurassicparkthelostworld,61,ludlow_(cont'd)-jurassicparkthelostworld
+1777,WIZARD,M,Musical,wizardofozthe,187,wizard-wizardofozthe
+1778,KLAATU,,Sci-Fi,daytheearthstoodstillthe,760,klaatu-daytheearthstoodstillthe
+1779,NARRATOR,,Comedy,hospitalthe,60,narrator-hospitalthe
+1780,SPUNKMEYER,,Thriller,aliens,22,spunkmeyer-aliens
+1781,PIPPIN,,Action,lordoftheringsreturnoftheking,122,pippin-lordoftheringsreturnoftheking
+1782,MUM,F,Crime,snatch,31,mum-snatch
+1783,COP #1,,Comedy,threemenandababy,27,cop_#1-threemenandababy
+1784,KORBEN,,Romance,fifthelementthe,879,korben-fifthelementthe
+1785,GEKKO,,Crime,wallstreet,1110,gekko-wallstreet
+1786,LEILA,F,Sci-Fi,repoman,102,leila-repoman
+1787,THIS THING...,,Drama,dawnofthedead,38,this_thing...-dawnofthedead
+1788,MUNTZ,,Adventure,up,184,muntz-up
+1789,FEMALE DEEJAY,F,Crime,grossepointblank,23,female_deejay-grossepointblank
+1790,MR. MCQUIRE,M,Drama,graduatethe,24,mr._mcquire-graduatethe
+1791,BUDDY,,Drama,wildatheart,42,buddy-wildatheart
+1792,NANCY GARBOR,F,Romance,bodyguard,25,nancy_garbor-bodyguard
+1793,LOLA'S VOICE,F,Comedy,fatalinstinct,21,lola's_voice-fatalinstinct
+1794,FRANCISCO,,Drama,beinghuman,147,francisco-beinghuman
+1795,SPECTOR,,Drama,bodyguard,370,spector-bodyguard
+1796,THE PRESIDENT,,Drama,thirteendays,612,the_president-thirteendays
+1797,SPLEEN,,Comedy,mysterymen,69,spleen-mysterymen
+1798,DIGITAL VOICE,,Horror,mutewitness,43,digital_voice-mutewitness
+1799,NORRINGTON,,Action,piratesofthecaribbean,258,norrington-piratesofthecaribbean
+1800,EIRIE KID,,Crime,stingthe,69,eirie_kid-stingthe
+1801,POLICEMAN,M,Drama,babel,21,policeman-babel
+1802,DAWNIE,,Thriller,scream2,23,dawnie-scream2
+1803,BROOKE,,Drama,candletowater,116,brooke-candletowater
+1804,JFK,M,Crime,jfk,21,jfk-jfk
+1805,A U,,Crime,darkknightrisesthe,47,a_u-darkknightrisesthe
+1806,LEOPOLD,M,Drama,amadeus,167,leopold-amadeus
+1807,MACKELWAY,,Thriller,suspectzero,804,mackelway-suspectzero
+1808,S.S. MAN,M,Drama,daytheclowncriedthe,21,s.s._man-daytheclowncriedthe
+1809,FRIEND #3,,Family,megamind,21,friend_#3-megamind
+1810,CENSOR,,Sci-Fi,islandthe,43,censor-islandthe
+1811,LEE,,Drama,hannahandhersisters,868,lee-hannahandhersisters
+1812,PICARD,,Drama,startreknemesis,940,picard-startreknemesis
+1813,FATHER RIPPER,M,Comedy,heathers,32,father_ripper-heathers
+1814,WIFE,F,Mystery,avventuraltheadventure,30,wife-avventuraltheadventure
+1815,GLORIA,F,War,hotelrwanda,77,gloria-hotelrwanda
+1816,MA BAILEY,,Family,itsawonderfullife,22,ma_bailey-itsawonderfullife
+1817,CN EUSTACE,,Fantasy,itsawonderfullife,37,cn_eustace-itsawonderfullife
+1818,HOLMSTEAD,,Romance,battleofshakerheightsthe,35,holmstead-battleofshakerheightsthe
+1819,AUSTIN,,Action,heavymetal,25,austin-heavymetal
+1820,JIM,M,Comedy,newyorkminute,24,jim-newyorkminute
+1821,ALEX'S VOICE,,Horror,crowsalvationthe,39,alex's_voice-crowsalvationthe
+1822,FRY,,Thriller,pitchblack,642,fry-pitchblack
+1823,CN BEN,,Comedy,moonrisekingdom,78,cn_ben-moonrisekingdom
+1824,CLARK,,Romance,fromheretoeternity,24,clark-fromheretoeternity
+1825,BANKY,,Comedy,jayandsilentbobstrikeback,81,banky-jayandsilentbobstrikeback
+1826,GIDEON GRAVES,,Comedy,scottpilgrimvstheworld,22,gideon_graves-scottpilgrimvstheworld
+1827,BENEDICT,M,War,hotelrwanda,25,benedict-hotelrwanda
+1828,JEN,F,Crime,darkknightrisesthe,22,jen-darkknightrisesthe
+1829,PROFESSOR,,Action,fifthelementthe,92,professor-fifthelementthe
+1830,MORTATI,,Mystery,angelsdemons,137,mortati-angelsdemons
+1831,EPPS,,Action,ghostship,448,epps-ghostship
+1832,CATHERINE,F,Thriller,silenceofthelambs,76,catherine-silenceofthelambs
+1833,JOHNNY,M,Drama,minorityreport,32,johnny-minorityreport
+1834,O'CONNELL,,Action,mummythe,540,o'connell-mummythe
+1835,MAX,M,Sci-Fi,pi,837,max-pi
+1836,KREMPE,,Drama,frankenstein,62,krempe-frankenstein
+1837,DAN,M,Mystery,mulhollanddrive,32,dan-mulhollanddrive
+1838,ROBBIE,,Drama,doorsthe,119,robbie-doorsthe
+1839,VADER,M,Adventure,starwarstheempirestrikesback,187,vader-starwarstheempirestrikesback
+1840,NURSE,,Drama,amour,46,nurse-amour
+1841,COLONEL,,Thriller,daytheearthstoodstillthe,60,colonel-daytheearthstoodstillthe
+1842,COLONEL ANDERSON,,War,savingprivateryan,59,colonel_anderson-savingprivateryan
+1843,EDGAR,M,Action,meninblack,111,edgar-meninblack
+1844,RADIO NEWS,,Crime,copycat,21,radio_news-copycat
+1845,SAM PERKINS,,Drama,warhorse,43,sam_perkins-warhorse
+1846,MITCH,,Drama,5050,37,mitch-5050
+1847,SUSIE,F,Crime,jfk,377,susie-jfk
+1848,ELEANOR GRANT,,Thriller,nickoftime,165,eleanor_grant-nickoftime
+1849,PDAD,,Comedy,kungfupanda,132,pdad-kungfupanda
+1850,Char,NA,Genre,Title,line_count,char-title
+1851,STOLTZFUS,,Drama,witness,29,stoltzfus-witness
+1852,DANNY,M,Thriller,americanhistoryx,151,danny-americanhistoryx
+1853,SERENA (cont'd),F,Sci-Fi,terminatorsalvation,41,serena_(cont'd)-terminatorsalvation
+1854,IFTY,,Drama,iamsam,117,ifty-iamsam
+1855,SIMONE / VIKTOR,,Comedy,simone,113,simone_/_viktor-simone
+1856,ROHNA,,Romance,grandhotel,26,rohna-grandhotel
+1857,REBECCA,F,Romance,bodyofevidence,454,rebecca-bodyofevidence
+1858,FELIX,,Horror,frankenstein,26,felix-frankenstein
+1859,TV PRESENTER,,Sci-Fi,perfectcreature,48,tv_presenter-perfectcreature
+1860,(CONTINUED),NA,Adventure,lordoftheringsfellowshipoftheringthe,188,(continued)-lordoftheringsfellowshipoftheringthe
+1861,HOLLEY,,Action,cars2,301,holley-cars2
+1862,SONNY,,Crime,godfather,322,sonny-godfather
+1863,COATES,,Mystery,laconfidential,42,coates-laconfidential
+1864,CROMWELL,,Drama,wallstreet,53,cromwell-wallstreet
+1865,BRYAN,M,Comedy,lifeasahouse,93,bryan-lifeasahouse
+1866,FOREMAN,,Drama,lesmiserables,37,foreman-lesmiserables
+1867,AMBASSADOR HAN,,Comedy,rushhour,66,ambassador_han-rushhour
+1868,PATTEN,,Crime,kingofcomedythe,136,patten-kingofcomedythe
+1869,OFFICER PASKI,,Horror,signs,239,officer_paski-signs
+1870,LT. PAUL,,Horror,prophecythe,26,lt._paul-prophecythe
+1871,MCMASTERS,,Action,tombstone,99,mcmasters-tombstone
+1872,GUS,M,Mystery,basicinstinct,349,gus-basicinstinct
+1873,DUKE,M,Adventure,frozendisney,111,duke-frozendisney
+1874,TIFFANY,F,Drama,silverliningsplaybook,764,tiffany-silverliningsplaybook
+1875,FEATHER,,Drama,limeythe,48,feather-limeythe
+1876,VALERIE,F,Action,fairgame,783,valerie-fairgame
+1877,GEORGIA,F,Romance,beginners,60,georgia-beginners
+1878,KATHRYN,F,Mystery,getlow,22,kathryn-getlow
+1879,GIN,,Action,entrapment,956,gin-entrapment
+1880,GRUELLER,,Action,buffythevampireslayer,51,grueller-buffythevampireslayer
+1881,COHAAGEN,,Adventure,totalrecall,101,cohaagen-totalrecall
+1882,HEDRA (voice over),,Thriller,singlewhitefemale,31,hedra_(voice_over)-singlewhitefemale
+1883,JAFAR's back is to ALADDIN.),NA,Musical,aladdin,27,jafar's_back_is_to_aladdin.)-aladdin
+1884,MARK,M,Fantasy,fieldofdreams,46,mark-fieldofdreams
+1885,NANCY,F,Drama,saltonseathe,38,nancy-saltonseathe
+1886,MCCURDY,,Thriller,bodyofevidence,78,mccurdy-bodyofevidence
+1887,ROSANNA,F,Thriller,manonfire,116,rosanna-manonfire
+1888,ELLIS,,Mystery,cellular,48,ellis-cellular
+1889,CARTER,,Thriller,hollowman,124,carter-hollowman
+1890,RYAN (VO),M,Action,cellular,59,ryan_(vo)-cellular
+1891,KATHERINE,F,Action,islandthe,140,katherine-islandthe
+1892,FELIX,M,Comedy,charade,69,felix-charade
+1893,LAWRENCE,,Sci-Fi,trumanshowthe,44,lawrence-trumanshowthe
+1894,BEAMEN,,Comedy,bigfish,39,beamen-bigfish
+1895,CLARA,F,Mystery,tallinthesaddle,155,clara-tallinthesaddle
+1896,STRYVER,,Thriller,darkknightrisesthe,46,stryver-darkknightrisesthe
+1897,OLEG,,Crime,15minutes,165,oleg-15minutes
+1898,LANCE,M,Drama,battleofshakerheightsthe,99,lance-battleofshakerheightsthe
+1899,TEACHER,,Drama,cinemaparadiso,21,teacher-cinemaparadiso
+1900,MERCUTIO (CONT.),M,Drama,romeojuliet,79,mercutio_(cont.)-romeojuliet
+1901,COMIC,,Romance,anniehall,52,comic-anniehall
+1902,FRANK,M,Drama,bluevelvet,220,frank-bluevelvet
+1903,VOICE OVER (cont'd),,Drama,blackdahliathe,156,voice_over_(cont'd)-blackdahliathe
+1904,EXECUTIVE,,Romance,hudsuckerproxythe,59,executive-hudsuckerproxythe
+1905,JOHN,M,Comedy,dropdeadgorgeous,47,john-dropdeadgorgeous
+1906,KYNES,,Sci-Fi,dune,145,kynes-dune
+1907,ESTEVEZ,,Thriller,legion,22,estevez-legion
+1908,SYKES,,Thriller,kingdomthe,54,sykes-kingdomthe
+1909,DOYLE,,Crime,intolerablecruelty,103,doyle-intolerablecruelty
+1910,BULLOCK,,Fantasy,batman2,25,bullock-batman2
+1911,COSTELLO,,Crime,departedthe,589,costello-departedthe
+1912,TEAGUE,,Drama,coldmountain,231,teague-coldmountain
+1913,GARY,M,Drama,sideways,33,gary-sideways
+1914,BOY,M,Action,terminatorsalvation,21,boy-terminatorsalvation
+1915,NORA,F,Thriller,finaldestination2,59,nora-finaldestination2
+1916,SWAN,,Crime,ticker,63,swan-ticker
+1917,MR. HOWARD,M,Comedy,dropdeadgorgeous,28,mr._howard-dropdeadgorgeous
+1918,RHINEHEART,,Thriller,matrixthe,22,rhineheart-matrixthe
+1919,MR. HIMBRY,M,Thriller,scream,40,mr._himbry-scream
+1920,RADIO,,Comedy,repoman,25,radio-repoman
+1921,BILL,M,Action,killbillvolume12,575,bill-killbillvolume12
+1922,WOODY (VOICE BOX),,Comedy,toystory,43,woody_(voice_box)-toystory
+1923,VERNON,,Mystery,limitless,61,vernon-limitless
+1924,MICHELLE,F,Drama,manintheironmask,54,michelle-manintheironmask
+1925,MARAT BUZHAYEV,,Drama,weownthenight,93,marat_buzhayev-weownthenight
+1926,MONKEYBONE,,Animation,monkeybone,174,monkeybone-monkeybone
+1927,YUKI (JAPANESE),,Comedy,killbillvolume12,49,yuki_(japanese)-killbillvolume12
+1928,MRS. MURPHY,F,Action,hackers,71,mrs._murphy-hackers
+1929,PROSECUTOR,,Comedy,custody,74,prosecutor-custody
+1930,EDWARD,,Thriller,case39,94,edward-case39
+1931,MAGISTRATE,,Action,braveheart,67,magistrate-braveheart
+1932,MATT,M,Horror,hollowman,452,matt-hollowman
+1933,UNCLE,,Drama,barrylyndon,41,uncle-barrylyndon
+1934,RIPLEY,,Sci-Fi,alien3,757,ripley-alien3
+1935,JUNIOR,,War,coldmountain,69,junior-coldmountain
+1936,TRIP,,Comedy,detroitrockcity,280,trip-detroitrockcity
+1937,ML,,Drama,dotherightthing,86,ml-dotherightthing
+1938,BELLYGUNNER,,Sci-Fi,heavymetal,32,bellygunner-heavymetal
+1939,BUD,,Mystery,laconfidential,518,bud-laconfidential
+1940,JEWELER,,Thriller,daytheearthstoodstillthe,22,jeweler-daytheearthstoodstillthe
+1941,ANNA,F,Fantasy,christcomplex,184,anna-christcomplex
+1942,SECRETARY OF STATE,,Crime,rushhour,44,secretary_of_state-rushhour
+1943,SOPHIE,,Musical,anastasia,56,sophie-anastasia
+1944,ULTRA MAGNUS,,Animation,transformersthemovie,119,ultra_magnus-transformersthemovie
+1945,JUDGE,,Romance,17again,37,judge-17again
+1946,TOMLIN,,Mystery,cellular,83,tomlin-cellular
+1947,JANEWAY (ON VIEWSCREEN),,Thriller,startreknemesis,31,janeway_(on_viewscreen)-startreknemesis
+1948,JASON,M,Thriller,bloodandwine,219,jason-bloodandwine
+1949,BEN,M,Romance,leavinglasvegas,864,ben-leavinglasvegas
+1950,BIGGY,,Drama,44inchchest,32,biggy-44inchchest
+1951,CHARLIE,M,Drama,fabulousbakerboysthe,34,charlie-fabulousbakerboysthe
+1952,DANNY,M,Crime,saltonseathe,987,danny-saltonseathe
+1953,OFFICER HINES,,Crime,sdarko,28,officer_hines-sdarko
+1954,SYDNEY PRR,,Drama,americanhustle,350,sydney_prr-americanhustle
+1955,STORE CLERK,,Comedy,threemenandababy,42,store_clerk-threemenandababy
+1956,COL. AXELROD,,Drama,airforceone,26,col._axelrod-airforceone
+1957,DELONGPRE,,Action,jasonx,286,delongpre-jasonx
+1958,LAUREN,F,Drama,crowsalvationthe,25,lauren-crowsalvationthe
+1959,CHANCELLOR WILSON,,Action,programthe,32,chancellor_wilson-programthe
+1960,EYES,,Crime,darkman,23,eyes-darkman
+1961,HAN,,Sci-Fi,starwarsanewhope,500,han-starwarsanewhope
+1962,LECTURER,,Drama,spartan,21,lecturer-spartan
+1963,CHRISTINE,F,Musical,detroitrockcity,112,christine-detroitrockcity
+1964,MRS. MACGRUDER,F,Drama,birdsthe,81,mrs._macgruder-birdsthe
+1965,DONNIE,,Action,machinegunpreacher,176,donnie-machinegunpreacher
+1966,DROP SHADOW,,Thriller,wildatheart,46,drop_shadow-wildatheart
+1967,DR. GYNDE,,Crime,bluevelvet,23,dr._gynde-bluevelvet
+1968,ADAM,M,Thriller,verybadthings,390,adam-verybadthings
+1969,TWALD,,Thriller,jfk,32,twald-jfk
+1970,CHARLIE,M,Action,legion,285,charlie-legion
+1971,DR. BETTES,,Drama,asgoodasitgets,62,dr._bettes-asgoodasitgets
+1972,RIGHT ARM,,Romance,fifthelementthe,55,right_arm-fifthelementthe
+1973,OWNER,,Fantasy,itsawonderfullife,26,owner-itsawonderfullife
+1974,KATSUMOTO,,Drama,lastsamuraithe,350,katsumoto-lastsamuraithe
+1975,INGRID,F,Crime,americanthe,29,ingrid-americanthe
+1976,EVE,F,Action,faceoff,283,eve-faceoff
+1977,OFFICER,,Sci-Fi,independenceday,23,officer-independenceday
+1978,TIM,M,Thriller,finaldestination2,33,tim-finaldestination2
+1979,CANTER,,Sci-Fi,surrogates,24,canter-surrogates
+1980,CHRISTY,,Adventure,haroldandkumargotowhitecastle,21,christy-haroldandkumargotowhitecastle
+1981,BARNEY,,Thriller,hannibal,105,barney-hannibal
+1982,THE THING,M,Action,fantasticfour,24,the_thing-fantasticfour
+1983,JOE,M,Drama,midnightcowboy,657,joe-midnightcowboy
+1984,HERSHEY,,Sci-Fi,judgedredd,113,hershey-judgedredd
+1985,NARRATOR: ...The search began shortly after,,Crime,whiteribbonthe,22,narrator:_...the_search_began_shortly_after-whiteribbonthe
+1986,PRINCESS,F,Mystery,avventuraltheadventure,37,princess-avventuraltheadventure
+1987,WOMAN,F,Comedy,highfidelity,53,woman-highfidelity
+1988,BAZYLEV,,Drama,airforceone,38,bazylev-airforceone
+1989,FRED,M,Crime,blow,107,fred-blow
+1990,SAM,M,Crime,afewgoodmen,293,sam-afewgoodmen
+1991,DICK,M,Comedy,almostfamous,261,dick-almostfamous
+1992,DEALER,,Thriller,ticker,30,dealer-ticker
+1993,SLOSS,,Romance,chasingamy,60,sloss-chasingamy
+1994,SUE,F,Thriller,carrie,179,sue-carrie
+1995,STARSCREAM,,Family,transformersthemovie,64,starscream-transformersthemovie
+1996,HUNTER,,Sci-Fi,predator,39,hunter-predator
+1997,WEINSTOCK,,Thriller,frenchconnectionthe,36,weinstock-frenchconnectionthe
+1998,LANDO,,Action,starwarstheempirestrikesback,202,lando-starwarstheempirestrikesback
+1999,GINGER'S VOICE,F,Drama,terminator,27,ginger's_voice-terminator
+2000,OFFICIAL,,Drama,jfk,23,official-jfk
+2001,MACREEDY,,Drama,baddayatblackrock,869,macreedy-baddayatblackrock
+2002,CHOI YAN LEE,,Drama,onlygodforgives,23,choi_yan_lee-onlygodforgives
+2003,COSETTE,F,Musical,lesmiserables,181,cosette-lesmiserables
+2004,MIKE,M,Drama,babel,117,mike-babel
+2005,CALIBANOS,,Drama,blow,25,calibanos-blow
+2006,BRENT MUSTANGBURGER,M,Animation,cars2,120,brent_mustangburger-cars2
+2007,HATTIE,,Drama,tosleepwithanger,116,hattie-tosleepwithanger
+2008,MAPP,,Horror,hannibal,95,mapp-hannibal
+2009,FATHER,M,Comedy,stuntmanthe,26,father-stuntmanthe
+2010,JANET,F,Comedy,beinghuman,46,janet-beinghuman
+2011,REBA,F,Drama,manhunter,127,reba-manhunter
+2012,NICK,M,Thriller,jurassicparkthelostworld,167,nick-jurassicparkthelostworld
+2013,THE BRIDE (JAPANESE),,Crime,killbillvolume12,99,the_bride_(japanese)-killbillvolume12
+2014,IMHOTEP,M,Horror,mummythe,102,imhotep-mummythe
+2015,MITCHELL,,Action,independenceday,36,mitchell-independenceday
+2016,PRESCOTT,,Crime,takingofpelhamonetwothreethe,164,prescott-takingofpelhamonetwothreethe
+2017,PENGUIN (cont.),,Thriller,batman2,40,penguin_(cont.)-batman2
+2018,SS CAPTAIN,,Drama,pianistthe,29,ss_captain-pianistthe
+2019,DAPHNE,F,Action,15minutes,121,daphne-15minutes
+2020,MCKEE,,Drama,adaptation,120,mckee-adaptation
+2021,MRS. O'REILLY,F,Romance,barrylyndon,49,mrs._o'reilly-barrylyndon
+2022,BILLY,M,Thriller,departedthe,763,billy-departedthe
+2023,BRUTAL,,Drama,greenmilethe,304,brutal-greenmilethe
+2024,CALVINO,,Crime,donniebrasco,53,calvino-donniebrasco
+2025,ALISON,F,Comedy,500daysofsummer,38,alison-500daysofsummer
+2026,BOSLEY,,Comedy,charliesangels,124,bosley-charliesangels
+2027,MILLER,,Thriller,spartan,261,miller-spartan
+2028,FERGUS,,Romance,cryinggame,883,fergus-cryinggame
+2029,JESSICA,F,Mystery,cellular,423,jessica-cellular
+2030,HARMSWAY (cont'd),,Thriller,tomorrowneverdies,28,harmsway_(cont'd)-tomorrowneverdies
+2031,DR SCOTT,,Sci-Fi,rockyhorrorpictureshowthe,25,dr_scott-rockyhorrorpictureshowthe
+2032,LECTURER,,Drama,rebelwithoutacause,75,lecturer-rebelwithoutacause
+2033,TROY,M,Action,independenceday,30,troy-independenceday
+2034,GLINDA,F,Family,wizardofozthe,125,glinda-wizardofozthe
+2035,ELIZABETH (OC),F,Comedy,punchdrunklove,22,elizabeth_(oc)-punchdrunklove
+2036,QUINCE,,Romance,meetjoeblack,268,quince-meetjoeblack
+2037,KELLY,F,Action,jurassicparkthelostworld,80,kelly-jurassicparkthelostworld
+2038,JESSICA,F,Thriller,zerodarkthirty,53,jessica-zerodarkthirty
+2039,YURI (O.C.),,Crime,lordofwar,26,yuri_(o.c.)-lordofwar
+2040,NOURISH,,Sci-Fi,existenz,35,nourish-existenz
+2041,HUMPERDINCK,M,Family,princessbridethe,244,humperdinck-princessbridethe
+2042,ROSE,F,Crime,minorityreport,140,rose-minorityreport
+2043,J.D.,,Comedy,haroldandkumargotowhitecastle,69,j.d.-haroldandkumargotowhitecastle
+2044,TIM,M,Thriller,baddayatblackrock,173,tim-baddayatblackrock
+2045,ROACH,,Comedy,nextfriday,188,roach-nextfriday
+2046,DAVID,M,Thriller,unbreakable,590,david-unbreakable
+2047,ALICIA,F,Fantasy,batman,21,alicia-batman
+2048,ANNE,F,Action,manintheironmask,85,anne-manintheironmask
+2049,VINCENT,M,Crime,ronin,538,vincent-ronin
+2050,KUNOV,,Drama,airforceone,324,kunov-airforceone
+2051,CAT,F,Drama,colombiana,425,cat-colombiana
+2052,SCUD,,Action,bladeii,175,scud-bladeii
+2053,GEORGE,M,Drama,erinbrockovich,304,george-erinbrockovich
+2054,CHIP,,Horror,jennifersbody,358,chip-jennifersbody
+2055,MRS. HIGHSMITH,F,Comedy,hebrewhammerthe,30,mrs._highsmith-hebrewhammerthe
+2056,KYLE,M,Adventure,terminatorsalvation,113,kyle-terminatorsalvation
+2057,FRANK THE PUG,M,Action,meninblack,33,frank_the_pug-meninblack
+2058,BUCKY,,Mystery,blackdahliathe,902,bucky-blackdahliathe
+2059,MARY,F,Comedy,groundhogday,21,mary-groundhogday
+2060,RHODES,,Thriller,bloodsimple,28,rhodes-bloodsimple
+2061,RAPHAEL,M,Comedy,crimespree,67,raphael-crimespree
+2062,MIKE,M,Romance,rocky,38,mike-rocky
+2063,SWAN,,Thriller,ticker,63,swan-ticker
+2064,CAPTAIN,,Drama,battleofalgiersthe,58,captain-battleofalgiersthe
+2065,PROFESSOR CARTER,,Fantasy,butterflyeffectthe,31,professor_carter-butterflyeffectthe
+2066,SUE,F,Sci-Fi,fantasticfour,417,sue-fantasticfour
+2067,THOMAS,M,Drama,marty,198,thomas-marty
+2068,FLOWER SALESMAN,M,Crime,observeandreport,28,flower_salesman-observeandreport
+2069,SALESGIRL,F,Drama,confidence,30,salesgirl-confidence
+2070,WOMAN,F,Thriller,copycat,22,woman-copycat
+2071,MATER'S VOICE (ON TV),M,Animation,cars2,22,mater's_voice_(on_tv)-cars2
+2072,CARL,M,Crime,thunderheart,25,carl-thunderheart
+2073,ANDERSON'S VOICE,M,Sci-Fi,minorityreport,32,anderson's_voice-minorityreport
+2074,GRANDPIERRE,M,Thriller,charade,175,grandpierre-charade
+2075,WAYNE SCOTT,M,Animation,megamind,89,wayne_scott-megamind
+2076,SCALI,,Drama,thirteendays,33,scali-thirteendays
+2077,BRENDAN GRANT,M,Crime,nickoftime,135,brendan_grant-nickoftime
+2078,LARRY,M,Action,bladetrinity,30,larry-bladetrinity
+2079,BLIND MAN,M,Drama,coldmountain,24,blind_man-coldmountain
+2080,TUDOR,,Sci-Fi,shivers,114,tudor-shivers
+2081,ESSEX,,Drama,anonymous,174,essex-anonymous
+2082,NARRATION,,Action,tombstone,174,narration-tombstone
+2083,BURT GRUSINSKY,M,Crime,weownthenight,262,burt_grusinsky-weownthenight
+2084,RAVEL,,Fantasy,seventhsealthe,23,ravel-seventhsealthe
+2085,BRUCE,M,Action,batman2,372,bruce-batman2
+2086,SPEEDY,,Family,newyorkminute,30,speedy-newyorkminute
+2087,VERN,M,Thriller,limitless,56,vern-limitless
+2088,FRANK,M,Crime,klute,73,frank-klute
+2089,RACHEL (cont'd),F,Thriller,insomnia,30,rachel_(cont'd)-insomnia
+2090,CHRISTMAS,,Thriller,worldisnotenoughthe,152,christmas-worldisnotenoughthe
+2091,CHINA DOLL,,Musical,honeydripper,206,china_doll-honeydripper
+2092,GUTHERIE,,Action,fugitivethe,45,gutherie-fugitivethe
+2093,MARIANNE,F,Romance,easya,152,marianne-easya
+2094,NADYA,F,Drama,spartan,35,nadya-spartan
+2095,HOLDT,,Thriller,halloweenthecurseofmichaelmyers,27,holdt-halloweenthecurseofmichaelmyers
+2096,COLIN sits with the phone to his ear. The sound of Marilyn,NA,Drama,myweekwithmarilyn,26,colin_sits_with_the_phone_to_his_ear._the_sound_of_marilyn-myweekwithmarilyn
+2097,CGUARD DISPATCHER ( RADIO),,Horror,ghostship,57,cguard_dispatcher_(_radio)-ghostship
+2098,NYSSA,,Horror,bladeii,257,nyssa-bladeii
+2099,FARAMIR,M,Fantasy,lordoftheringsreturnoftheking,31,faramir-lordoftheringsreturnoftheking
+2100,JN,,Thriller,anonymous,455,jn-anonymous
+2101,DEE,,Action,meninblack,21,dee-meninblack
+2102,MR. BISHOP,M,Drama,moonrisekingdom,93,mr._bishop-moonrisekingdom
+2103,RIPLEY,,Drama,alien3,757,ripley-alien3
+2104,JACKSON,,Drama,doubleindemnity,86,jackson-doubleindemnity
+2105,CONRAD,,Thriller,vforvendetta,66,conrad-vforvendetta
+2106,SLICK,,Musical,honeydripper,90,slick-honeydripper
+2107,KIRSTEN,F,Action,totalrecall,131,kirsten-totalrecall
+2108,OPERATOR GIRL (OC),F,Romance,punchdrunklove,49,operator_girl_(oc)-punchdrunklove
+2109,ALMA,F,Drama,affliction,52,alma-affliction
+2110,KIERSEY,,Crime,badcountry,100,kiersey-badcountry
+2111,COP,,Comedy,stuntmanthe,22,cop-stuntmanthe
+2112,CARRIE,F,Romance,eternalsunshineofthespotlessmind,44,carrie-eternalsunshineofthespotlessmind
+2113,SARAH (cont'd),F,Action,jurassicparkthelostworld,23,sarah_(cont'd)-jurassicparkthelostworld
+2114,WALLY,M,Romance,ciderhouserulesthe,212,wally-ciderhouserulesthe
+2115,HOLOGRAM,,Action,irobot,49,hologram-irobot
+2116,JOSEPHINE,F,Drama,tombstone,171,josephine-tombstone
+2117,CANCE,,Action,independenceday,174,cance-independenceday
+2118,DEALER,,Crime,ticker,30,dealer-ticker
+2119,GERMAN SOLDIER,,War,warhorse,25,german_soldier-warhorse
+2120,BRENDA,F,Horror,slither,75,brenda-slither
+2121,CHARLIE T,M,Thriller,taxidriver,27,charlie_t-taxidriver
+2122,CONGRESSMAN,M,Thriller,darkknightrisesthe,29,congressman-darkknightrisesthe
+2123,WOMAN IN WHEELCHAIR,F,Mystery,privatelifeofsherlockholmesthe,31,woman_in_wheelchair-privatelifeofsherlockholmesthe
+2124,SEUNG KIM,,Comedy,yesman,38,seung_kim-yesman
+2125,SNYDER,,Drama,stingthe,103,snyder-stingthe
+2126,DENNIS,M,Thriller,hostage,390,dennis-hostage
+2127,NED,M,Musical,honeydripper,58,ned-honeydripper
+2128,BENEDICT,M,Thriller,hotelrwanda,25,benedict-hotelrwanda
+2129,(CONTINUED),NA,Comedy,beinghuman,634,(continued)-beinghuman
+2130,NIKKI,F,Thriller,fracture,252,nikki-fracture
+2131,PATROLMAN,,Crime,thelmalouise,25,patrolman-thelmalouise
+2132,BROWN,,Thriller,departedthe,68,brown-departedthe
+2133,TREEHORN,,Thriller,biglebowskithe,45,treehorn-biglebowskithe
+2134,MANNING,,Action,hellboy,123,manning-hellboy
+2135,MRS. GRIFFIN,F,Romance,easya,107,mrs._griffin-easya
+2136,ANAKIN,M,Fantasy,starwarsattackoftheclones,643,anakin-starwarsattackoftheclones
+2137,MITCH,M,Drama,littleathens,71,mitch-littleathens
+2138,BARTHOLOMEW'S VOICE,,Comedy,charade,22,bartholomew's_voice-charade
+2139,OFF,,Thriller,brokenembraces,32,off-brokenembraces
+2140,PHYSICIAN(o.s.),,Fantasy,unbreakable,31,physician(o.s.)-unbreakable
+2141,DOORMAN,M,Comedy,cradle2thegrave,28,doorman-cradle2thegrave
+2142,MICHAEL,M,Romance,autumninnewyork,32,michael-autumninnewyork
+2143,JAKE,M,Drama,stuntmanthe,145,jake-stuntmanthe
+2144,WHITACRE,,Comedy,informantthe,397,whitacre-informantthe
+2145,THE HWIFE,F,Crime,killbillvolume12,27,the_hwife-killbillvolume12
+2146,MRS. O'REILLY,F,Drama,barrylyndon,49,mrs._o'reilly-barrylyndon
+2147,(CONTINUED),NA,Action,transformersthemovie,140,(continued)-transformersthemovie
+2148,BASE CAMP OFFICER,,Drama,warhorse,27,base_camp_officer-warhorse
+2149,JIM,M,Comedy,election,609,jim-election
+2150,ALVY'S FATHER,M,Comedy,anniehall,26,alvy's_father-anniehall
+2151,DONNY,M,Crime,spartan,38,donny-spartan
+2152,ALAN,M,Mystery,hangoverthe,648,alan-hangoverthe
+2153,RACHEL,F,Thriller,insomnia,82,rachel-insomnia
+2154,MITCH,M,Comedy,littleathens,71,mitch-littleathens
+2155,BAILIFF,,Comedy,fatalinstinct,29,bailiff-fatalinstinct
+2156,STOICK,,Adventure,howtotrainyourdragon,96,stoick-howtotrainyourdragon
+2157,STEWARDESS,F,Romance,fifthelementthe,23,stewardess-fifthelementthe
+2158,BECKY,F,Comedy,sleeplessinseattle,178,becky-sleeplessinseattle
+2159,RADIO DJ,,Comedy,jennifersbody,26,radio_dj-jennifersbody
+2160,BOTHA,,Drama,powerofonethe,23,botha-powerofonethe
+2161,GEORGE,M,Thriller,wildatheart,81,george-wildatheart
+2162,THEO,M,Action,diehard,77,theo-diehard
+2163,PAUL,M,Horror,afterlife,324,paul-afterlife
+2164,SECRETARY,,Action,crowsalvationthe,48,secretary-crowsalvationthe
+2165,NELEC,,Sci-Fi,super8,77,nelec-super8
+2166,DUKE HAMMOND,M,Action,snowwhiteandthehuntsman,23,duke_hammond-snowwhiteandthehuntsman
+2167,PRUDENCE,F,Fantasy,redridinghood,25,prudence-redridinghood
+2168,DAPHNE,F,Thriller,15minutes,121,daphne-15minutes
+2169,SANTOS,,Romance,wildatheart,136,santos-wildatheart
+2170,TONY,M,Action,ronin,76,tony-ronin
+2171,PR MAN,M,Biography,doorsthe,29,pr_man-doorsthe
+2172,EVELYN (ON THE PHONE),F,Drama,sideways,44,evelyn_(on_the_phone)-sideways
+2173,BARRIS,,Crime,confessionsofadangerousmind,1282,barris-confessionsofadangerousmind
+2174,SUMMER,F,Romance,500daysofsummer,619,summer-500daysofsummer
+2175,STEADMAN,,Mystery,limitless,96,steadman-limitless
+2176,BETTY (cont'd),F,Drama,mulhollanddrive,131,betty_(cont'd)-mulhollanddrive
+2177,MR. ALLAN,M,Fantasy,liarliar,40,mr._allan-liarliar
+2178,TEACHER,,Animation,happyfeet,45,teacher-happyfeet
+2179,STOMPANATO,,Drama,laconfidential,69,stompanato-laconfidential
+2180,SERGE,,Adventure,airforceone,31,serge-airforceone
+2181,SUPER,,Sci-Fi,shivers,32,super-shivers
+2182,CLARKSON,,Comedy,sisteract,23,clarkson-sisteract
+2183,YBARRA,,Crime,changeling,252,ybarra-changeling
+2184,STARKE,,Action,ghostrider,36,starke-ghostrider
+2185,AUNT EM,F,Fantasy,wizardofozthe,77,aunt_em-wizardofozthe
+2186,NED,M,Comedy,groundhogday,97,ned-groundhogday
+2187,DISSOLVE TO:,NA,Drama,bluevelvet,34,dissolve_to:-bluevelvet
+2188,RAY,M,Mystery,thunderheart,817,ray-thunderheart
+2189,FRANCOIS,,Comedy,youthinrevolt,38,francois-youthinrevolt
+2190,JIM (VO ),M,Comedy,election,129,jim_(vo_)-election
+2191,RAZIEL,,Fantasy,willow,210,raziel-willow
+2192,KARLA,F,Thriller,istillknowwhatyoudidlastsummer,411,karla-istillknowwhatyoudidlastsummer
+2193,SHERYL LYNN,F,Drama,boogienights,60,sheryl_lynn-boogienights
+2194,BRYER,,Thriller,arbitrage,272,bryer-arbitrage
+2195,NEIL,M,Action,someonetowatchoverme,108,neil-someonetowatchoverme
+2196,CUT BACK TO:,NA,Sci-Fi,irobot,51,cut_back_to:-irobot
+2197,MR. GARINDI,,Thriller,hotelrwanda,33,mr._garindi-hotelrwanda
+2198,MAN,M,Action,buffythevampireslayer,33,man-buffythevampireslayer
+2199,ROBIN,M,Adventure,robinhoodprinceofthieves,957,robin-robinhoodprinceofthieves
+2200,SNAPBACK TO:,NA,Thriller,next,34,snapback_to:-next
+2201,GRAHAM,,Thriller,singlewhitefemale,95,graham-singlewhitefemale
+2202,PHILLY STEAK,,Adventure,italianjobthe,28,philly_steak-italianjobthe
+2203,VULTAN,,Adventure,flashgordon,75,vultan-flashgordon
+2204,PROFESSOR,M,Musical,wizardofozthe,121,professor-wizardofozthe
+2205,LARRY,M,Thriller,mrbrooks,28,larry-mrbrooks
+2206,REBECCA,F,Thriller,bodyofevidence,454,rebecca-bodyofevidence
+2207,CAMMI,,Drama,sideways,34,cammi-sideways
+2208,LIZ,F,Drama,jfk,250,liz-jfk
+2209,LUCY,F,Adventure,chroniclesofnarniathelionthewitchandthewardrobe,114,lucy-chroniclesofnarniathelionthewitchandthewardrobe
+2210,MR. DEMARCO,M,Comedy,storytelling,21,mr._demarco-storytelling
+2211,MRS. SLOAN,F,Thriller,allthepresidentsmen,21,mrs._sloan-allthepresidentsmen
+2212,BRAGNAE,,Romance,tristanandisolde,40,bragnae-tristanandisolde
+2213,BLAINE,,Comedy,hottubtimemachine,29,blaine-hottubtimemachine
+2214,MRS. BALDWIN,F,Romance,hisgirlfriday,73,mrs._baldwin-hisgirlfriday
+2215,RACHEL,F,Thriller,babel,30,rachel-babel
+2216,WOMAN,F,Crime,pointbreak,37,woman-pointbreak
+2217,NOSEY,,Sci-Fi,freaked,36,nosey-freaked
+2218,BLANCHE,F,Romance,bonnieandclyde,180,blanche-bonnieandclyde
+2219,JACKIE,F,Thriller,jacketthe,332,jackie-jacketthe
+2220,TONY,M,Sci-Fi,avengersthe2012,379,tony-avengersthe2012
+2221,TEDDY (cont'd),M,Thriller,memento,74,teddy_(cont'd)-memento
+2222,ALFRED,M,Crime,batman2,180,alfred-batman2
+2223,ELROND (cont'd),,Action,lordoftheringsreturnoftheking,24,elrond_(cont'd)-lordoftheringsreturnoftheking
+2224,DR. TARR (Cont'd),,Crime,changeling,22,dr._tarr_(cont'd)-changeling
+2225,LOLA,F,Crime,fatalinstinct,324,lola-fatalinstinct
+2226,MARIE,F,Drama,rocky,34,marie-rocky
+2227,CHEW,,Action,bladerunner,27,chew-bladerunner
+2228,BLACK MAN,M,Crime,stingthe,54,black_man-stingthe
+2229,P.A. SYSTEM (male v.o.),M,Comedy,airplane,21,p.a._system_(male_v.o.)-airplane
+2230,CHRISTIE,,Comedy,threemenandababy,31,christie-threemenandababy
+2231,RIFF RAFF,,Sci-Fi,rockyhorrorpictureshowthe,118,riff_raff-rockyhorrorpictureshowthe
+2232,MOLLY,,Drama,manhunter,209,molly-manhunter
+2233,MARTIN,,Comedy,grossepointblank,821,martin-grossepointblank
+2234,CAMERON,,Drama,socialnetworkthe,92,cameron-socialnetworkthe
+2235,SCHLEE,,Music,takingsides,65,schlee-takingsides
+2236,FADE OUT.,NA,Fantasy,armyofdarkness,24,fade_out.-armyofdarkness
+2237,DONNY,M,Thriller,super8,52,donny-super8
+2238,TRACY,,Crime,crowsalvationthe,28,tracy-crowsalvationthe
+2239,DETECTIVE HARRY MCKNIGHT,M,Romance,mulhollanddrive,27,detective_harry_mcknight-mulhollanddrive
+2240,NOVIAN,,Sport,twoforthemoney,24,novian-twoforthemoney
+2241,MATTHEW,M,Comedy,erinbrockovich,40,matthew-erinbrockovich
+2242,BRODIE,,Crime,faceoff,40,brodie-faceoff
+2243,MAN,M,Drama,tristanandisolde,29,man-tristanandisolde
+2244,SARGENT,M,Fantasy,toystory,92,sargent-toystory
+2245,CAT,F,Family,coraline,56,cat-coraline
+2246,MARAIS,,Drama,powerofonethe,69,marais-powerofonethe
+2247,MARCO,,Drama,colombiana,257,marco-colombiana
+2248,(CONTINUED),NA,Horror,takinglives,165,(continued)-takinglives
+2249,D: Just high.,NA,Comedy,withnailandi,101,d:_just_high.-withnailandi
+2250,CHERYL stops.,NA,Fantasy,evildead,25,cheryl_stops.-evildead
+2251,SARAH,F,Horror,scream3,92,sarah-scream3
+2252,QUEENAN,,Drama,departedthe,259,queenan-departedthe
+2253,BELLOQ,,Action,indianajonesandtheraidersofthelostark,162,belloq-indianajonesandtheraidersofthelostark
+2254,KENNY,M,Mystery,scream,25,kenny-scream
+2255,THE STRANGER,,Romance,senseandsensibility,28,the_stranger-senseandsensibility
+2256,ZEPH,,Horror,buffythevampireslayer,35,zeph-buffythevampireslayer
+2257,VERNITA,F,Thriller,killbillvolume12,61,vernita-killbillvolume12
+2258,ALBRECHT,,Fantasy,crowthe,214,albrecht-crowthe
+2259,MALE NURSE,M,Adventure,haroldandkumargotowhitecastle,29,male_nurse-haroldandkumargotowhitecastle
+2260,ZENG,,Animation,kungfupanda,65,zeng-kungfupanda
+2261,ERMINE,,Crime,blow,87,ermine-blow
+2262,EDITH,F,Comedy,despicableme2,46,edith-despicableme2
+2263,DENNIS,M,Mystery,backdraft,42,dennis-backdraft
+2264,TED,M,Sci-Fi,airplane2thesequel,535,ted-airplane2thesequel
+2265,SCALPER,,Adventure,detroitrockcity,34,scalper-detroitrockcity
+2266,NICKY,,Crime,donniebrasco,185,nicky-donniebrasco
+2267,"""BOTTOM""",NA,Drama,anonymous,21,"""bottom""-anonymous"
+2268,GUADALUPE,F,Drama,musicoftheheart,23,guadalupe-musicoftheheart
+2269,MARTIN,M,Drama,mumford,50,martin-mumford
+2270,COTES-PREEDY,,Drama,myweekwithmarilyn,21,cotes-preedy-myweekwithmarilyn
+2271,BOROMIR,M,Fantasy,lordoftheringsfellowshipoftheringthe,191,boromir-lordoftheringsfellowshipoftheringthe
+2272,GOTH GIRL,F,Thriller,lifeofdavidgalethe,93,goth_girl-lifeofdavidgalethe
+2273,URYENS,,Adventure,excalibur,35,uryens-excalibur
+2274,CUSTOMER,,Crime,fargo,42,customer-fargo
+2275,JIMMY,M,Action,boondocksaints2allsaintsday,27,jimmy-boondocksaints2allsaintsday
+2276,DAY-DAY (cont'd),,Comedy,nextfriday,34,day-day_(cont'd)-nextfriday
+2277,MANNY,,Adventure,waroftheworlds,41,manny-waroftheworlds
+2278,CLARENCE'S VOICE,M,Family,itsawonderfullife,56,clarence's_voice-itsawonderfullife
+2279,EVAN,M,Fantasy,butterflyeffectthe,1012,evan-butterflyeffectthe
+2280,MAYOR,,Adventure,wizardofozthe,25,mayor-wizardofozthe
+2281,WOODWARD,,Thriller,allthepresidentsmen,826,woodward-allthepresidentsmen
+2282,DEAN,M,Drama,punchdrunklove,116,dean-punchdrunklove
+2283,(TO HOLLEY),NA,Adventure,cars2,40,(to_holley)-cars2
+2284,WANDA,F,Drama,livinginoblivion,401,wanda-livinginoblivion
+2285,ARTUS,,Action,conanthebarbarian,71,artus-conanthebarbarian
+2286,ISABEL,F,Crime,oceanstwelve,515,isabel-oceanstwelve
+2287,PLAICE,,Adventure,masterandcommander,24,plaice-masterandcommander
+2288,VIKING BOB,M,Thriller,arcticblue,103,viking_bob-arcticblue
+2289,MUSGROVE,,Action,indianajonesandtheraidersofthelostark,41,musgrove-indianajonesandtheraidersofthelostark
+2290,WOMAN,F,Fantasy,unbreakable,42,woman-unbreakable
+2291,MARGARET,F,Drama,ghostworld,21,margaret-ghostworld
+2292,VALERIE,F,Comedy,adaptation,48,valerie-adaptation
+2293,VANCE.,,Comedy,500daysofsummer,31,vance.-500daysofsummer
+2294,DIANA,F,Thriller,fairgame,32,diana-fairgame
+2295,AIDE,,Drama,spartan,44,aide-spartan
+2296,KLAATU,,Drama,daytheearthstoodstillthe,760,klaatu-daytheearthstoodstillthe
+2297,ABDULLAH,,Drama,babel,188,abdullah-babel
+2298,MILLER'S CRNG -- by Joel and Ethan Coen,NA,Crime,millerscrossing,578,miller's_crng_--_by_joel_and_ethan_coen-millerscrossing
+2299,PITT,,Comedy,littleathens,40,pitt-littleathens
+2300,RICKY TAN,M,Comedy,rushhour2,124,ricky_tan-rushhour2
+2301,EPPS,,Thriller,ghostship,448,epps-ghostship
+2302,HANK,M,Horror,whenastrangercalls,30,hank-whenastrangercalls
+2303,DRIVER,,Adventure,starman,29,driver-starman
+2304,DORN,,Comedy,majorleague,94,dorn-majorleague
+2305,BENEDICT,M,Drama,hotelrwanda,25,benedict-hotelrwanda
+2306,PIPPIN,,Fantasy,lordoftheringsfellowshipoftheringthe,78,pippin-lordoftheringsfellowshipoftheringthe
+2307,YASUJIRO,,Thriller,babel,54,yasujiro-babel
+2308,CHARLIE CLARK,M,Crime,casino,62,charlie_clark-casino
+2309,DUMB GUY,M,Animation,beavisandbuttheaddoamerica,24,dumb_guy-beavisandbuttheaddoamerica
+2310,DORIE,,Romance,pearlharbor,40,dorie-pearlharbor
+2311,KYLE,M,Drama,takeshelter,71,kyle-takeshelter
+2312,CELESTE,F,Drama,kingofcomedythe,24,celeste-kingofcomedythe
+2313,OSBORNE,,Thriller,basic,475,osborne-basic
+2314,JANET (OC),F,Drama,magnolia,36,janet_(oc)-magnolia
+2315,KAUFMAN,,Drama,awakenings,134,kaufman-awakenings
+2316,SENIOR EDITOR,,Comedy,stepmom,22,senior_editor-stepmom
+2317,BARBER,,Sci-Fi,darkcity,40,barber-darkcity
+2318,FROST,,Horror,fromdusktilldawn,49,frost-fromdusktilldawn
+2319,JUDGE,,Thriller,walkingtall,33,judge-walkingtall
+2320,HIGH ALDWIN,,Fantasy,willow,67,high_aldwin-willow
+2321,JACK unwraps the PACKAGE.,NA,Crime,americanthe,26,jack_unwraps_the_package.-americanthe
+2322,CN TILLY,,Drama,itsawonderfullife,35,cn_tilly-itsawonderfullife
+2323,JOEY,M,Crime,hackers,97,joey-hackers
+2324,MARKINSON,,Thriller,afewgoodmen,113,markinson-afewgoodmen
+2325,RONALD,M,Comedy,cedarrapids,267,ronald-cedarrapids
+2326,IRIS,F,Action,strangedays,25,iris-strangedays
+2327,STARK,,Romance,fromheretoeternity,38,stark-fromheretoeternity
+2328,JOE (cont'd),M,Romance,meetjoeblack,77,joe_(cont'd)-meetjoeblack
+2329,ALEX,M,Thriller,crowsalvationthe,421,alex-crowsalvationthe
+2330,HENRY,M,Adventure,stuntmanthe,80,henry-stuntmanthe
+2331,DA VINCI,,Family,megamind,36,da_vinci-megamind
+2332,JOSHUA,M,Action,eightleggedfreaks,84,joshua-eightleggedfreaks
+2333,WASKI,,Drama,ramblingrose,32,waski-ramblingrose
+2334,SAILOR #1,,Comedy,youthinrevolt,28,sailor_#1-youthinrevolt
+2335,CHAMBERS,,Crime,cradle2thegrave,105,chambers-cradle2thegrave
+2336,MANRAY,,Drama,bamboozled,130,manray-bamboozled
+2337,INT.   CAR - ANGLE ON BURT,NA,Action,stuntmanthe,32,int.___car_-_angle_on_burt-stuntmanthe
+2338,MAGENTA,F,Comedy,rockyhorrorpictureshowthe,53,magenta-rockyhorrorpictureshowthe
+2339,THALIA,F,Comedy,beinghuman,34,thalia-beinghuman
+2340,JACK,M,Comedy,sugarandspice,212,jack-sugarandspice
+2341,MILLER,,Drama,myweekwithmarilyn,49,miller-myweekwithmarilyn
+2342,BECKY,F,Comedy,hangoverthe,44,becky-hangoverthe
+2343,MRS. FRANK,F,Mystery,whatliesbeneath,60,mrs._frank-whatliesbeneath
+2344,INDY,M,Adventure,indianajonesandthelastcrusade,959,indy-indianajonesandthelastcrusade
+2345,FAT LOU,,Horror,jasonx,29,fat_lou-jasonx
+2346,MATT,M,Thriller,terminator,35,matt-terminator
+2347,DONNY,M,Fantasy,ted,72,donny-ted
+2348,"(VOICE OVER, as he digs)",M,War,platoon,26,"(voice_over,_as_he_digs)-platoon"
+2349,ARLY,,Romance,tallinthesaddle,340,arly-tallinthesaddle
+2350,JIM,M,Action,newyorkminute,24,jim-newyorkminute
+2351,CHARLIE,M,Romance,battleofshakerheightsthe,39,charlie-battleofshakerheightsthe
+2352,BILLIE,F,Drama,stingthe,72,billie-stingthe
+2353,FISHLEGS,,Comedy,howtotrainyourdragon,24,fishlegs-howtotrainyourdragon
+2354,NOURISH,,Adventure,existenz,35,nourish-existenz
+2355,BUDDY,,Drama,ramblingrose,478,buddy-ramblingrose
+2356,OKRA,,Drama,tosleepwithanger,37,okra-tosleepwithanger
+2357,RABBI BOLENSKY,,Crime,intolerablecruelty,23,rabbi_bolensky-intolerablecruelty
+2358,CHILTON,,Crime,silenceofthelambs,170,chilton-silenceofthelambs
+2359,RUSH,,Sci-Fi,tronlegacy,763,rush-tronlegacy
+2360,BRETTON WOODS,,Drama,wallstreetmoneyneversleeps,215,bretton_woods-wallstreetmoneyneversleeps
+2361,CLARENCE,,Action,metro,33,clarence-metro
+2362,DAMON,,Fantasy,jacketthe,45,damon-jacketthe
+2363,CHUCK,,Drama,whitesquall,422,chuck-whitesquall
+2364,KARELSEN,,War,fromheretoeternity,34,karelsen-fromheretoeternity
+2365,AUFMAN,,Horror,landofthedead,36,aufman-landofthedead
+2366,JUKKA,,Comedy,bamboozled,35,jukka-bamboozled
+2367,JEANNE'S MOTHER,F,Romance,lasttangoinparis,41,jeanne's_mother-lasttangoinparis
+2368,TOP DOLLAR,,Action,crowthe,71,top_dollar-crowthe
+2369,KYLE,M,Action,terminatorsalvation,113,kyle-terminatorsalvation
+2370,RIKER,,Action,startreknemesis,181,riker-startreknemesis
+2371,CHARLIE,M,Thriller,italianjobthe,527,charlie-italianjobthe
+2372,SILBERMAN,,Thriller,terminator,75,silberman-terminator
+2373,ANNA,F,Comedy,nottinghill,667,anna-nottinghill
+2374,MRS. CHAMBERS,F,Horror,psycho,71,mrs._chambers-psycho
+2375,"WWII - warned us about it: ""beware",NA,Crime,jfk,21,"wwii_-_warned_us_about_it:_""beware-jfk"
+2376,DENNIS,M,Thriller,backdraft,42,dennis-backdraft
+2377,KELLY,F,Action,wildhogs,40,kelly-wildhogs
+2378,SAM,M,Drama,lifeasahouse,526,sam-lifeasahouse
+2379,MAN,M,Drama,stingthe,21,man-stingthe
+2380,JAKE,M,Action,stuntmanthe,145,jake-stuntmanthe
+2381,CARABINIERE,,Mystery,avventuraltheadventure,38,carabiniere-avventuraltheadventure
+2382,(CONTINUED),,Drama,memento,233,(continued)-memento
+2383,JC,,Crime,badlieutenant,29,jc-badlieutenant
+2384,NORM,,Thriller,fargo,66,norm-fargo
+2385,NICHOLS,,Thriller,fugitivethe,117,nichols-fugitivethe
+2386,DAVIS,,Action,cliffhanger,47,davis-cliffhanger
+2387,AGENT SID,,Adventure,jayandsilentbobstrikeback,31,agent_sid-jayandsilentbobstrikeback
+2388,SISTER ANNA,F,Drama,manonfire,21,sister_anna-manonfire
+2389,JENNY,F,Comedy,forrestgump,329,jenny-forrestgump
+2390,MISS HO KYM,F,Comedy,nextfriday,46,miss_ho_kym-nextfriday
+2391,COLONEL AL-GHAZI (O.C.),,Thriller,kingdomthe,43,colonel_al-ghazi_(o.c.)-kingdomthe
+2392,TESTA,F,Comedy,airplane2thesequel,32,testa-airplane2thesequel
+2393,BOND,,Action,worldisnotenoughthe,694,bond-worldisnotenoughthe
+2394,PROSECUTOR,,Thriller,fugitivethe,31,prosecutor-fugitivethe
+2395,(CONTINUED),NA,Fantasy,scottpilgrimvstheworld,157,(continued)-scottpilgrimvstheworld
+2396,SAM ROTH,M,Drama,godfatherpartii,22,sam_roth-godfatherpartii
+2397,QUINCE,,Mystery,meetjoeblack,268,quince-meetjoeblack
+2398,COP,,Adventure,ghostbusters2,26,cop-ghostbusters2
+2399,ANDERSON'S VOICE,M,Mystery,minorityreport,32,anderson's_voice-minorityreport
+2400,VICTORIA,F,Romance,twilightnewmoon,26,victoria-twilightnewmoon
+2401,RAMONA,F,Romance,intolerablecruelty,53,ramona-intolerablecruelty
+2402,HUEY,M,Crime,nickoftime,245,huey-nickoftime
+2403,OWNER,,Family,itsawonderfullife,26,owner-itsawonderfullife
+2404,HENRI,M,Mystery,redridinghood,51,henri-redridinghood
+2405,BUNNY,M,Comedy,edwood,51,bunny-edwood
+2406,ADMINISTRATOR,M,Drama,changeling,22,administrator-changeling
+2407,HASARI,M,Drama,cityofjoy,424,hasari-cityofjoy
+2408,ZEV,M,Fantasy,starwarstheempirestrikesback,25,zev-starwarstheempirestrikesback
+2409,MCCONNELL,M,Thriller,missiontomars,589,mcconnell-missiontomars
+2410,POLICEMAN,M,Romance,brokenembraces,21,policeman-brokenembraces
+2411,WILLY,M,Action,backdraft,32,willy-backdraft
+2412,WESLEY,M,Drama,lonestar,73,wesley-lonestar
+2413,CAP,M,Mystery,tallinthesaddle,79,cap-tallinthesaddle
+2414,TAI LUNG,M,Animation,kungfupanda,97,tai_lung-kungfupanda
+2415,OLIVER,M,Drama,killingzoe,186,oliver-killingzoe
+2416,GRAHAM,M,Thriller,signs,815,graham-signs
+2417,SIDNEY,M,Drama,sweetsmellofsuccess,1195,sidney-sweetsmellofsuccess
+2418,JENNIFER (CONT),F,Comedy,pleasantville,35,jennifer_(cont)-pleasantville
+2419,LEADER,,Action,fightclub,56,leader-fightclub
+2420,JEAN HILL,F,Mystery,jfk,126,jean_hill-jfk
+2421,O'HARA,M,Crime,arsenicandoldlace,245,o'hara-arsenicandoldlace
+2422,RAV COHEN,M,Sci-Fi,pi,111,rav_cohen-pi
+2423,HOOPER,M,Thriller,jaws,517,hooper-jaws
+2424,MAC,M,Sci-Fi,simone,25,mac-simone
+2425,SCOTT,M,Horror,fromdusktilldawn,96,scott-fromdusktilldawn
+2426,ELANORA,F,Romance,angeleyes,153,elanora-angeleyes
+2427,NARRATOR,,Comedy,hudsuckerproxythe,58,narrator-hudsuckerproxythe
+2428,JEREMY,M,Thriller,terminatorsalvation,51,jeremy-terminatorsalvation
+2429,LEVIN,M,Drama,annakarenina,263,levin-annakarenina
+2430,DAVID (cont'd),M,Sci-Fi,independenceday,27,david_(cont'd)-independenceday
+2431,DELIA,F,Horror,suspectzero,24,delia-suspectzero
+2432,LOOMIS,M,Thriller,halloweenthecurseofmichaelmyers,220,loomis-halloweenthecurseofmichaelmyers
+2433,RUBY,M,Thriller,jfk,51,ruby-jfk
+2434,HAL,M,Family,megamind,216,hal-megamind
+2435,COLVIN,M,Crime,maxpayne,83,colvin-maxpayne
+2436,WADE,M,Action,eightleggedfreaks,193,wade-eightleggedfreaks
+2437,ZEKE,M,Sci-Fi,pitchblack,39,zeke-pitchblack
+2438,HARDEMEYER,M,Action,ghostbusters2,65,hardemeyer-ghostbusters2
+2439,WILLIAM (cont'd),M,Drama,almostfamous,94,william_(cont'd)-almostfamous
+2440,RUSSIAN,M,Crime,snatch,27,russian-snatch
+2441,TOMMY,M,Horror,halloweenthecurseofmichaelmyers,160,tommy-halloweenthecurseofmichaelmyers
+2442,TESTA,F,Sci-Fi,airplane2thesequel,32,testa-airplane2thesequel
+2443,KRUGER,M,Comedy,airplane2thesequel,91,kruger-airplane2thesequel
+2444,KEVIN,M,Sci-Fi,limitless,34,kevin-limitless
+2445,HEARST,M,Drama,rko281,249,hearst-rko281
+2446,NED,M,Thriller,insidious,27,ned-insidious
+2447,CAROL (voice over from inside the car),F,Comedy,manhattanmurdermystery,25,carol_(voice_over_from_inside_the_car)-manhattanmurdermystery
+2448,BRITISH DELEGATE,M,Romance,charade,23,british_delegate-charade
+2449,DON FRANCESCO,M,Drama,godfatherpartii,29,don_francesco-godfatherpartii
+2450,SCHEER (INTO HEADSET),,Action,islandthe,21,scheer_(into_headset)-islandthe
+2451,SUMMER,F,Drama,500daysofsummer,619,summer-500daysofsummer
+2452,HOOKER,M,Drama,tombstone,47,hooker-tombstone
+2453,CARL,M,Romance,yesman,1297,carl-yesman
+2454,ED (on phone),M,Comedy,edwood,29,ed_(on_phone)-edwood
+2455,CONRAD,M,Thriller,copycat,57,conrad-copycat
+2456,BURT,M,Romance,stuntmanthe,26,burt-stuntmanthe
+2457,AMBER,F,Drama,boogienights,240,amber-boogienights
+2458,NOVELLI,M,Drama,bigbluethe,87,novelli-bigbluethe
+2459,LINDSEY,F,Adventure,abyssthe,514,lindsey-abyssthe
+2460,MAN 1,M,Thriller,darkcity,27,man_1-darkcity
+2461,DEREK,M,Thriller,bartonfink,24,derek-bartonfink
+2462,GUIDONE,M,Drama,lightsleeper,65,guidone-lightsleeper
+2463,BARRY,M,Thriller,residentevil,118,barry-residentevil
+2464,KAFKA,M,Drama,kafka,770,kafka-kafka
+2465,FROST,M,Thriller,fromdusktilldawn,49,frost-fromdusktilldawn
+2466,AUGUSTO,M,Crime,blow,67,augusto-blow
+2467,STAR,F,Sci-Fi,terminatorsalvation,79,star-terminatorsalvation
+2468,SADDAMN,M,Crime,observeandreport,45,saddamn-observeandreport
+2469,WADE,M,Crime,losersthe,131,wade-losersthe
+2470,CHRIS (cont.),M,Horror,residentevil,64,chris_(cont.)-residentevil
+2471,SALLY,F,Adventure,cars2,41,sally-cars2
+2472,MARY,F,Thriller,hauntingthe,78,mary-hauntingthe
+2473,MARTY,M,Drama,bloodsimple,241,marty-bloodsimple
+2474,SHEPARD,M,Drama,informantthe,148,shepard-informantthe
+2475,FADE OUT:,NA,Horror,perfectcreature,33,fade_out:-perfectcreature
+2476,FERN,F,Comedy,storytelling,93,fern-storytelling
+2477,CANADIAN REPRESENTATIVE,,Comedy,newyorkminute,22,canadian_representative-newyorkminute
+2478,DAVID,M,Comedy,punchdrunklove,65,david-punchdrunklove
+2479,SONA,F,Thriller,cradle2thegrave,42,sona-cradle2thegrave
+2480,CREW CUT,M,Crime,boondocksaints2allsaintsday,26,crew_cut-boondocksaints2allsaintsday
+2481,ARMAND,M,War,deerhunterthe,54,armand-deerhunterthe
+2482,(JAFAR pinches his beak shut.),NA,Musical,aladdin,25,(jafar_pinches_his_beak_shut.)-aladdin
+2483,DANNY,M,Thriller,oceanstwelve,458,danny-oceanstwelve
+2484,EMMA,F,Crime,mrbrooks,81,emma-mrbrooks
+2485,CAMP MASTER STRAUCH,M,Adventure,up,24,camp_master_strauch-up
+2486,KEZURE,M,Action,indianajonesiv,103,kezure-indianajonesiv
+2487,SCRAGGY,M,Action,indianajonesiv,189,scraggy-indianajonesiv
+2488,SARAH (cont'd),F,Thriller,hollowman,32,sarah_(cont'd)-hollowman
+2489,ROOM CLERK,M,Comedy,graduatethe,44,room_clerk-graduatethe
+2490,MR DENG,M,Comedy,henryfool,71,mr_deng-henryfool
+2491,CHARLES,M,Comedy,cradle2thegrave,44,charles-cradle2thegrave
+2492,HENRI-ANNE,F,Mystery,promnight,26,henri-anne-promnight
+2493,GALE,M,Thriller,scream3,387,gale-scream3
+2494,SAMANTHA,F,Thriller,takeshelter,412,samantha-takeshelter
+2495,DIRK,M,Comedy,jennifersbody,27,dirk-jennifersbody
+2496,NURSE,F,Crime,godfather,22,nurse-godfather
+2497,FRODO,M,Fantasy,lordoftheringsfellowshipoftheringthe,337,frodo-lordoftheringsfellowshipoftheringthe
+2498,ELLIS,M,Drama,mud,1142,ellis-mud
+2499,MAI,F,Thriller,onlygodforgives,80,mai-onlygodforgives
+2500,PHIL,M,Thriller,jaws2,25,phil-jaws2
+2501,MURNEY,M,Thriller,pacifierthe,116,murney-pacifierthe
+2502,MURPHY,M,Horror,ghostship,923,murphy-ghostship
+2503,OFFICER O'DELL,M,Crime,sdarko,130,officer_o'dell-sdarko
+2504,DR. MARTINEZ,F,Comedy,somethingsgottagive,48,dr._martinez-somethingsgottagive
+2505,ALLIE,F,Western,tombstone,28,allie-tombstone
+2506,LOKI,M,Adventure,dogma,115,loki-dogma
+2507,RAY,M,Mystery,istillknowwhatyoudidlastsummer,137,ray-istillknowwhatyoudidlastsummer
+2508,ANDERSON'S VOICE,M,Action,minorityreport,32,anderson's_voice-minorityreport
+2509,WILL,M,Adventure,whitesquall,25,will-whitesquall
+2510,SIMONE,F,Drama,simone,213,simone-simone
+2511,MRS. KETTNER,F,Comedy,shesoutofmyleague,22,mrs._kettner-shesoutofmyleague
+2512,COMMENDATORE,M,Drama,amadeus,51,commendatore-amadeus
+2513,MARV,M,Drama,wallstreet,163,marv-wallstreet
+2514,CAROL DEXTER,F,Crime,changeling,108,carol_dexter-changeling
+2515,RIGAZZI,M,Crime,analyzethat,48,rigazzi-analyzethat
+2516,CAINE 607,M,Action,soldier,41,caine_607-soldier
+2517,STERNN,M,Fantasy,heavymetal,55,sternn-heavymetal
+2518,MAE,F,Drama,grapesofwraththe,50,mae-grapesofwraththe
+2519,MR. BARREL,M,Thriller,killbillvolume12,28,mr._barrel-killbillvolume12
+2520,MARCON,M,Action,lastboyscoutthe,218,marcon-lastboyscoutthe
+2521,DR. CHU,,Comedy,hospitalthe,40,dr._chu-hospitalthe
+2522,CAROL,F,Romance,backupplanthe,153,carol-backupplanthe
+2523,MUNCHKINS,M,Family,wizardofozthe,47,munchkins-wizardofozthe
+2524,DR. PLODDER,M,Romance,kateleopold,88,dr._plodder-kateleopold
+2525,MARY,F,Romance,groundhogday,21,mary-groundhogday
+2526,PACE,M,Romance,wildatheart,32,pace-wildatheart
+2527,DOORMAN,M,Drama,babel,39,doorman-babel
+2528,ARDELIA,F,Thriller,silenceofthelambs,66,ardelia-silenceofthelambs
+2529,DEXTER JETTSTER,M,Adventure,starwarsattackoftheclones,43,dexter_jettster-starwarsattackoftheclones
+2530,HUB,M,Thriller,siegethe,1158,hub-siegethe
+2531,WEBSTER,M,Romance,shakespeareinlove,21,webster-shakespeareinlove
+2532,ROQUE,M,Adventure,losersthe,360,roque-losersthe
+2533,CARUSO.,,Family,happyfeet,28,caruso.-happyfeet
+2534,LOUISE,F,Crime,hostage,22,louise-hostage
+2535,KIAYA,F,Action,willow,22,kiaya-willow
+2536,EUGENE,M,Romance,bonnieandclyde,49,eugene-bonnieandclyde
+2537,FAMBROUGH,M,Western,danceswithwolves,62,fambrough-danceswithwolves
+2538,ANCHORWOMAN,F,Fantasy,batman,24,anchorwoman-batman
+2539,RAGETTI,M,Fantasy,piratesofthecaribbeandeadmanschest,78,ragetti-piratesofthecaribbeandeadmanschest
+2540,COLETTE,F,Drama,saltonseathe,169,colette-saltonseathe
+2541,PALMER,M,Crime,burnafterreading,175,palmer-burnafterreading
+2542,MONK,M,Adventure,abyssthe,88,monk-abyssthe
+2543,DISSOLVE TO:,NA,Horror,carrie,146,dissolve_to:-carrie
+2544,FAMBROUGH,M,Drama,danceswithwolves,62,fambrough-danceswithwolves
+2545,RICCO,M,Thriller,backdraft,43,ricco-backdraft
+2546,ULLMAN,M,Thriller,shiningthe,274,ullman-shiningthe
+2547,(VOICE OVER),NA,Drama,silverliningsplaybook,40,(voice_over)-silverliningsplaybook
+2548,HENRY,M,Thriller,bloodandwine,40,henry-bloodandwine
+2549,MAN,M,Comedy,fargo,76,man-fargo
+2550,ANTHONY,M,Drama,awakenings,49,anthony-awakenings
+2551,SPRINGFIELD,M,Horror,manhunter,75,springfield-manhunter
+2552,ADRIENNE,F,Horror,jasonx,47,adrienne-jasonx
+2553,WOLTZ,M,Drama,beingthere,21,woltz-beingthere
+2554,WILDMAN,M,Crime,wallstreet,69,wildman-wallstreet
+2555,MAITRE D,M,Romance,shesoutofmyleague,22,maitre_d-shesoutofmyleague
+2556,BILLY'S VOICE,M,Thriller,midnightexpress,102,billy's_voice-midnightexpress
+2557,SEBASTIAN,M,Family,marleyme,109,sebastian-marleyme
+2558,YOKO,F,Thriller,grudgethe,29,yoko-grudgethe
+2559,ARCHIVES,NA,Drama,takingsides,26,archives-takingsides
+2560,BRADLEY,M,Drama,zerodarkthirty,32,bradley-zerodarkthirty
+2561,CLERK,M,Action,totalrecall,31,clerk-totalrecall
+2562,HABIB,M,Romance,shesoutofmyleague,24,habib-shesoutofmyleague
+2563,HALF-EAR,M,Action,italianjobthe,124,half-ear-italianjobthe
+2564,LONGSHANKS,M,Drama,braveheart,126,longshanks-braveheart
+2565,ZORN,M,Mystery,bourneidentitythe,46,zorn-bourneidentitythe
+2566,KARLA,F,Comedy,nextfriday,71,karla-nextfriday
+2567,SPIKE,M,Family,transformersthemovie,31,spike-transformersthemovie
+2568,GUESTS,NA,Musical,rockyhorrorpictureshowthe,87,guests-rockyhorrorpictureshowthe
+2569,JAMESON,M,Sci-Fi,spiderman,98,jameson-spiderman
+2570,FRANCIS (emotional;,M,Adventure,logansrun,21,francis_(emotional;-logansrun
+2571,FARQUAAD,M,Family,shrek,70,farquaad-shrek
+2572,ROCKLIN,M,Romance,tallinthesaddle,855,rocklin-tallinthesaddle
+2573,LEBOW,M,Drama,donniebrasco,99,lebow-donniebrasco
+2574,HEAD,,Thriller,startreknemesis,31,head-startreknemesis
+2575,MR SCOTT,M,Comedy,storytelling,76,mr_scott-storytelling
+2576,PRESIDENT RVELT,M,War,pearlharbor,23,president_rvelt-pearlharbor
+2577,MUD!,M,Drama,mud,26,mud!-mud
+2578,DIEDRICKSON,M,Drama,manwhowasnttherethe,46,diedrickson-manwhowasnttherethe
+2579,DOROTA,F,War,pianistthe,98,dorota-pianistthe
+2580,FIRST WAITER,M,Drama,believerthe,24,first_waiter-believerthe
+2581,THE KID,M,Comedy,princessbridethe,119,the_kid-princessbridethe
+2582,RABBAN,M,Sci-Fi,dune,30,rabban-dune
+2583,GANDALF,M,Adventure,lordoftheringsfellowshipoftheringthe,548,gandalf-lordoftheringsfellowshipoftheringthe
+2584,ED,M,Thriller,jaws2,32,ed-jaws2
+2585,ALYSSA,F,Comedy,chasingamy,1103,alyssa-chasingamy
+2586,RED,M,Thriller,pineappleexpress,245,red-pineappleexpress
+2587,DYSON,M,Crime,suspectzero,53,dyson-suspectzero
+2588,HITCHHIKER,,Thriller,thelmalouise,23,hitchhiker-thelmalouise
+2589,STAN,M,Romance,tallinthesaddle,48,stan-tallinthesaddle
+2590,SHY WAITER,M,Romance,moonstruck,25,shy_waiter-moonstruck
+2591,TEACHER,M,Crime,hackers,26,teacher-hackers
+2592,WOMAN,F,Comedy,lostintranslation,26,woman-lostintranslation
+2593,FABIO,M,Crime,americanthe,22,fabio-americanthe
+2594,CHARLIE LING,M,Crime,onlygodforgives,51,charlie_ling-onlygodforgives
+2595,MRS. HUDSON,F,Comedy,privatelifeofsherlockholmesthe,97,mrs._hudson-privatelifeofsherlockholmesthe
+2596,TALCOTT,M,Thriller,basicinstinct,28,talcott-basicinstinct
+2597,REED,M,Crime,smokinaces,83,reed-smokinaces
+2598,ANDERS,M,Drama,hostage,31,anders-hostage
+2599,(SUBTITLED),NA,Sci-Fi,avatar,119,(subtitled)-avatar
+2600,DANNY,M,Crime,americanhistoryx,151,danny-americanhistoryx
+2601,DOMINIQUE,F,Thriller,tomorrowneverdies,21,dominique-tomorrowneverdies
+2602,VASQUEZ,F,Action,aliens,73,vasquez-aliens
+2603,LITE,M,Comedy,repoman,110,lite-repoman
+2604,ISABEL,F,Drama,1492conquestofparadise,92,isabel-1492conquestofparadise
+2605,GLORIA,F,Horror,amityvilleasylumthe,81,gloria-amityvilleasylumthe
+2606,SKAT,M,Fantasy,seventhsealthe,133,skat-seventhsealthe
+2607,NAOMI,F,Sci-Fi,eternalsunshineofthespotlessmind,66,naomi-eternalsunshineofthespotlessmind
+2608,JEFF,M,Romance,almostfamous,246,jeff-almostfamous
+2609,MIKE,M,Thriller,siegethe,22,mike-siegethe
+2610,EARL,M,Thriller,metro,34,earl-metro
+2611,ISA,F,Thriller,obsessed,38,isa-obsessed
+2612,IRENE,F,Mystery,gothika,88,irene-gothika
+2613,HIGH ROLLER,M,Western,tombstone,23,high_roller-tombstone
+2614,MARLA,F,Thriller,fightclub,332,marla-fightclub
+2615,LUIGI,M,Adventure,cars2,31,luigi-cars2
+2616,CUMBERLAND,M,Action,bladetrinity,49,cumberland-bladetrinity
+2617,CHARLIE FROST,M,Sci-Fi,2012,91,charlie_frost-2012
+2618,MANNHEIM,M,Crime,wallstreet,66,mannheim-wallstreet
+2619,TITAN,M,Action,megamind,314,titan-megamind
+2620,DEKE,M,Horror,birdsthe,74,deke-birdsthe
+2621,TUBBS,M,Crime,miamivice,473,tubbs-miamivice
+2622,JANINE,F,Thriller,kingdomthe,31,janine-kingdomthe
+2623,RYAN,M,Comedy,lifeasahouse,64,ryan-lifeasahouse
+2624,JUDGE,,Comedy,replacementsthe,27,judge-replacementsthe
+2625,NED CECIL,M,Sci-Fi,fantasticfour,42,ned_cecil-fantasticfour
+2626,CLAIRE,F,Thriller,losthighway,51,claire-losthighway
+2627,ROOL,M,Comedy,willow,40,rool-willow
+2628,THOMAS,M,Drama,kingofcomedythe,71,thomas-kingofcomedythe
+2629,GIDDYPU!,NA,Action,armyofdarkness,27,giddypu!-armyofdarkness
+2630,MAPES,F,Sci-Fi,dune,24,mapes-dune
+2631,"FIRST POLICE OFFICER (scornfully): Well, all",NA,Mystery,whiteribbonthe,22,"first_police_officer_(scornfully):_well,_all-whiteribbonthe"
+2632,SENATOR MALCOLM,M,Thriller,minorityreport,67,senator_malcolm-minorityreport
+2633,HARLAN,M,Comedy,eightleggedfreaks,77,harlan-eightleggedfreaks
+2634,SARAH,F,Horror,jurassicparkthelostworld,261,sarah-jurassicparkthelostworld
+2635,BEATRICE,F,Comedy,meninblack,29,beatrice-meninblack
+2636,KYLIE,F,Sci-Fi,slither,71,kylie-slither
+2637,RUSTY,M,Crime,oceanstwelve,450,rusty-oceanstwelve
+2638,WAITRESS,F,Comedy,fearandloathinginlasvegas,27,waitress-fearandloathinginlasvegas
+2639,VINCENT,M,Drama,afterlife,30,vincent-afterlife
+2640,FREDDY,M,Action,perfectcreature,65,freddy-perfectcreature
+2641,GRUBER,M,Drama,verdictthe,71,gruber-verdictthe
+2642,SPANGLER,M,Mystery,klute,68,spangler-klute
+2643,(MORE),NA,Comedy,marleyme,43,(more)-marleyme
+2644,PEG,F,Fantasy,edwardscissorhands,141,peg-edwardscissorhands
+2645,NARRATOR,M,Thriller,waroftheworlds,30,narrator-waroftheworlds
+2646,BOURKE-WHITE,F,Drama,gandhi,79,bourke-white-gandhi
+2647,MARSHALL,M,Crime,donniebrasco,49,marshall-donniebrasco
+2648,HEROINE,F,Action,feast,446,heroine-feast
+2649,BLASTER,M,Animation,transformersthemovie,44,blaster-transformersthemovie
+2650,AXE,M,Action,backdraft,178,axe-backdraft
+2651,HOLLEY,F,Animation,cars2,301,holley-cars2
+2652,LESTER BANGS,M,Romance,almostfamous,75,lester_bangs-almostfamous
+2653,CABLE'S VOICE,M,Crime,klute,29,cable's_voice-klute
+2654,COP,M,Fantasy,fifthelementthe,35,cop-fifthelementthe
+2655,PROFESSOR LIEPSKY,M,Horror,perfectcreature,75,professor_liepsky-perfectcreature
+2656,TRAFFIC COP,M,Fantasy,batman2,24,traffic_cop-batman2
+2657,MATTIE,M,Western,tombstone,76,mattie-tombstone
+2658,MAX,M,Comedy,burningannie,586,max-burningannie
+2659,INT.   CAR - ANGLE ON BURT,NA,Thriller,stuntmanthe,32,int.___car_-_angle_on_burt-stuntmanthe
+2660,YEAH-YEAH,M,Family,sandlotkidsthe,111,yeah-yeah-sandlotkidsthe
+2661,CAROLINE,F,Drama,highfidelity,64,caroline-highfidelity
+2662,COURFEYRAC,M,Musical,lesmiserables,37,courfeyrac-lesmiserables
+2663,BABY'D,F,Comedy,nextfriday,24,baby'd-nextfriday
+2664,KA TSUMOTO,M,Adventure,lastsamuraithe,71,ka_tsumoto-lastsamuraithe
+2665,AMBASSADOR SWANBECK,M,Adventure,lastsamuraithe,26,ambassador_swanbeck-lastsamuraithe
+2666,YUSSEF,M,Thriller,babel,132,yussef-babel
+2667,JOSHUA,M,Horror,eightleggedfreaks,84,joshua-eightleggedfreaks
+2668,BELLYGUNNER,,Animation,heavymetal,32,bellygunner-heavymetal
+2669,ARCHIE,M,Drama,aptpupil,78,archie-aptpupil
+2670,DJAMILA,F,Drama,battleofalgiersthe,21,djamila-battleofalgiersthe
+2671,PRESIDENT RVELT,M,Drama,pearlharbor,23,president_rvelt-pearlharbor
+2672,ELIZABETH,F,Mystery,godfatherpartiiithe,36,elizabeth-godfatherpartiiithe
+2673,WOMAN #2,F,Family,threemenandababy,22,woman_#2-threemenandababy
+2674,LUCY,F,Comedy,moonstruck,21,lucy-moonstruck
+2675,(CONTINUED),NA,Comedy,observeandreport,228,(continued)-observeandreport
+2676,TONY,M,Crime,ronin,76,tony-ronin
+2677,MRS ROSI,F,Drama,hesher,26,mrs_rosi-hesher
+2678,ELVIS,M,Comedy,forrestgump,31,elvis-forrestgump
+2679,MATT,M,Drama,chronicle,643,matt-chronicle
+2680,FOX,M,Thriller,darkknightrisesthe,205,fox-darkknightrisesthe
+2681,SUBURBANITE,M,Comedy,coolerthe,24,suburbanite-coolerthe
+2682,OMURA,M,War,lastsamuraithe,291,omura-lastsamuraithe
+2683,DEAN,M,Thriller,airforceone,54,dean-airforceone
+2684,BLUE,M,Crime,takingofpelhamonetwothreethe,192,blue-takingofpelhamonetwothreethe
+2685,SCHUYLER,M,Romance,youvegotmail,35,schuyler-youvegotmail
+2686,"TEDDY, NOT THEODORE... TED... Yes,",NA,Drama,fourrooms,25,"teddy,_not_theodore..._ted..._yes,-fourrooms"
+2687,LARKIN,M,Drama,sixdegreesofseparation,27,larkin-sixdegreesofseparation
+2688,BRAGNAE,F,Action,tristanandisolde,40,bragnae-tristanandisolde
+2689,SENATOR,M,Drama,sweetsmellofsuccess,46,senator-sweetsmellofsuccess
+2690,ARKADI,M,Thriller,mutewitness,22,arkadi-mutewitness
+2691,COMMENTATOR,,Drama,rocky,69,commentator-rocky
+2692,GAS,M,Sci-Fi,existenz,31,gas-existenz
+2693,DIANE,F,Comedy,election,31,diane-election
+2694,GEORGE CLEWS,M,Mystery,tallinthesaddle,57,george_clews-tallinthesaddle
+2695,CHASE,M,Thriller,lifeofdavidgalethe,37,chase-lifeofdavidgalethe
+2696,STEWARDESS,F,Sci-Fi,fifthelementthe,23,stewardess-fifthelementthe
+2697,BRAD HELMS,M,Sci-Fi,megamind,81,brad_helms-megamind
+2698,MARTIN,M,Mystery,super8,119,martin-super8
+2699,CYNTHIA,F,Horror,mulhollanddrive,63,cynthia-mulhollanddrive
+2700,QUINCE (cont'd),M,Romance,almostfamous,21,quince_(cont'd)-almostfamous
+2701,MISS CASWELL,F,Drama,allabouteve,43,miss_caswell-allabouteve
+2702,YAKAVETTA,M,Crime,boondocksaintsthe,88,yakavetta-boondocksaintsthe
+2703,SAITO,M,Mystery,inception,245,saito-inception
+2704,BLANE,M,Drama,heist,318,blane-heist
+2705,WALTER,M,Drama,waterforelephants,25,walter-waterforelephants
+2706,DUDE,M,Mystery,biglebowskithe,1142,dude-biglebowskithe
+2707,AROJAZ,M,Adventure,1492conquestofparadise,100,arojaz-1492conquestofparadise
+2708,(BEAT),NA,Comedy,sandlotkidsthe,196,(beat)-sandlotkidsthe
+2709,JABBA,M,Adventure,starwarsanewhope,39,jabba-starwarsanewhope
+2710,OUISA (VO),F,Comedy,sixdegreesofseparation,24,ouisa_(vo)-sixdegreesofseparation
+2711,BOB,M,Romance,chasingamy,81,bob-chasingamy
+2712,NAZORINE,M,Crime,godfather,22,nazorine-godfather
+2713,TREVOR,M,Comedy,slither,112,trevor-slither
+2714,TOMMY,M,Horror,carrie,470,tommy-carrie
+2715,HERNDON,M,Thriller,informantthe,78,herndon-informantthe
+2716,GARDNER,M,Western,roughshod,40,gardner-roughshod
+2717,DAVIS,M,Thriller,cliffhanger,47,davis-cliffhanger
+2718,YUNG,,Thriller,tomorrowneverdies,51,yung-tomorrowneverdies
+2719,WHISTLER,M,Fantasy,bladetrinity,41,whistler-bladetrinity
+2720,PETROVA,F,Comedy,privatelifeofsherlockholmesthe,44,petrova-privatelifeofsherlockholmesthe
+2721,WALTER,M,Romance,runawaybride,67,walter-runawaybride
+2722,LUCY,F,Comedy,yesman,157,lucy-yesman
+2723,STANLEY,M,Comedy,storytelling,27,stanley-storytelling
+2724,HARRIET,F,Romance,soimarriedanaxemurderer,589,harriet-soimarriedanaxemurderer
+2725,CARLOS,M,Drama,littleathens,148,carlos-littleathens
+2726,CALIBANOS,,Crime,blow,25,calibanos-blow
+2727,DEAN TAINOT,M,Comedy,larrycrowne,135,dean_tainot-larrycrowne
+2728,ESCO,M,Drama,coldmountain,72,esco-coldmountain
+2729,PO,M,Action,kungfupanda,717,po-kungfupanda
+2730,REESE,M,Romance,terminator,556,reese-terminator
+2731,BANKROBBER,M,Drama,departedthe,25,bankrobber-departedthe
+2732,MRS. DN,F,Drama,bodiesrestmotion,28,mrs._dn-bodiesrestmotion
+2733,DANNY,M,Drama,americanhistoryx,151,danny-americanhistoryx
+2734,INTERROGATOR,,Crime,spartan,42,interrogator-spartan
+2735,NICOLI,M,Crime,frenchconnectionthe,28,nicoli-frenchconnectionthe
+2736,RICHARD,M,Thriller,fromdusktilldawn,292,richard-fromdusktilldawn
+2737,LT. BERGIN,M,Sci-Fi,irobot,115,lt._bergin-irobot
+2738,FRAN,F,Drama,heist,341,fran-heist
+2739,TAPP,M,Thriller,saw,149,tapp-saw
+2740,BILLY,M,Drama,sweethereafterthe,219,billy-sweethereafterthe
+2741,SAM,M,Romance,sleeplessinseattle,767,sam-sleeplessinseattle
+2742,JANET,F,Drama,beinghuman,46,janet-beinghuman
+2743,VIETNAM TOM,M,Crime,sdarko,21,vietnam_tom-sdarko
+2744,BILLIE,F,Crime,stingthe,72,billie-stingthe
+2745,GEORGE,M,Drama,itsawonderfullife,2062,george-itsawonderfullife
+2746,SEAN,M,Thriller,jaws2,90,sean-jaws2
+2747,FIRESTONE,M,Comedy,jerrymaguire,21,firestone-jerrymaguire
+2748,WALTER (cont'd),M,Drama,insomnia,98,walter_(cont'd)-insomnia
+2749,BUD,M,Adventure,abyssthe,486,bud-abyssthe
+2750,RIKER,M,Adventure,startreknemesis,181,riker-startreknemesis
+2751,SAMUEL,M,Drama,manonfire,132,samuel-manonfire
+2752,THENARDIER,M,Drama,lesmiserables,392,thenardier-lesmiserables
+2753,AGENT,,Comedy,hudsuckerproxythe,43,agent-hudsuckerproxythe
+2754,JOHN BRIDGER,M,Adventure,italianjobthe,78,john_bridger-italianjobthe
+2755,DOC (cont'd),M,Thriller,whiteout,70,doc_(cont'd)-whiteout
+2756,SINDELL,F,Horror,misery,96,sindell-misery
+2757,PETE,M,Drama,bonnieandclyde,24,pete-bonnieandclyde
+2758,VOICE,,Thriller,scream3,162,voice-scream3
+2759,BETH,F,Drama,hesjustnotthatintoyou,225,beth-hesjustnotthatintoyou
+2760,BOY,M,Drama,cincinnatikidthe,23,boy-cincinnatikidthe
+2761,MICHAEL SOLO,M,Drama,weownthenight,177,michael_solo-weownthenight
+2762,LT. COLONEL SAM PLAME,M,Action,fairgame,62,lt._colonel_sam_plame-fairgame
+2763,ML,M,Comedy,dotherightthing,86,ml-dotherightthing
+2764,SHEP,M,Comedy,fargo,33,shep-fargo
+2765,TOM,M,Animation,beavisandbuttheaddoamerica,63,tom-beavisandbuttheaddoamerica
+2766,LOIS,F,Thriller,verybadthings,88,lois-verybadthings
+2767,CRUIKSHANK,M,Romance,charade,54,cruikshank-charade
+2768,MADDY,F,War,coldmountain,84,maddy-coldmountain
+2769,BAM! Here comes those IMAGES AGAIN:,NA,Crime,suspectzero,28,bam!_here_comes_those_images_again:-suspectzero
+2770,DORIS,F,Crime,manwhowasnttherethe,102,doris-manwhowasnttherethe
+2771,OHASHI,M,Action,blackrain,77,ohashi-blackrain
+2772,MOTHER,F,Comedy,custody,117,mother-custody
+2773,BEN,M,Sci-Fi,starwarstheempirestrikesback,32,ben-starwarstheempirestrikesback
+2774,DOC RIDING,M,Western,tallinthesaddle,52,doc_riding-tallinthesaddle
+2775,FRANKLIN,M,Comedy,beingthere,213,franklin-beingthere
+2776,BOURNE,M,Adventure,bourneidentitythe,564,bourne-bourneidentitythe
+2777,ANDREW,M,Drama,warhorse,48,andrew-warhorse
+2778,(BEAT),NA,Drama,savingmrbanks,160,(beat)-savingmrbanks
+2779,DOREEN,F,Drama,hardrain,90,doreen-hardrain
+2780,FLOYD,M,Drama,stingthe,42,floyd-stingthe
+2781,JIM,M,Drama,upintheair,76,jim-upintheair
+2782,SUITED MAN,M,Drama,clerks,54,suited_man-clerks
+2783,WATSON,,Drama,aliennation,21,watson-aliennation
+2784,MRS. PAZZI,F,Horror,hannibal,79,mrs._pazzi-hannibal
+2785,STANTZ,M,Adventure,ghostbusters2,468,stantz-ghostbusters2
+2786,HANK,M,Drama,wonderboys,41,hank-wonderboys
