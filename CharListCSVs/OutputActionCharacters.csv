@@ -1,0 +1,2730 @@
+TEX,Action,platoon,27
+LERNER,Action,platoon,69
+ELIAS,Action,platoon,229
+CRAWFORD,Action,platoon,32
+BIG HAROLD,Action,platoon,55
+KING,Action,platoon,184
+JUNIOR,Action,platoon,88
+BUNNY,Action,platoon,110
+DOC,Action,platoon,45
+WOLFE,Action,platoon,85
+ACE,Action,platoon,30
+BARNES,Action,platoon,233
+FRANCIS,Action,platoon,69
+HARRIS,Action,platoon,53
+O'NEILL,Action,platoon,104
+RHAH,Action,platoon,189
+CHRIS,Action,platoon,355
+PETRY,Action,ghostrider,21
+NOMI,Action,ghostrider,92
+ROXANNE,Action,ghostrider,27
+RHYMER,Action,ghostrider,30
+CARRIGAN,Action,ghostrider,53
+STARKE,Action,ghostrider,36
+RAIN,Action,ghostrider,35
+BLAZE,Action,ghostrider,163
+(CONTINUED),Action,ghostrider,79
+CONTINUED:,Action,ghostrider,73
+ARAGON,Action,tristanandisolde,23
+BODKIN,Action,tristanandisolde,23
+BRAGNAE,Action,tristanandisolde,40
+MELOT,Action,tristanandisolde,70
+WICTRED,Action,tristanandisolde,43
+MAN,Action,tristanandisolde,29
+KING DONNCHADH,Action,tristanandisolde,58
+MARKE,Action,tristanandisolde,135
+TRISTAN,Action,tristanandisolde,129
+ISOLDE,Action,tristanandisolde,162
+EXEC,Action,abyssthe,21
+COFFEY,Action,abyssthe,141
+JAMMER,Action,abyssthe,37
+SONNY,Action,abyssthe,25
+MONK,Action,abyssthe,88
+MCBRIDE,Action,abyssthe,29
+ONE NIGHT,Action,abyssthe,77
+DEMARCO,Action,abyssthe,38
+CATFISH,Action,abyssthe,108
+HIPPY,Action,abyssthe,171
+LINDSEY,Action,abyssthe,514
+BUD,Action,abyssthe,486
+PETER,Action,robinhoodprinceofthieves,28
+SARACEN,Action,robinhoodprinceofthieves,44
+KENNETH,Action,robinhoodprinceofthieves,22
+GIRL,Action,robinhoodprinceofthieves,24
+JOHN LITTLE,Action,robinhoodprinceofthieves,41
+GISBORNE,Action,robinhoodprinceofthieves,125
+SOLDIER,Action,robinhoodprinceofthieves,22
+DUNCAN,Action,robinhoodprinceofthieves,86
+BULL,Action,robinhoodprinceofthieves,26
+LOCKSLEY,Action,robinhoodprinceofthieves,39
+WILL SCARLET,Action,robinhoodprinceofthieves,153
+WULF,Action,robinhoodprinceofthieves,34
+HAL,Action,robinhoodprinceofthieves,22
+MORTIANNA,Action,robinhoodprinceofthieves,79
+BISHOP,Action,robinhoodprinceofthieves,40
+NOTTINGHAM,Action,robinhoodprinceofthieves,268
+MARIAN,Action,robinhoodprinceofthieves,203
+LITTLE JOHN,Action,robinhoodprinceofthieves,205
+FANNY,Action,robinhoodprinceofthieves,57
+(CONTINUED),Action,robinhoodprinceofthieves,238
+FRIAR,Action,robinhoodprinceofthieves,203
+ROBIN,Action,robinhoodprinceofthieves,957
+ASLAN,Action,robinhoodprinceofthieves,321
+VO,Action,lostinspace,30
+GENERAL,Action,lostinspace,59
+NOAH,Action,lostinspace,34
+JEB,Action,lostinspace,28
+COMPUTER,Action,lostinspace,30
+FIGURE,Action,lostinspace,26
+SPIDER SMITH,Action,lostinspace,85
+OLDER WILL,Action,lostinspace,110
+WEST (OVER),Action,lostinspace,23
+SMITH,Action,lostinspace,333
+ROBOT,Action,lostinspace,82
+WEST,Action,lostinspace,535
+JOHN,Action,lostinspace,443
+JUDY,Action,lostinspace,158
+MAUREEN,Action,lostinspace,207
+PENNY,Action,lostinspace,180
+WILL,Action,lostinspace,216
+LUCIUS,Action,conanthebarbarian,45
+FASSIR,Action,conanthebarbarian,31
+REMO,Action,conanthebarbarian,32
+CORIN,Action,conanthebarbarian,100
+UKAFA,Action,conanthebarbarian,42
+ARTUS,Action,conanthebarbarian,71
+ONE EYED THIEF,Action,conanthebarbarian,35
+FARIQ,Action,conanthebarbarian,114
+KHALAR SINGH,Action,conanthebarbarian,325
+CONAN,Action,conanthebarbarian,457
+TAMARA,Action,conanthebarbarian,376
+WHITMORE,Action,independenceday,31
+COMMANDING OFFICER,Action,independenceday,35
+MARTY,Action,independenceday,67
+PRESIDENT WHITMORE,Action,independenceday,42
+JIMMY,Action,independenceday,41
+TROY,Action,independenceday,30
+OKUN (cont'd),Action,independenceday,24
+OKUN,Action,independenceday,69
+MARGARET,Action,independenceday,44
+DAVID (cont'd),Action,independenceday,27
+PRESIDENT (cont'd),Action,independenceday,25
+MITCHELL,Action,independenceday,36
+NIMZIKI,Action,independenceday,125
+ME,Action,independenceday,170
+OFFICER,Action,independenceday,23
+MIGUEL,Action,independenceday,92
+RUSSELL,Action,independenceday,81
+GENERAL GREY,Action,independenceday,212
+JASMINE,Action,independenceday,136
+DAVID,Action,independenceday,354
+CANCE,Action,independenceday,174
+PRESIDENT,Action,independenceday,252
+STEVE,Action,independenceday,211
+KWAN,Action,americanshaolinkingofkickboxersii,117
+MONK,Action,americanshaolinkingofkickboxersii,55
+ASHEMA,Action,americanshaolinkingofkickboxersii,73
+LI,Action,americanshaolinkingofkickboxersii,55
+ARHAT,Action,americanshaolinkingofkickboxersii,22
+D.S.,Action,americanshaolinkingofkickboxersii,143
+GAO,Action,americanshaolinkingofkickboxersii,73
+SAN DE,Action,americanshaolinkingofkickboxersii,223
+DREW,Action,americanshaolinkingofkickboxersii,638
+TREVOR,Action,americanshaolinkingofkickboxersii,65
+RHINEHEART,Action,matrixthe,22
+GIZMO,Action,matrixthe,51
+ORACLE,Action,matrixthe,54
+M,Action,matrixthe,22
+APOC,Action,matrixthe,21
+CYPHER,Action,matrixthe,201
+AGENT JONES,Action,matrixthe,32
+TANK,Action,matrixthe,192
+MORPHEUS,Action,matrixthe,576
+AGENT SMITH,Action,matrixthe,264
+TRINITY,Action,matrixthe,336
+NEO,Action,matrixthe,431
+MRS. BEAVER,Action,chroniclesofnarniathelionthewitchandthewardrobe,24
+MR. BEAVER,Action,chroniclesofnarniathelionthewitchandthewardrobe,47
+WHITE WITCH,Action,chroniclesofnarniathelionthewitchandthewardrobe,62
+ASLAN,Action,chroniclesofnarniathelionthewitchandthewardrobe,35
+TUMNUS,Action,chroniclesofnarniathelionthewitchandthewardrobe,33
+EDMUND,Action,chroniclesofnarniathelionthewitchandthewardrobe,106
+SUSAN,Action,chroniclesofnarniathelionthewitchandthewardrobe,90
+PETER,Action,chroniclesofnarniathelionthewitchandthewardrobe,139
+LUCY,Action,chroniclesofnarniathelionthewitchandthewardrobe,114
+STONE,Action,surrogates,26
+PETERS,Action,surrogates,119
+(CONTINUED),Action,surrogates,97
+CONTINUED:,Action,surrogates,69
+CANTER,Action,surrogates,24
+MAGGIE,Action,surrogates,44
+GREER,Action,surrogates,251
+JACK,Action,wildhogs,68
+CHARLEY,Action,wildhogs,49
+BOB,Action,wildhogs,104
+KELLY,Action,wildhogs,40
+WOODY,Action,wildhogs,153
+DUDLEY,Action,wildhogs,109
+DOUG,Action,wildhogs,299
+CHARLIE,Action,blackrain,241
+SUGAI,Action,blackrain,89
+KOBO,Action,blackrain,72
+OHASHI,Action,blackrain,77
+JOYCE,Action,blackrain,143
+OLIVER,Action,blackrain,61
+ICH,Action,blackrain,333
+NICK,Action,blackrain,699
+AUCTIONEER,Action,frenchconnectionthe,22
+MUTCHIE,Action,frenchconnectionthe,73
+DESK CLERK,Action,frenchconnectionthe,35
+WEINSTOCK,Action,frenchconnectionthe,36
+SIMN,Action,frenchconnectionthe,87
+MARIE,Action,frenchconnectionthe,49
+NICOLI,Action,frenchconnectionthe,28
+VOICES,Action,frenchconnectionthe,23
+MULDERIG,Action,frenchconnectionthe,69
+LA VALLE,Action,frenchconnectionthe,85
+CHARNIER,Action,frenchconnectionthe,178
+DEVEREAUX,Action,frenchconnectionthe,73
+SAL,Action,frenchconnectionthe,101
+RUSSO,Action,frenchconnectionthe,311
+DOYLE,Action,frenchconnectionthe,519
+CARLSBY,Action,entrapment,55
+CRUZ,Action,entrapment,72
+STEWARD,Action,entrapment,25
+QIU,Action,entrapment,27
+GIN,Action,entrapment,956
+MAC,Action,entrapment,1149
+ELDERLY JAPANESE MAN,Action,inception,24
+MILES,Action,inception,56
+YUSUF,Action,inception,143
+(MORE),Action,inception,22
+EAMES,Action,inception,272
+MAL,Action,inception,216
+BROWNING,Action,inception,89
+FISCHER,Action,inception,183
+ARTHUR,Action,inception,415
+ARIADNE,Action,inception,479
+SAITO,Action,inception,245
+COBB,Action,inception,1528
+WARDEN,Action,mummythe,47
+EGYPTOLOGIST,Action,mummythe,33
+HENDERSON,Action,mummythe,56
+DANIELS,Action,mummythe,55
+CURATOR,Action,mummythe,108
+WINSTON,Action,mummythe,33
+ARDETH RAY,Action,mummythe,72
+IMHOTEP,Action,mummythe,102
+EVELYN,Action,mummythe,506
+BENI,Action,mummythe,162
+JONATHAN,Action,mummythe,286
+O'CONNELL,Action,mummythe,540
+DESK CLERK,Action,newyorkminute,38
+BOBO,Action,newyorkminute,22
+SPEEDY,Action,newyorkminute,30
+CANADIAN REPRESENTATIVE,Action,newyorkminute,22
+ROGER,Action,newyorkminute,50
+MORTY,Action,newyorkminute,37
+MRS. LO BIANCHO,Action,newyorkminute,91
+WILLIAMSON,Action,newyorkminute,40
+BENNIE,Action,newyorkminute,61
+HOGAN,Action,newyorkminute,73
+PROFESSOR SPAULDING,Action,newyorkminute,50
+JIM,Action,newyorkminute,24
+WARREN,Action,newyorkminute,132
+QUINN,Action,newyorkminute,91
+(CONTINUED),Action,newyorkminute,176
+PARKER,Action,newyorkminute,759
+DREW,Action,newyorkminute,765
+CHARLEY,Action,newyorkminute,87
+SATIPO,Action,indianajonesandtheraidersofthelostark,33
+BELZIG,Action,indianajonesandtheraidersofthelostark,40
+SALLAH,Action,indianajonesandtheraidersofthelostark,76
+BELLOQ,Action,indianajonesandtheraidersofthelostark,162
+SHLIEMANN,Action,indianajonesandtheraidersofthelostark,80
+BRODY,Action,indianajonesandtheraidersofthelostark,46
+EATON,Action,indianajonesandtheraidersofthelostark,44
+MUSGROVE,Action,indianajonesandtheraidersofthelostark,41
+MARION,Action,indianajonesandtheraidersofthelostark,298
+INDY,Action,indianajonesandtheraidersofthelostark,591
+NATHANIEL,Action,pointbreak,22
+BUNKER,Action,pointbreak,21
+WOMAN,Action,pointbreak,37
+REAGAN,Action,pointbreak,21
+BODHI/REAGAN,Action,pointbreak,30
+GROMMET,Action,pointbreak,36
+MUNOZ,Action,pointbreak,27
+HARP,Action,pointbreak,93
+PAPPAS,Action,pointbreak,403
+ROACH,Action,pointbreak,49
+TYLER,Action,pointbreak,178
+BODHI,Action,pointbreak,431
+UTAH,Action,pointbreak,703
+QUINN,Action,touristthe,25
+DOMENICO,Action,touristthe,112
+DEMIDOV,Action,touristthe,116
+JEAN LUC,Action,touristthe,30
+GOYAL,Action,touristthe,44
+JONES,Action,touristthe,80
+ACKERMAN,Action,touristthe,399
+THE ENGLISHMAN,Action,touristthe,36
+CARA,Action,touristthe,404
+FRANK,Action,touristthe,460
+WOMAN,Action,logansrun,23
+DOC,Action,logansrun,70
+HOLLY,Action,logansrun,26
+VOICE,Action,logansrun,45
+BOX,Action,logansrun,77
+MAN,Action,logansrun,31
+FRANCIS (emotional;,Action,logansrun,21
+FRANCIS,Action,logansrun,150
+JESSICA,Action,logansrun,297
+OLD MAN,Action,logansrun,116
+LOGAN,Action,logansrun,606
+FRANKLIN,Action,riseoftheplanetoftheapes,24
+DODGE,Action,riseoftheplanetoftheapes,50
+JACOBS,Action,riseoftheplanetoftheapes,32
+STEWART,Action,riseoftheplanetoftheapes,68
+CAESAR,Action,riseoftheplanetoftheapes,41
+WILL,Action,riseoftheplanetoftheapes,248
+TRAINING CAPTAIN,Action,pearlharbor,22
+BRITISH AIR COMMANDER,Action,pearlharbor,23
+PRESIDENT RVELT,Action,pearlharbor,23
+BARBARA,Action,pearlharbor,37
+BETTY,Action,pearlharbor,52
+ADMIRAL KIMMEL,Action,pearlharbor,22
+BILLY,Action,pearlharbor,32
+EARL,Action,pearlharbor,25
+GENDA,Action,pearlharbor,48
+YAMAMOTO,Action,pearlharbor,64
+DORIE,Action,pearlharbor,40
+EVELYN,Action,pearlharbor,239
+ADMIRAL,Action,pearlharbor,38
+ANTHONY,Action,pearlharbor,48
+GENERAL MARSHALL,Action,pearlharbor,32
+RVELT,Action,pearlharbor,64
+DOOLITTLE,Action,pearlharbor,156
+COMA,Action,pearlharbor,43
+RED,Action,pearlharbor,88
+DANNY,Action,pearlharbor,366
+RAFE,Action,pearlharbor,444
+TAKAGI,Action,diehard,69
+MITCHELL,Action,diehard,39
+FRANCO,Action,diehard,24
+ELLIS,Action,diehard,131
+HANS' VOICE,Action,diehard,45
+GAIL,Action,diehard,23
+HASSELDORF,Action,diehard,31
+POWELL'S VOICE,Action,diehard,21
+THEO,Action,diehard,77
+ENGINEER,Action,diehard,22
+INTERCUT:,Action,diehard,34
+KARL,Action,diehard,51
+LITTLE JOHNSON,Action,diehard,42
+BIG JOHNSON,Action,diehard,70
+HANS,Action,diehard,552
+MCCLANE,Action,diehard,710
+HOLLY,Action,diehard,183
+ROBINSON,Action,diehard,119
+POWELL,Action,diehard,273
+THORNBURG,Action,diehard,74
+ARGYLE,Action,diehard,122
+TIN-TIN,Action,crowthe,33
+GIDEON,Action,crowthe,58
+ANNABELLA,Action,crowthe,26
+FUNBOY,Action,crowthe,58
+T-BIRD,Action,crowthe,68
+MICKEY,Action,crowthe,26
+SKANK,Action,crowthe,36
+TOP DOLLAR,Action,crowthe,71
+FLASH ENDS.,Action,crowthe,21
+SKULL COWBOY,Action,crowthe,55
+GRANGE,Action,crowthe,75
+ALBRECHT,Action,crowthe,214
+LAO,Action,crowthe,157
+ERIC,Action,crowthe,426
+DARLA,Action,crowthe,37
+ELLY,Action,crowthe,129
+WIN,Action,someonetowatchoverme,67
+BROOKLYN,Action,someonetowatchoverme,25
+T.J.,Action,someonetowatchoverme,56
+SCOTTY,Action,someonetowatchoverme,34
+NEIL,Action,someonetowatchoverme,108
+VENZA,Action,someonetowatchoverme,67
+TOMMY,Action,someonetowatchoverme,75
+KOONTZ,Action,someonetowatchoverme,92
+CLAIRE,Action,someonetowatchoverme,424
+GARBER,Action,someonetowatchoverme,151
+ELLIE,Action,someonetowatchoverme,301
+MIKE,Action,someonetowatchoverme,858
+HAWKINS,Action,predator,31
+BLAIN,Action,predator,45
+BILLY,Action,predator,68
+RAMIREZ,Action,predator,102
+MAC,Action,predator,194
+DILLON,Action,predator,349
+SCHAEFER,Action,predator,378
+HUNTER,Action,predator,39
+ANNA,Action,predator,45
+(CONTINUED),Action,predator,404
+PHILIPS,Action,predator,75
+DR. LING,Action,rockthe,21
+ISHERWOOD,Action,rockthe,31
+JADE,Action,rockthe,28
+COMMANDER ANDERSON,Action,rockthe,108
+GENERAL PETERSON,Action,rockthe,24
+GENERAL KRAMER,Action,rockthe,62
+HAYDEN SINCLAIR,Action,rockthe,28
+BAXTER,Action,rockthe,23
+HUMMEL,Action,rockthe,271
+CAPTAIN DARROW,Action,rockthe,43
+CAPTAIN FRYE,Action,rockthe,47
+MASON,Action,rockthe,333
+SANCHEZ,Action,rockthe,96
+F.B.I. DIRECTOR WOMACK,Action,rockthe,155
+PRESIDENT,Action,rockthe,27
+CARLA,Action,rockthe,57
+GOEED,Action,rockthe,433
+MILLER,Action,lastboyscoutthe,31
+CRAG-FACE,Action,lastboyscoutthe,25
+CORY,Action,lastboyscoutthe,47
+TALL MAN,Action,lastboyscoutthe,50
+CHET,Action,lastboyscoutthe,39
+MALE,Action,lastboyscoutthe,59
+PABLO,Action,lastboyscoutthe,80
+BAYNARD,Action,lastboyscoutthe,33
+MARCON,Action,lastboyscoutthe,218
+DARIAN,Action,lastboyscoutthe,122
+MILO,Action,lastboyscoutthe,235
+SARAH,Action,lastboyscoutthe,123
+BESSALO,Action,lastboyscoutthe,108
+(CONTINUED),Action,lastboyscoutthe,265
+JIMMY,Action,lastboyscoutthe,889
+HALLENBECK,Action,lastboyscoutthe,1368
+HOWARD,Action,breakdown,24
+BARTENDER,Action,breakdown,48
+CALHOUN,Action,breakdown,40
+EARL,Action,breakdown,140
+SHERIFF BOYD,Action,breakdown,155
+DEPUTY CARVER,Action,breakdown,26
+AL,Action,breakdown,29
+DEKE,Action,breakdown,36
+BILLY,Action,breakdown,77
+RED,Action,breakdown,381
+(CONTINUED),Action,breakdown,158
+FBI AGENT,Action,breakdown,33
+JEFF,Action,breakdown,727
+AMY,Action,breakdown,217
+MACGOWAN,Action,indianajonesiv,62
+DEAN COVENTRY,Action,indianajonesiv,23
+MARCUS,Action,indianajonesiv,96
+GUTTERBUHG,Action,indianajonesiv,65
+MEPHISTO,Action,indianajonesiv,35
+KEZURE,Action,indianajonesiv,103
+SCRAGGY,Action,indianajonesiv,189
+CLARE,Action,indianajonesiv,234
+INDIANA,Action,indianajonesiv,821
+BETSY,Action,indianajonesiv,248
+SUN WU KUNG,Action,indianajonesiv,41
+ROBINSON,Action,patriotthe,33
+SPEAKER,Action,patriotthe,27
+THOMAS,Action,patriotthe,25
+BILLINGS,Action,patriotthe,65
+NATHAN,Action,patriotthe,24
+MARGARET,Action,patriotthe,42
+ANNE,Action,patriotthe,37
+GABRIEL,Action,patriotthe,294
+REV. OLIVER,Action,patriotthe,36
+WASHINGTON,Action,patriotthe,54
+MAJOR HALBERT,Action,patriotthe,21
+TARLETON,Action,patriotthe,100
+CORNWALLIS,Action,patriotthe,230
+DALTON,Action,patriotthe,24
+LEE,Action,patriotthe,224
+CHARLOTTE,Action,patriotthe,65
+SUSAN,Action,patriotthe,33
+MARION,Action,patriotthe,965
+CHIEF SURGEON,Action,spiderman,31
+THORKEL,Action,spiderman,123
+REISS,Action,spiderman,82
+CABBIE,Action,spiderman,28
+BEN,Action,spiderman,49
+WEINER,Action,spiderman,120
+AUNT MAY,Action,spiderman,77
+KIM,Action,spiderman,42
+FLASH,Action,spiderman,108
+HARRY,Action,spiderman,149
+JAMESON,Action,spiderman,98
+ROZ,Action,spiderman,149
+OCK,Action,spiderman,530
+SPIDER-MAN,Action,spiderman,324
+LIZ,Action,spiderman,338
+PETER,Action,spiderman,479
+SOMETHING HORRIFIC,Action,losersthe,21
+FENNEL,Action,losersthe,89
+SHORT SCIENTIST,Action,losersthe,62
+COUGAR,Action,losersthe,25
+WADE,Action,losersthe,131
+ROQUE,Action,losersthe,360
+JENSEN,Action,losersthe,389
+POOCH,Action,losersthe,252
+AISHA,Action,losersthe,238
+CLAY,Action,losersthe,582
+MAX,Action,losersthe,239
+WOMAN'S VOICE,Action,legion,26
+BURTON,Action,legion,26
+ESTEVEZ,Action,legion,22
+GLADYS,Action,legion,42
+PERCY,Action,legion,127
+HOWARD,Action,legion,47
+KYLE,Action,legion,211
+SANDRA,Action,legion,107
+MICHAEL,Action,legion,210
+BOB,Action,legion,298
+AUDREY,Action,legion,119
+GABRIEL,Action,legion,33
+CHARLIE,Action,legion,285
+JEEP,Action,legion,238
+(BEAT),Action,legion,81
+EARL,Action,metro,34
+BAFFERT,Action,metro,118
+KIMURA,Action,metro,38
+RAYMOND,Action,metro,43
+CLARENCE,Action,metro,33
+SOLIS,Action,metro,138
+DAVE,Action,metro,40
+JAIL GUARD #2,Action,metro,21
+MCCALL,Action,metro,396
+KORDA,Action,metro,335
+RONNIE,Action,metro,212
+ROPER,Action,metro,1216
+NARRATION (cont.),Action,tombstone,22
+DAKE,Action,tombstone,24
+TYLER,Action,tombstone,23
+FABIAN,Action,tombstone,44
+HIGH ROLLER,Action,tombstone,23
+WHITE,Action,tombstone,95
+OLD MAN CLANTON,Action,tombstone,31
+KATE,Action,tombstone,35
+JOYCE,Action,tombstone,30
+MATTIE,Action,tombstone,76
+VIRGIL,Action,tombstone,138
+ALLIE,Action,tombstone,28
+DR. GOODFELLOW,Action,tombstone,24
+MORGAN,Action,tombstone,135
+WAGONMASTER,Action,tombstone,29
+LUCINDA'S SON,Action,tombstone,21
+CURLY BILL,Action,tombstone,206
+BILLY,Action,tombstone,21
+GROUNDS,Action,tombstone,21
+BREAKENRIDGE,Action,tombstone,35
+MCMASTERS,Action,tombstone,99
+HOOKER,Action,tombstone,47
+RINGO,Action,tombstone,152
+VERMILLION,Action,tombstone,86
+JOHNSON,Action,tombstone,67
+BEHAN,Action,tombstone,151
+IKE,Action,tombstone,71
+DOC,Action,tombstone,394
+JOSEPHINE,Action,tombstone,171
+WYATT,Action,tombstone,940
+NARRATION,Action,tombstone,174
+LANDLADY,Action,bountyhunterthe,31
+LORRAINE,Action,bountyhunterthe,41
+STEWART,Action,bountyhunterthe,63
+DAWN,Action,bountyhunterthe,30
+MOM,Action,bountyhunterthe,31
+TERESA,Action,bountyhunterthe,30
+JIMMY,Action,bountyhunterthe,49
+RAY,Action,bountyhunterthe,28
+DWIGHT,Action,bountyhunterthe,40
+BOBBY,Action,bountyhunterthe,105
+(QUICKLY),Action,bountyhunterthe,23
+LOIS,Action,bountyhunterthe,39
+SID,Action,bountyhunterthe,152
+CASS,Action,bountyhunterthe,762
+MILO,Action,bountyhunterthe,1088
+CIA MAN,Action,darkknightrisesthe,36
+MAID,Action,darkknightrisesthe,28
+CONGRESSMAN,Action,darkknightrisesthe,29
+DAGGETT,Action,darkknightrisesthe,88
+MAYOR,Action,darkknightrisesthe,34
+JEN,Action,darkknightrisesthe,22
+CAPTAIN JONES,Action,darkknightrisesthe,41
+PRISONER,Action,darkknightrisesthe,101
+STRYVER,Action,darkknightrisesthe,46
+SELINA,Action,darkknightrisesthe,176
+CRANE,Action,darkknightrisesthe,29
+WAYNE,Action,darkknightrisesthe,508
+FOLEY,Action,darkknightrisesthe,112
+MIRANDA,Action,darkknightrisesthe,150
+A U,Action,darkknightrisesthe,47
+BANE,Action,darkknightrisesthe,364
+UNIFORM,Action,darkknightrisesthe,28
+(OVER RADIO),Action,darkknightrisesthe,29
+TALIA,Action,darkknightrisesthe,64
+CATWOMAN,Action,darkknightrisesthe,111
+BATMAN,Action,darkknightrisesthe,143
+FATHER REILLY,Action,darkknightrisesthe,30
+GORDON,Action,darkknightrisesthe,300
+BLAKE,Action,darkknightrisesthe,417
+LAWYER,Action,darkknightrisesthe,29
+FOX,Action,darkknightrisesthe,205
+ALFRED,Action,darkknightrisesthe,285
+HEAD,Action,startreknemesis,31
+JANEWAY (ON VIEWSCREEN),Action,startreknemesis,31
+SURAN,Action,startreknemesis,36
+BEVERLY,Action,startreknemesis,116
+VICEROY,Action,startreknemesis,75
+SHINZON,Action,startreknemesis,597
+DATA,Action,startreknemesis,449
+DEANNA,Action,startreknemesis,125
+DONATRA,Action,startreknemesis,35
+GEORDI,Action,startreknemesis,175
+RIKER,Action,startreknemesis,181
+WORF,Action,startreknemesis,117
+PICARD,Action,startreknemesis,940
+RACHEL,Action,hanna,36
+SOPHIE,Action,hanna,70
+SEB,Action,hanna,23
+ERIK,Action,hanna,69
+ISAACS,Action,hanna,26
+HANNA,Action,hanna,176
+MARISSA,Action,hanna,103
+WE CAN HANDLE THEM!,Action,dawnofthedead,23
+THIS THING...,Action,dawnofthedead,38
+WE GOT A LOT TO DO...ROGER...,Action,dawnofthedead,25
+"ALRIGHT, NOW ARE YOU STRAIGHT?",Action,dawnofthedead,24
+CLOSE THE GATE...CLOSE THE GATE...,Action,dawnofthedead,28
+FOR US...,Action,dawnofthedead,24
+UP THE STAIRS.,Action,dawnofthedead,44
+BRARD,Action,alien,269
+MELKONIS,Action,alien,280
+FAUST,Action,alien,215
+HUNTER,Action,alien,335
+STANDARD,Action,alien,967
+COMPUTER,Action,alien,63
+ROBY,Action,alien,620
+CAPTAIN TYPHO,Action,starwarsattackoftheclones,22
+DEXTER JETTSTER,Action,starwarsattackoftheclones,43
+SIO BIBBLE,Action,starwarsattackoftheclones,25
+QUEEN JAMILLIA,Action,starwarsattackoftheclones,39
+JOCASTA NU,Action,starwarsattackoftheclones,81
+SOLA,Action,starwarsattackoftheclones,26
+JOBAL,Action,starwarsattackoftheclones,22
+RUWEE,Action,starwarsattackoftheclones,26
+TAUN WE,Action,starwarsattackoftheclones,42
+JANGO,Action,starwarsattackoftheclones,23
+WATTO,Action,starwarsattackoftheclones,45
+LAMA SU,Action,starwarsattackoftheclones,89
+CLIEGG,Action,starwarsattackoftheclones,35
+BAIL ORGANA,Action,starwarsattackoftheclones,24
+OWEN,Action,starwarsattackoftheclones,28
+JAR JAR,Action,starwarsattackoftheclones,82
+PALPATINE,Action,starwarsattackoftheclones,131
+MAS AMEDDA,Action,starwarsattackoftheclones,24
+JANGO FETT,Action,starwarsattackoftheclones,23
+DOOKU,Action,starwarsattackoftheclones,64
+ANAKIN,Action,starwarsattackoftheclones,643
+PADME,Action,starwarsattackoftheclones,692
+COUNT DOOKU,Action,starwarsattackoftheclones,110
+MACE WINDU,Action,starwarsattackoftheclones,99
+OBI-WAN,Action,starwarsattackoftheclones,503
+YODA,Action,starwarsattackoftheclones,112
+LUCAS LEE,Action,scottpilgrimvstheworld,24
+TODD INGRAM,Action,scottpilgrimvstheworld,30
+JULIE,Action,scottpilgrimvstheworld,29
+ENVY,Action,scottpilgrimvstheworld,28
+STACEY,Action,scottpilgrimvstheworld,24
+WALLACE,Action,scottpilgrimvstheworld,108
+GIDEON GRAVES,Action,scottpilgrimvstheworld,22
+STEPHEN STILLS,Action,scottpilgrimvstheworld,73
+KIM PINE,Action,scottpilgrimvstheworld,43
+YOUNG NEIL,Action,scottpilgrimvstheworld,31
+KNIVES CHAU,Action,scottpilgrimvstheworld,85
+(CONTINUED),Action,scottpilgrimvstheworld,157
+RAMONA,Action,scottpilgrimvstheworld,218
+SCOTT,Action,scottpilgrimvstheworld,566
+HOST,Action,strangedays,25
+KEITH,Action,strangedays,29
+IRIS,Action,strangedays,25
+TICK,Action,strangedays,78
+JERIKO,Action,strangedays,37
+TRAN,Action,strangedays,112
+FAITH,Action,strangedays,204
+MAX,Action,strangedays,399
+STRICKLAND,Action,strangedays,27
+SPREG,Action,strangedays,32
+LENNY,Action,strangedays,1187
+MACE,Action,strangedays,515
+JOHN BRIDGER,Action,italianjobthe,78
+RICHARD,Action,italianjobthe,36
+YEVHEN,Action,italianjobthe,66
+SKINNY PETE,Action,italianjobthe,21
+PHILLY STEAK,Action,italianjobthe,28
+HANDSOME ROB,Action,italianjobthe,164
+STEVE,Action,italianjobthe,186
+HALF-EAR,Action,italianjobthe,124
+MASHKOV,Action,italianjobthe,69
+LYLE,Action,italianjobthe,226
+CHARLIE,Action,italianjobthe,527
+STELLA,Action,italianjobthe,264
+SIR AUGUST,Action,avengersthe,40
+BAILEY,Action,avengersthe,28
+OLD LADY,Action,avengersthe,30
+VOICE,Action,avengersthe,124
+DR. DARLING,Action,avengersthe,74
+PETER,Action,avengersthe,50
+INVISIBLE JONES,Action,avengersthe,66
+FATHER,Action,avengersthe,97
+VALENTINE,Action,avengersthe,257
+MOTHER,Action,avengersthe,251
+EMMA,Action,avengersthe,710
+STEED,Action,avengersthe,774
+JAVAL,Action,rushhour,66
+JAVAL (VO),Action,rushhour,38
+SECRETARY OF STATE,Action,rushhour,44
+SECRETARY OF DEFENSE,Action,rushhour,33
+PRESIDENT,Action,rushhour,110
+INTELLIGENCE OFFICER,Action,rushhour,45
+CIA CHIEF,Action,rushhour,49
+WALTHER,Action,rushhour,106
+SABATINI,Action,rushhour,69
+ROBBINS,Action,rushhour,44
+BOBBI,Action,rushhour,88
+AMBASSADOR HAN,Action,rushhour,66
+COLONEL LEE,Action,rushhour,41
+CARSON (VO),Action,rushhour,55
+DAVE,Action,rushhour,146
+MRS. HAN,Action,rushhour,32
+MIRANDA (VO),Action,rushhour,35
+CARSON,Action,rushhour,687
+MIRANDA,Action,rushhour,304
+SKY,Action,xxx,47
+TRUCKER,Action,xxx,22
+JEFE,Action,xxx,47
+T.J.,Action,xxx,21
+VIRG,Action,xxx,23
+KID,Action,xxx,23
+SAM TANNICK,Action,xxx,45
+SHAVERS,Action,xxx,75
+SLOVO,Action,xxx,73
+KIRILL,Action,xxx,26
+YORGI,Action,xxx,292
+GIBBONS,Action,xxx,276
+PETRA,Action,xxx,273
+XANDER,Action,xxx,989
+GENETIC DOCTOR,Action,perfectcreature,58
+SLUM LANDLORD,Action,perfectcreature,23
+MAN IN THE STREET,Action,perfectcreature,21
+KID,Action,perfectcreature,30
+ANDERSON,Action,perfectcreature,48
+FRANK,Action,perfectcreature,77
+CLE OPERATOR 2,Action,perfectcreature,24
+TV PRESENTER,Action,perfectcreature,48
+CLE OPERATOR,Action,perfectcreature,37
+PROFESSOR LIEPSKY,Action,perfectcreature,75
+STEPH,Action,perfectcreature,37
+"A POV, wavering slightly, the hint of a whispering breath. We",Action,perfectcreature,59
+FREDDY,Action,perfectcreature,65
+NURSE,Action,perfectcreature,32
+DOMINIC,Action,perfectcreature,64
+AUGUSTUS,Action,perfectcreature,222
+JONES,Action,perfectcreature,406
+EDGAR,Action,perfectcreature,419
+DISSOLVE TO:,Action,perfectcreature,122
+SILUS,Action,perfectcreature,484
+PRIEST 2,Action,perfectcreature,41
+FADE OUT:,Action,perfectcreature,33
+LILLY,Action,perfectcreature,578
+SECRET SERVICE AGENT,Action,airforceone,25
+COL. AXELROD,Action,airforceone,26
+DOHERTY,Action,airforceone,29
+BAZYLEV,Action,airforceone,38
+MITCHELL,Action,airforceone,57
+ZEDECK,Action,airforceone,39
+GIBBS,Action,airforceone,106
+SERGE,Action,airforceone,31
+PETROV,Action,airforceone,26
+MAJOR CALDWELL,Action,airforceone,89
+KUNOV,Action,airforceone,324
+AIDE,Action,airforceone,36
+COL. CARLTON,Action,airforceone,86
+DEAN,Action,airforceone,54
+V.P. CHANDLER,Action,airforceone,121
+GENERAL NORTHWOOD,Action,airforceone,58
+ALICE,Action,airforceone,123
+ROSE,Action,airforceone,167
+SHEPHERD,Action,airforceone,95
+MARSHALL,Action,airforceone,518
+KC-LO PILOT,Action,airforceone,26
+ELDER,Action,heavymetal,27
+BELLYGUNNER,Action,heavymetal,32
+BOMBARDIER,Action,heavymetal,54
+NAVIGATOR,Action,heavymetal,45
+PILOT,Action,heavymetal,96
+GLORIA,Action,heavymetal,41
+ROBOT,Action,heavymetal,36
+EDSEL,Action,heavymetal,50
+ZEKE,Action,heavymetal,56
+PROSECUTOR,Action,heavymetal,25
+FISTE,Action,heavymetal,69
+STERNN,Action,heavymetal,55
+AUSTIN,Action,heavymetal,25
+GIRL,Action,heavymetal,25
+NORL,Action,heavymetal,27
+QUEEN,Action,heavymetal,60
+ARD,Action,heavymetal,70
+DEN,Action,heavymetal,59
+DAN,Action,heavymetal,160
+HARRY,Action,heavymetal,30
+YOUNG MAN,Action,longkissgoodnightthe,28
+EARL,Action,longkissgoodnightthe,26
+SILVER-HAIRED MAN,Action,longkissgoodnightthe,30
+NATHAN,Action,longkissgoodnightthe,154
+GREGORY,Action,longkissgoodnightthe,22
+SAMANTHA,Action,longkissgoodnightthe,416
+DAEDALUS,Action,longkissgoodnightthe,64
+TIMOTHY,Action,longkissgoodnightthe,280
+CAITLIN,Action,longkissgoodnightthe,72
+HENESSEY,Action,longkissgoodnightthe,526
+VOICE,Action,longkissgoodnightthe,54
+PERKINS,Action,longkissgoodnightthe,105
+PRESIDENT,Action,longkissgoodnightthe,36
+CHARLY,Action,longkissgoodnightthe,602
+HAL,Action,longkissgoodnightthe,40
+CGUARD DISPATCHER ( RADIO),Action,ghostship,57
+DODGE,Action,ghostship,455
+GREER,Action,ghostship,325
+VOICE,Action,ghostship,22
+EPPS,Action,ghostship,448
+MURPHY,Action,ghostship,923
+KELLER,Action,whiteout,42
+DELFY,Action,whiteout,119
+RHONDA,Action,whiteout,46
+MURPHY,Action,whiteout,84
+(BEAT),Action,whiteout,74
+DOC (cont'd),Action,whiteout,70
+CARRIE (cont'd),Action,whiteout,168
+DOC,Action,whiteout,193
+(CONTINUED),Action,whiteout,180
+PRYCE,Action,whiteout,236
+PRYCE (cont'd),Action,whiteout,65
+CARRIE,Action,whiteout,636
+HAMMOND,Action,jurassicparkthelostworld,106
+EDDIE,Action,jurassicparkthelostworld,56
+DIETER,Action,jurassicparkthelostworld,27
+AJAY,Action,jurassicparkthelostworld,35
+BURKE,Action,jurassicparkthelostworld,45
+JUTTSON,Action,jurassicparkthelostworld,77
+LUDLOW (cont'd),Action,jurassicparkthelostworld,61
+LUDLOW,Action,jurassicparkthelostworld,163
+ROLAND (cont'd),Action,jurassicparkthelostworld,24
+NICK,Action,jurassicparkthelostworld,167
+KELLY,Action,jurassicparkthelostworld,80
+ROLAND,Action,jurassicparkthelostworld,294
+SARAH,Action,jurassicparkthelostworld,261
+SARAH (cont'd),Action,jurassicparkthelostworld,23
+MALCOLM,Action,jurassicparkthelostworld,422
+BARTENDER,Action,mariachiel,32
+VIEJO CLERK,Action,mariachiel,35
+MEAN DUDE #5,Action,mariachiel,111
+DOMINO,Action,mariachiel,224
+AZUL,Action,mariachiel,167
+MARIACHI,Action,mariachiel,186
+MOCO,Action,mariachiel,135
+(CONTINUED),Action,mariachiel,82
+X-NET BUILDER BOSS,Action,tronlegacy,31
+I-BEEM,Action,tronlegacy,82
+PLEXOR,Action,tronlegacy,262
+CODE MONK J2R,Action,tronlegacy,28
+MEGA,Action,tronlegacy,282
+KROD,Action,tronlegacy,285
+QUANTZ,Action,tronlegacy,24
+BOOLE,Action,tronlegacy,39
+SINCLAIR,Action,tronlegacy,190
+(CONTINUED),Action,tronlegacy,199
+RUSH,Action,tronlegacy,763
+MILES,Action,tronlegacy,22
+FLYNN,Action,tronlegacy,404
+MEG,Action,tronlegacy,104
+FINN,Action,snowwhiteandthehuntsman,83
+MUIR,Action,snowwhiteandthehuntsman,21
+DUKE HAMMOND,Action,snowwhiteandthehuntsman,23
+WILLIAM,Action,snowwhiteandthehuntsman,52
+ERIC,Action,snowwhiteandthehuntsman,163
+(CONTINUED),Action,snowwhiteandthehuntsman,305
+RAVENNA,Action,snowwhiteandthehuntsman,119
+SNOW WHITE,Action,snowwhiteandthehuntsman,140
+BEITH,Action,snowwhiteandthehuntsman,34
+MALE VOICE (over),Action,ghostandthedarknessthe,27
+STARLING,Action,ghostandthedarknessthe,198
+ABDULLAH,Action,ghostandthedarknessthe,61
+HAWTHORNE,Action,ghostandthedarknessthe,93
+BEAUMONT,Action,ghostandthedarknessthe,176
+REDBEARD,Action,ghostandthedarknessthe,354
+HELENA,Action,ghostandthedarknessthe,49
+SAMUEL,Action,ghostandthedarknessthe,153
+PATTERSON,Action,ghostandthedarknessthe,552
+CONTRACTOR,Action,machinegunpreacher,21
+PASTOR KRAUSE,Action,machinegunpreacher,26
+DAISY,Action,machinegunpreacher,36
+BILL,Action,machinegunpreacher,41
+GARANG,Action,machinegunpreacher,44
+BANK MANAGER,Action,machinegunpreacher,23
+BIKER,Action,machinegunpreacher,34
+DONNIE,Action,machinegunpreacher,176
+LYNN,Action,machinegunpreacher,229
+AGNETE,Action,machinegunpreacher,54
+(BEAT),Action,machinegunpreacher,52
+PAIGE,Action,machinegunpreacher,112
+WILLIAM,Action,machinegunpreacher,56
+DENG,Action,machinegunpreacher,262
+(ARABIC),Action,machinegunpreacher,101
+SAM,Action,machinegunpreacher,959
+PROSECUTOR,Action,fugitivethe,31
+OLD GUARD,Action,fugitivethe,25
+SHERIFF,Action,fugitivethe,35
+HELEN,Action,fugitivethe,49
+GUTHERIE,Action,fugitivethe,45
+ANNE,Action,fugitivethe,51
+WAHLUND,Action,fugitivethe,38
+POOLE,Action,fugitivethe,51
+SYKES,Action,fugitivethe,45
+NICHOLS,Action,fugitivethe,117
+KELLY,Action,fugitivethe,28
+RENFRO,Action,fugitivethe,107
+NEWMAN,Action,fugitivethe,60
+BIGGS,Action,fugitivethe,65
+KIMBLE,Action,fugitivethe,370
+GERARD,Action,fugitivethe,429
+JOHNNY,Action,minorityreport,32
+FRANK D'IGNAZIO,Action,minorityreport,65
+DOC,Action,minorityreport,60
+OFFICER 1,Action,minorityreport,25
+SENATOR MALCOLM,Action,minorityreport,67
+SPOKESWOMAN,Action,minorityreport,21
+TOUR GUIDE,Action,minorityreport,58
+VOICE,Action,minorityreport,35
+TECHNICIAN,Action,minorityreport,35
+PAGE,Action,minorityreport,45
+FEMALE,Action,minorityreport,41
+HOLOGRAPHIC DOCTOR,Action,minorityreport,37
+ANDERSON'S VOICE,Action,minorityreport,32
+LIEUTENANT GLASER,Action,minorityreport,38
+OFFICER,Action,minorityreport,23
+DR. RESFIELD,Action,minorityreport,42
+LISA,Action,minorityreport,301
+(MORE),Action,minorityreport,38
+ANDERSON,Action,minorityreport,731
+WITWER,Action,minorityreport,442
+ROSE,Action,minorityreport,140
+FATE,Action,vforvendetta,37
+FINGERMAN 3,Action,vforvendetta,24
+LILLIMAN,Action,vforvendetta,63
+DEREK,Action,vforvendetta,99
+PROTHERO,Action,vforvendetta,165
+DELIA,Action,vforvendetta,206
+VALERIE,Action,vforvendetta,119
+INTERROGATOR,Action,vforvendetta,94
+DASCOMBE,Action,vforvendetta,53
+MOTHER,Action,vforvendetta,62
+CREEDY,Action,vforvendetta,103
+DOMINIC,Action,vforvendetta,110
+CAPTAIN,Action,vforvendetta,44
+FINCH,Action,vforvendetta,355
+LEADER,Action,vforvendetta,512
+HELEN,Action,vforvendetta,253
+CONRAD,Action,vforvendetta,66
+EVEY,Action,vforvendetta,892
+UDESKY,Action,jurassicparkiii,52
+BILLY,Action,jurassicparkiii,159
+ELLIE,Action,jurassicparkiii,62
+PAUL,Action,jurassicparkiii,315
+AMANDA,Action,jurassicparkiii,230
+ERIC,Action,jurassicparkiii,103
+GRANT,Action,jurassicparkiii,421
+MAN,Action,buffythevampireslayer,33
+CASSANDRA,Action,buffythevampireslayer,38
+COACH,Action,buffythevampireslayer,40
+GRUELLER,Action,buffythevampireslayer,51
+MERRICK,Action,buffythevampireslayer,378
+ZEPH,Action,buffythevampireslayer,35
+BUFFY'S MOM,Action,buffythevampireslayer,38
+ANDY,Action,buffythevampireslayer,75
+NICOLE,Action,buffythevampireslayer,132
+BENNY,Action,buffythevampireslayer,102
+AMILYN,Action,buffythevampireslayer,54
+LOTHOS,Action,buffythevampireslayer,166
+GARY MURRAY,Action,buffythevampireslayer,68
+JENNIFER,Action,buffythevampireslayer,91
+JEFFREY,Action,buffythevampireslayer,125
+KIMBERLY,Action,buffythevampireslayer,159
+PIKE,Action,buffythevampireslayer,338
+BUFFY,Action,buffythevampireslayer,856
+GIDDYPU!,Action,armyofdarkness,27
+FADE OUT.,Action,armyofdarkness,24
+SHEILA,Action,armyofdarkness,34
+HENRY,Action,armyofdarkness,51
+ARTHUR,Action,armyofdarkness,117
+EVIL ASH,Action,armyofdarkness,64
+WISEMAN JOHN,Action,armyofdarkness,107
+DISSOLVE TO:,Action,armyofdarkness,43
+ASH,Action,armyofdarkness,649
+BUTTERBUR,Action,lordoftheringsfellowshipoftheringthe,23
+ARWEN,Action,lordoftheringsfellowshipoftheringthe,84
+STRIDER,Action,lordoftheringsfellowshipoftheringthe,103
+ELROND,Action,lordoftheringsfellowshipoftheringthe,106
+BILBO,Action,lordoftheringsfellowshipoftheringthe,229
+ANGLE ON:,Action,lordoftheringsfellowshipoftheringthe,26
+SARUMAN,Action,lordoftheringsfellowshipoftheringthe,119
+GALADRIEL,Action,lordoftheringsfellowshipoftheringthe,199
+PIPPIN,Action,lordoftheringsfellowshipoftheringthe,78
+MERRY,Action,lordoftheringsfellowshipoftheringthe,100
+BOROMIR,Action,lordoftheringsfellowshipoftheringthe,191
+GANDALF,Action,lordoftheringsfellowshipoftheringthe,548
+LEGOLAS,Action,lordoftheringsfellowshipoftheringthe,49
+ARAGORN,Action,lordoftheringsfellowshipoftheringthe,142
+GIMLI,Action,lordoftheringsfellowshipoftheringthe,94
+(CONTINUED),Action,lordoftheringsfellowshipoftheringthe,188
+SAM,Action,lordoftheringsfellowshipoftheringthe,179
+FRODO,Action,lordoftheringsfellowshipoftheringthe,337
+CHRISTOPHER,Action,30minutesorless,32
+(BEAT),Action,30minutesorless,57
+JUICY,Action,30minutesorless,55
+(MORE),Action,30minutesorless,22
+VAUGHN,Action,30minutesorless,105
+MAJOR,Action,30minutesorless,54
+CHET,Action,30minutesorless,635
+KATE,Action,30minutesorless,118
+WILL,Action,30minutesorless,1063
+JAY,Action,30minutesorless,184
+DWAYNE,Action,30minutesorless,748
+PROSTITUTE,Action,jimmyandjudy,42
+DR. WALTERS,Action,jimmyandjudy,42
+JIMMY'S DAD,Action,jimmyandjudy,21
+DINKO (O.C.),Action,jimmyandjudy,37
+DINKO,Action,jimmyandjudy,97
+ELVIS,Action,jimmyandjudy,40
+ANCHORMAN,Action,jimmyandjudy,24
+JIMMY'S MOM,Action,jimmyandjudy,33
+BUDDY (O.C.),Action,jimmyandjudy,46
+UNCLE RODNEY,Action,jimmyandjudy,93
+BUDDY,Action,jimmyandjudy,63
+JIMMY,Action,jimmyandjudy,426
+JUDY (O.C.),Action,jimmyandjudy,380
+CAMERA ON:,Action,jimmyandjudy,69
+JIMMY (O.C.),Action,jimmyandjudy,755
+JUDY,Action,jimmyandjudy,519
+SULLIVAN,Action,residentevil,36
+AIKEN,Action,residentevil,42
+SPEYER,Action,residentevil,46
+VICKERS,Action,residentevil,42
+BARRY,Action,residentevil,118
+WESKER,Action,residentevil,336
+WESKER (cont.),Action,residentevil,89
+RODRIGUEZ,Action,residentevil,64
+ADA,Action,residentevil,148
+REBECCA,Action,residentevil,57
+CHRIS (cont.),Action,residentevil,64
+JILL (cont.),Action,residentevil,31
+LAGUARDIA,Action,residentevil,24
+JILL,Action,residentevil,190
+CHRIS,Action,residentevil,285
+IMMIGRATION OFFICER,Action,15minutes,56
+MILOS,Action,15minutes,32
+MUGGER,Action,15minutes,22
+ROBERT HAWKINS,Action,15minutes,36
+STEPHEN GELLER,Action,15minutes,30
+HONEY,Action,15minutes,32
+ROSE,Action,15minutes,45
+EDDIE,Action,15minutes,532
+MAX,Action,15minutes,27
+KORFIN,Action,15minutes,103
+TOMMY,Action,15minutes,44
+LEON,Action,15minutes,111
+DUFFY,Action,15minutes,93
+STERN,Action,15minutes,22
+DAPHNE,Action,15minutes,121
+HAWKINS (ON T.V.),Action,15minutes,24
+CUTLER,Action,15minutes,140
+EMIL,Action,15minutes,426
+HAWKINS,Action,15minutes,118
+OLEG,Action,15minutes,165
+JORDY,Action,15minutes,504
+NICOLETTE,Action,15minutes,213
+FRIEND #3,Action,megamind,21
+EINSTEIN,Action,megamind,98
+"""JOHN CUSACK""",Action,megamind,120
+"""PAT MORITA""",Action,megamind,100
+HAL,Action,megamind,216
+VINNIE,Action,megamind,26
+WAYNE SCOTT,Action,megamind,89
+PLATO,Action,megamind,135
+FRANK,Action,megamind,53
+UBERMAN,Action,megamind,34
+TITAN,Action,megamind,314
+BRAD HELMS,Action,megamind,81
+ROXANNE,Action,megamind,442
+DA VINCI,Action,megamind,36
+MASTER MIND,Action,megamind,840
+CHEW,Action,bladerunner,27
+VOICE,Action,bladerunner,24
+WHEELER,Action,bladerunner,32
+ESPER,Action,bladerunner,76
+TAFFEY,Action,bladerunner,50
+ANNOUNCER'S VOICE,Action,bladerunner,21
+SALOME,Action,bladerunner,34
+LEON,Action,bladerunner,101
+HOLDEN,Action,bladerunner,98
+TYRELL,Action,bladerunner,152
+BRYANT,Action,bladerunner,93
+RACHAEL,Action,bladerunner,223
+SEBASTIAN,Action,bladerunner,149
+MARY,Action,bladerunner,26
+PRIS,Action,bladerunner,75
+BATTY,Action,bladerunner,267
+DECKARD,Action,bladerunner,656
+REESE,Action,terminator2judgementday,24
+VIDERAH,Action,terminator2judgementday,24
+OFFICER X,Action,terminator2judgementday,21
+JANELLE,Action,terminator2judgementday,21
+NIGHT NURSE,Action,terminator2judgementday,22
+SILBERMAN,Action,terminator2judgementday,106
+BIKE COP,Action,terminator2judgementday,25
+SALCEDA,Action,terminator2judgementday,41
+TARISSA,Action,terminator2judgementday,40
+DYSON,Action,terminator2judgementday,148
+JOHN,Action,terminator2judgementday,533
+TERMINATOR,Action,terminator2judgementday,363
+SARAH,Action,terminator2judgementday,339
+VAN LEUWEN,Action,aliens,61
+WIERZBI,Action,aliens,24
+APONE,Action,aliens,82
+SPUNKMEYER,Action,aliens,22
+FERRO,Action,aliens,30
+HUDSON,Action,aliens,231
+GORMAN,Action,aliens,198
+VASQUEZ,Action,aliens,73
+HICKS,Action,aliens,254
+BURKE,Action,aliens,242
+BISHOP,Action,aliens,145
+NEWT,Action,aliens,140
+RIPLEY,Action,aliens,753
+ARGYLE,Action,braveheart,56
+VOICE OVER,Action,braveheart,50
+MARION,Action,braveheart,44
+NICOLETTE,Action,braveheart,31
+MORNAY,Action,braveheart,35
+THE LEPER,Action,braveheart,34
+CAMPBELL,Action,braveheart,61
+LONGSHANKS,Action,braveheart,126
+WILLIAM,Action,braveheart,144
+STEPHEN,Action,braveheart,64
+HAMISH,Action,braveheart,93
+EDWARD,Action,braveheart,79
+PRINCESS,Action,braveheart,216
+MAGISTRATE,Action,braveheart,67
+WALLACE,Action,braveheart,374
+CRAIG,Action,braveheart,95
+ROBERT,Action,braveheart,125
+OWEN,Action,starwarsanewhope,85
+TAGGE,Action,starwarsanewhope,21
+GREEDO,Action,starwarsanewhope,24
+JABBA,Action,starwarsanewhope,39
+TROOPER,Action,starwarsanewhope,46
+BEN,Action,starwarsanewhope,255
+GOLD LEADER,Action,starwarsanewhope,38
+OFFICER,Action,starwarsanewhope,35
+DODONNA,Action,starwarsanewhope,41
+RED LEADER,Action,starwarsanewhope,99
+WEDGE,Action,starwarsanewhope,40
+BIGGS,Action,starwarsanewhope,134
+TARKIN,Action,starwarsanewhope,110
+VADER,Action,starwarsanewhope,133
+HAN,Action,starwarsanewhope,500
+LEIA,Action,starwarsanewhope,188
+THREEPIO,Action,starwarsanewhope,414
+LUKE,Action,starwarsanewhope,751
+AGENT JANUS,Action,meninblack,36
+DEE,Action,meninblack,21
+JEEBS,Action,meninblack,31
+EDWARDS,Action,meninblack,211
+BEATRICE,Action,meninblack,29
+FRANK THE PUG,Action,meninblack,33
+EDGAR,Action,meninblack,111
+ZED,Action,meninblack,181
+LAUREL,Action,meninblack,194
+KAY,Action,meninblack,749
+JAY,Action,meninblack,403
+BURT,Action,stuntmanthe,26
+INT.   CAR - ANGLE ON BURT,Action,stuntmanthe,32
+SECOND A.D.,Action,stuntmanthe,22
+"CAMERA PANS to show Nina among them, her excitement hardly more",Action,stuntmanthe,28
+DENISE'S VOICE,Action,stuntmanthe,37
+DENISE,Action,stuntmanthe,76
+OLD LADY (NINA),Action,stuntmanthe,54
+CARIBINERRI,Action,stuntmanthe,21
+HENRY,Action,stuntmanthe,80
+ELI'S VOICE,Action,stuntmanthe,27
+FATHER,Action,stuntmanthe,26
+GABE,Action,stuntmanthe,59
+VOICE,Action,stuntmanthe,67
+COP,Action,stuntmanthe,22
+RAYMOND,Action,stuntmanthe,57
+TECHNICIAN,Action,stuntmanthe,27
+A.D.,Action,stuntmanthe,97
+NINA,Action,stuntmanthe,607
+CHUCK,Action,stuntmanthe,422
+SAM,Action,stuntmanthe,218
+JAKE,Action,stuntmanthe,145
+ELI,Action,stuntmanthe,1227
+CAMERON,Action,stuntmanthe,1344
+RICE,Action,ticker,58
+EARRING,Action,ticker,30
+BEARD,Action,ticker,31
+POOCH,Action,ticker,133
+HARRY,Action,ticker,41
+PLUCHINSKY,Action,ticker,59
+DEALER,Action,ticker,30
+REILLY (cont.),Action,ticker,59
+SWAN,Action,ticker,63
+MARY,Action,ticker,58
+WINTERS,Action,ticker,171
+WINTERS (cont.),Action,ticker,33
+BEV,Action,ticker,36
+GLASS,Action,ticker,363
+GLASS (cont.),Action,ticker,72
+REILLY,Action,ticker,529
+T.J.,Action,ticker,134
+JAMES EARL JONES,Action,charliesangels,25
+PETE,Action,charliesangels,47
+VIVIAN WU,Action,charliesangels,71
+THIN MAN,Action,charliesangels,61
+JASON,Action,charliesangels,108
+ALEX,Action,charliesangels,248
+KNOX,Action,charliesangels,220
+NATALIE,Action,charliesangels,318
+BOSLEY,Action,charliesangels,124
+(CONTINUED),Action,charliesangels,83
+CHARLIE'S VOICE,Action,charliesangels,86
+CHARLIE,Action,charliesangels,37
+DYLAN,Action,charliesangels,430
+HAFIZ,Action,fairgame,33
+CPD AGENT,Action,fairgame,24
+DR FER,Action,fairgame,41
+TURNER,Action,fairgame,31
+PROFESSOR AZIZ,Action,fairgame,53
+ANALYST 1,Action,fairgame,21
+PAUL,Action,fairgame,67
+JEFF,Action,fairgame,30
+PRESIDENT (ON TV),Action,fairgame,36
+SA'AD,Action,fairgame,61
+PETE,Action,fairgame,42
+BILL,Action,fairgame,89
+PRESIDENT,Action,fairgame,33
+DIANA,Action,fairgame,32
+SAWSAN,Action,fairgame,100
+MIKE,Action,fairgame,80
+PAVITT,Action,fairgame,40
+REPORTER ON TV,Action,fairgame,21
+LIBBY,Action,fairgame,108
+ANCHORMAN,Action,fairgame,24
+REPORTER,Action,fairgame,32
+TAXI DRIVER,Action,fairgame,31
+LT. COLONEL SAM PLAME,Action,fairgame,62
+JOE,Action,fairgame,334
+JOE WILSON,Action,fairgame,236
+VALERIE,Action,fairgame,783
+(MORE),Action,fairgame,32
+JODY,Action,cryinggame,393
+DAVE,Action,cryinggame,53
+DEVEROUX,Action,cryinggame,33
+COL,Action,cryinggame,81
+MAGUIRE,Action,cryinggame,126
+JUDE,Action,cryinggame,217
+DIL,Action,cryinggame,718
+FERGUS,Action,cryinggame,883
+OKUBO,Action,lakeplacid,28
+KEVIN,Action,lakeplacid,61
+JANINE,Action,lakeplacid,22
+HECTOR,Action,lakeplacid,471
+KEOUGH,Action,lakeplacid,453
+GARE,Action,lakeplacid,60
+JACK,Action,lakeplacid,496
+KELLY,Action,lakeplacid,736
+BICKERMAN,Action,lakeplacid,96
+GIANCARLO,Action,bourneidentitythe,64
+THE MAN,Action,bourneidentitythe,51
+SECURITY CHIEF,Action,bourneidentitythe,23
+OPERATOR/PHONE,Action,bourneidentitythe,21
+MANAGER/PHONE,Action,bourneidentitythe,35
+MRS. DOYLE,Action,bourneidentitythe,25
+RAWLINS,Action,bourneidentitythe,50
+MORGUE BOSS,Action,bourneidentitythe,37
+ZORN,Action,bourneidentitythe,46
+WOMBOSI,Action,bourneidentitythe,168
+CLERK,Action,bourneidentitythe,32
+PROFESSOR,Action,bourneidentitythe,34
+CONKLIN,Action,bourneidentitythe,224
+MARSHALL,Action,bourneidentitythe,42
+ABBOTT,Action,bourneidentitythe,91
+BOURNE,Action,bourneidentitythe,564
+MARIE,Action,bourneidentitythe,410
+PIERRE,Action,manintheironmask,35
+RAOUL,Action,manintheironmask,54
+ARAMIS' VOICE,Action,manintheironmask,43
+MICHELLE,Action,manintheironmask,54
+ANNE,Action,manintheironmask,85
+GUARD,Action,manintheironmask,26
+PORTHOS,Action,manintheironmask,211
+LOUIS,Action,manintheironmask,385
+D'ARTAGNAN,Action,manintheironmask,357
+LIEUTENANT,Action,manintheironmask,54
+MAN IN THE IRON MASK,Action,manintheironmask,97
+ARAMIS,Action,manintheironmask,430
+ATHOS,Action,manintheironmask,378
+PHILLIPPE,Action,manintheironmask,119
+DOUGLAS,Action,cradle2thegrave,31
+DOORMAN,Action,cradle2thegrave,28
+CHAMBERS,Action,cradle2thegrave,105
+ODION,Action,cradle2thegrave,48
+TV ANCHOR,Action,cradle2thegrave,32
+SONA,Action,cradle2thegrave,42
+RUSSELL,Action,cradle2thegrave,31
+CHARLES,Action,cradle2thegrave,44
+VANESSA,Action,cradle2thegrave,52
+LING,Action,cradle2thegrave,123
+DARIA,Action,cradle2thegrave,115
+MILES,Action,cradle2thegrave,73
+SU,Action,cradle2thegrave,183
+FAIT,Action,cradle2thegrave,518
+ARCHIE,Action,cradle2thegrave,216
+TOMMY,Action,cradle2thegrave,196
+CHANCELLOR WILSON,Action,programthe,32
+ADVISOR SMITH,Action,programthe,26
+BERMAN,Action,programthe,21
+BOBBY,Action,programthe,32
+BRAVER,Action,programthe,30
+SWANN,Action,programthe,27
+ZABRISKIE,Action,programthe,49
+BUD LITE,Action,programthe,27
+LEARNIHAN,Action,programthe,35
+BUD,Action,programthe,49
+JOE'S DAD,Action,programthe,30
+LATTIMER,Action,programthe,91
+CLAYTON,Action,programthe,58
+RAY,Action,programthe,55
+ALVIN,Action,programthe,180
+CHAIRMAN,Action,programthe,25
+HOWARD,Action,programthe,48
+AUTUMN,Action,programthe,187
+DARNELL,Action,programthe,338
+MR. HALEY,Action,programthe,31
+LOUANNE,Action,programthe,55
+WINTERS,Action,programthe,665
+HARVEY,Action,programthe,71
+JOE,Action,programthe,449
+CAMILLE,Action,programthe,223
+JOSHUA,Action,eightleggedfreaks,84
+HARLAN,Action,eightleggedfreaks,77
+HANK,Action,eightleggedfreaks,23
+NORMAN,Action,eightleggedfreaks,53
+WADE,Action,eightleggedfreaks,193
+BRET,Action,eightleggedfreaks,92
+SAM,Action,eightleggedfreaks,361
+ASHLEY,Action,eightleggedfreaks,159
+GLADYS,Action,eightleggedfreaks,88
+CHRIS,Action,eightleggedfreaks,334
+MIKE,Action,eightleggedfreaks,285
+(CONTINUED),Action,eightleggedfreaks,140
+FABIO,Action,colombiana,89
+MAN,Action,colombiana,52
+SERGEANT,Action,colombiana,50
+MARSHAL,Action,colombiana,38
+WILLIAM,Action,colombiana,47
+ON CAT,Action,colombiana,28
+VOICE,Action,colombiana,26
+RYAN,Action,colombiana,24
+PEPE,Action,colombiana,45
+EMILIO,Action,colombiana,189
+(BEAT),Action,colombiana,43
+RICHARD,Action,colombiana,106
+MARCO,Action,colombiana,257
+DON LUIS,Action,colombiana,119
+R,Action,colombiana,24
+AGENT 1,Action,colombiana,44
+CAT,Action,colombiana,425
+DANNY,Action,colombiana,205
+ROSS,Action,colombiana,236
+MIKE,Action,landofthedead,33
+WOMAN,Action,landofthedead,24
+MANOLETE,Action,landofthedead,36
+PILLSBURY,Action,landofthedead,33
+HOLO,Action,landofthedead,49
+FOXY,Action,landofthedead,25
+"...DEAD THINGS close in. The Workers, unarmed, pick up the",Action,landofthedead,28
+CHOLO,Action,landofthedead,346
+"ILEY runs out of a line of trees. In the distance, he sees...",Action,landofthedead,21
+HARLIE,Action,landofthedead,25
+AUFMAN,Action,landofthedead,36
+NIPP,Action,landofthedead,26
+KNIPP,Action,landofthedead,47
+KAUFMAN,Action,landofthedead,170
+MULLIGAN,Action,landofthedead,25
+INT. DEAD RECKONING - NIGHT,Action,landofthedead,26
+CHARLIE,Action,landofthedead,134
+RILEY,Action,landofthedead,488
+SLACK,Action,landofthedead,145
+ILEY,Action,landofthedead,83
+FROM DUSK TILL DAWN,Action,fromdusktilldawn,27
+MCGRAW,Action,fromdusktilldawn,52
+PETE,Action,fromdusktilldawn,64
+KELLY HOUGE,Action,fromdusktilldawn,93
+STANLEY CHASE,Action,fromdusktilldawn,28
+RAZOR CHARLIE,Action,fromdusktilldawn,35
+SANTANICO,Action,fromdusktilldawn,22
+CHET,Action,fromdusktilldawn,44
+RICHARD,Action,fromdusktilldawn,292
+FROST,Action,fromdusktilldawn,49
+SEX MACHINE,Action,fromdusktilldawn,65
+JACOB,Action,fromdusktilldawn,445
+SCOTT,Action,fromdusktilldawn,96
+CARLOS,Action,fromdusktilldawn,40
+KATE,Action,fromdusktilldawn,157
+SETH,Action,fromdusktilldawn,1005
+DEEKS,Action,smokinaces,21
+DUPREE,Action,smokinaces,200
+WYMAN,Action,smokinaces,56
+SECURITY SUPERVISOR,Action,smokinaces,56
+ACOSTA,Action,smokinaces,62
+BEANIE,Action,smokinaces,54
+REED,Action,smokinaces,83
+PADICHE,Action,smokinaces,98
+MARGIE,Action,smokinaces,71
+CASINO EMPLOYEE,Action,smokinaces,38
+MUSTACHE,Action,smokinaces,23
+MECKLEN,Action,smokinaces,35
+HUGO,Action,smokinaces,58
+ISRAEL,Action,smokinaces,295
+SIR IVY,Action,smokinaces,101
+SYKES,Action,smokinaces,226
+DR. GILL,Action,smokinaces,50
+WATTERS,Action,smokinaces,183
+DARWIN TREMOR,Action,smokinaces,79
+ELMORE,Action,smokinaces,125
+SERNA,Action,smokinaces,82
+(MORE),Action,smokinaces,32
+CARRUTHERS,Action,smokinaces,134
+LOCKE,Action,smokinaces,349
+MESSNER,Action,smokinaces,335
+YOSHITAKA/GRAHAM,Action,lastsamuraithe,21
+GANT,Action,lastsamuraithe,75
+YORITOMO,Action,lastsamuraithe,38
+TAKA,Action,lastsamuraithe,50
+BAGLEY,Action,lastsamuraithe,151
+KA TSUMOTO,Action,lastsamuraithe,71
+KATSUMOTO,Action,lastsamuraithe,350
+AMBASSADOR SWANBECK,Action,lastsamuraithe,26
+OMURA,Action,lastsamuraithe,291
+EMPEROR,Action,lastsamuraithe,107
+ALGREN,Action,lastsamuraithe,855
+GRAHAM,Action,lastsamuraithe,205
+HOLLOM,Action,masterandcommander,55
+BONDEN,Action,masterandcommander,32
+ALLEN,Action,masterandcommander,49
+PLAICE,Action,masterandcommander,24
+HOGG,Action,masterandcommander,31
+BLAKENEY,Action,masterandcommander,135
+MOWETT,Action,masterandcommander,75
+PULLINGS,Action,masterandcommander,82
+CALAMY,Action,masterandcommander,85
+HOLLAR,Action,masterandcommander,32
+STEPHEN,Action,masterandcommander,414
+KILLICK,Action,masterandcommander,42
+JACK,Action,masterandcommander,697
+JEANNIE,Action,next,23
+GUY,Action,next,55
+IRV,Action,next,86
+CAVANAUGH,Action,next,127
+FERRIS (cont'd),Action,next,33
+BAINES,Action,next,74
+WISDOM,Action,next,226
+SNAPBACK TO:,Action,next,34
+LIZ,Action,next,527
+FERRIS,Action,next,565
+CRIS,Action,next,933
+OLD MAN,Action,irobot,37
+NIGHT FOREMAN,Action,irobot,27
+ARN,Action,irobot,30
+BALDEZ,Action,irobot,25
+TOLLER,Action,irobot,35
+LT. BERGIN,Action,irobot,115
+ROBOT,Action,irobot,35
+ROBERTSON,Action,irobot,129
+HOGENMILLER,Action,irobot,47
+LANNING,Action,irobot,29
+CUT BACK TO:,Action,irobot,51
+VICTOR,Action,irobot,133
+SONNY,Action,irobot,139
+CALVIN,Action,irobot,585
+SPOONER,Action,irobot,1046
+HOLOGRAM,Action,irobot,49
+MR. DANVERS,Action,supergirl,26
+LINDA,Action,supergirl,30
+BIANCA,Action,supergirl,51
+KARA,Action,supergirl,24
+JIMMY,Action,supergirl,45
+LUCY,Action,supergirl,62
+ZALTAR,Action,supergirl,73
+ETHAN,Action,supergirl,137
+SELENA,Action,supergirl,160
+SUPERGIRL,Action,supergirl,114
+LULL,Action,totalrecall,125
+KIRSTEN,Action,totalrecall,131
+ROBOT DRIVER,Action,totalrecall,21
+TELEPHONE VOICE,Action,totalrecall,66
+CASSETTE VOICE,Action,totalrecall,31
+DRIVER,Action,totalrecall,30
+EARPLUG WEARER,Action,totalrecall,22
+CAPTAIN'S VOICE,Action,totalrecall,45
+CLERK,Action,totalrecall,31
+EDGEMAR,Action,totalrecall,89
+VOICE,Action,totalrecall,25
+VOICE FROM LOUDSPEAKER,Action,totalrecall,23
+KUATO,Action,totalrecall,72
+BENNIE,Action,totalrecall,158
+EMILE,Action,totalrecall,22
+COHAAGEN,Action,totalrecall,101
+MELINA,Action,totalrecall,219
+QUAIL,Action,totalrecall,820
+DEBBIE,Action,fantasticfour,21
+DOCTOR,Action,fantasticfour,29
+X GAMES ANNOUNCER,Action,fantasticfour,24
+NED CECIL,Action,fantasticfour,42
+THE THING,Action,fantasticfour,24
+LEONARD,Action,fantasticfour,56
+VICTOR,Action,fantasticfour,443
+DOOM,Action,fantasticfour,83
+ALICIA,Action,fantasticfour,50
+REED,Action,fantasticfour,548
+SUE,Action,fantasticfour,417
+JOHNNY,Action,fantasticfour,303
+BEN,Action,fantasticfour,350
+HODGE,Action,dragonslayer,96
+BROTHER JACOPUS,Action,dragonslayer,50
+KING,Action,dragonslayer,114
+ELSPETH,Action,dragonslayer,75
+TYRIAN,Action,dragonslayer,123
+SIMON,Action,dragonslayer,87
+ULRICH,Action,dragonslayer,208
+GREIL,Action,dragonslayer,128
+HIK,Action,dragonslayer,69
+VALERIAN,Action,dragonslayer,338
+GALEN,Action,dragonslayer,413
+A Muslim family sits together at a table under a tented-,Action,kingdomthe,25
+KINGDOM 8/18/06   10.,Action,kingdomthe,34
+GRANDFATHER (O.C.),Action,kingdomthe,22
+ELLIS LEACH,Action,kingdomthe,24
+ELAINE FLOWERS,Action,kingdomthe,48
+PRINCE THAMER,Action,kingdomthe,53
+GIDEON YOUNG,Action,kingdomthe,73
+SCHMIDT,Action,kingdomthe,23
+LEAVITT,Action,kingdomthe,47
+GENERAL ABDUL-MALIK,Action,kingdomthe,29
+JANINE,Action,kingdomthe,31
+MADDY,Action,kingdomthe,24
+EARL,Action,kingdomthe,31
+AARON JACKSON,Action,kingdomthe,53
+KINGDOM 8/18/06   96.,Action,kingdomthe,23
+PRINCE BIN KHALED,Action,kingdomthe,65
+DAMON SCHMIDT,Action,kingdomthe,92
+COLONEL AL-GHAZI (O.C.),Action,kingdomthe,43
+SERGEANT HAYTHAM,Action,kingdomthe,59
+GRANT SYKES,Action,kingdomthe,205
+SYKES,Action,kingdomthe,54
+AL-GHAZI,Action,kingdomthe,44
+COLONEL AL-GHAZI,Action,kingdomthe,516
+JANET MAYES,Action,kingdomthe,217
+HAYTHAM,Action,kingdomthe,25
+FLEURY,Action,kingdomthe,276
+DIRECTOR GRACE,Action,kingdomthe,126
+ADAM LEAVITT,Action,kingdomthe,155
+KEVIN FLEURY,Action,kingdomthe,99
+RONALD FLEURY,Action,kingdomthe,827
+LEGOLAS,Action,lordoftheringsthetwotowers,27
+GIMLI,Action,lordoftheringsthetwotowers,57
+ARAGORN,Action,lordoftheringsthetwotowers,92
+PIPPIN,Action,lordoftheringsthetwotowers,25
+MERRY,Action,lordoftheringsthetwotowers,27
+TREEBEARD,Action,lordoftheringsthetwotowers,30
+THEODEN,Action,lordoftheringsthetwotowers,65
+FARAMIR,Action,lordoftheringsthetwotowers,27
+GANDALF,Action,lordoftheringsthetwotowers,35
+SAM,Action,lordoftheringsthetwotowers,71
+FRODO,Action,lordoftheringsthetwotowers,72
+SMEAGOL,Action,lordoftheringsthetwotowers,29
+GOLLUM,Action,lordoftheringsthetwotowers,68
+(SUBTITLED),Action,avatar,119
+GRACE,Action,avatar,434
+MO'AT,Action,avatar,63
+NEYTIRI,Action,avatar,186
+WAINFLEET,Action,avatar,33
+MAX,Action,avatar,69
+NORM,Action,avatar,123
+TRUDY,Action,avatar,93
+SELFRIDGE,Action,avatar,137
+QUARITCH,Action,avatar,253
+TSU'TEY,Action,avatar,55
+JAKE,Action,avatar,757
+FRIEND 4,Action,waroftheworlds,24
+MANNY,Action,waroftheworlds,41
+REPORTER,Action,waroftheworlds,32
+SHERYL,Action,waroftheworlds,22
+HARLAND,Action,waroftheworlds,139
+RAY,Action,waroftheworlds,772
+MARY ANN,Action,waroftheworlds,56
+RACHEL,Action,waroftheworlds,267
+ROBBIE,Action,waroftheworlds,202
+NARRATOR,Action,waroftheworlds,30
+YAKITITO,Action,darkman,40
+RESIDENT,Action,darkman,26
+EYES,Action,darkman,23
+(REVISED 5ZENE,Action,darkman,39
+PAULY DUMMY,Action,darkman,22
+THE CAT,Action,darkman,41
+TRUMAYNE,Action,darkman,21
+ATTENDANT,Action,darkman,24
+PEYTON,Action,darkman,136
+GUZMAN,Action,darkman,45
+DURANT,Action,darkman,87
+STRACK,Action,darkman,129
+CONTINUED,Action,darkman,224
+JULIE,Action,darkman,169
+DARKMAN,Action,darkman,63
+NEWSCASTER,Action,badcountry,26
+CHARLIE,Action,badcountry,30
+GRACE,Action,badcountry,54
+RAY,Action,badcountry,36
+CZAPP,Action,badcountry,31
+MORRIS,Action,badcountry,60
+LUCIAN,Action,badcountry,137
+SHEPARD,Action,badcountry,50
+LYNN,Action,badcountry,49
+NOKES,Action,badcountry,40
+BUZZ,Action,badcountry,34
+FITCH,Action,badcountry,114
+CATFISH,Action,badcountry,96
+JESSE,Action,badcountry,272
+BRADDOCK,Action,badcountry,134
+KIERSEY,Action,badcountry,100
+MILLS,Action,badcountry,24
+MARANDINO,Action,badcountry,94
+COBB,Action,badcountry,120
+BUD,Action,badcountry,592
+SISTER ANNA,Action,manonfire,21
+JORDAN,Action,manonfire,74
+JORGE,Action,manonfire,49
+GUARDIAN TWO,Action,manonfire,29
+RAYBURN,Action,manonfire,204
+TAZINARI,Action,manonfire,53
+SAMUEL,Action,manonfire,132
+ROSANNA,Action,manonfire,116
+VOICE,Action,manonfire,43
+DANIEL,Action,manonfire,26
+LISA,Action,manonfire,175
+CREASY,Action,manonfire,793
+PINTA,Action,manonfire,334
+MANZANO,Action,manonfire,240
+CREASY'S VOICE,Action,manonfire,38
+SWAN,Action,piratesofthecaribbean,27
+MULLR0Y,Action,piratesofthecaribbean,31
+MURTOGG,Action,piratesofthecaribbean,55
+MULLROY,Action,piratesofthecaribbean,33
+TWIGG,Action,piratesofthecaribbean,22
+GIBBS,Action,piratesofthecaribbean,145
+PINTEL,Action,piratesofthecaribbean,102
+BARB,Action,piratesofthecaribbean,419
+ELIZABETH,Action,piratesofthecaribbean,349
+WILL,Action,piratesofthecaribbean,286
+SWANN,Action,piratesofthecaribbean,96
+GILLETTE,Action,piratesofthecaribbean,48
+NORRINGTON,Action,piratesofthecaribbean,258
+ANAMARIA,Action,piratesofthecaribbean,23
+JACK,Action,piratesofthecaribbean,759
+MARCUS,Action,gladiator,189
+QUINTUS,Action,gladiator,45
+SLAVE TRADER,Action,gladiator,32
+MARCELLUS,Action,gladiator,29
+CASSIUS,Action,gladiator,58
+GAIUS,Action,gladiator,53
+VIBIUS,Action,gladiator,35
+JUBA,Action,gladiator,100
+LUCIUS,Action,gladiator,33
+LUCILLA,Action,gladiator,328
+PROXIMO,Action,gladiator,307
+COMMODUS,Action,gladiator,483
+GRACCHUS,Action,gladiator,135
+MAXIMUS,Action,gladiator,446
+CRABBY,Action,cars2,25
+MEL DORADO (ON TV),Action,cars2,44
+MATER'S VOICE (ON TV),Action,cars2,22
+FRANCESCO (ON TV),Action,cars2,40
+ROD REDLINE,Action,cars2,30
+TOMBER,Action,cars2,38
+UNCLE TOPOLINO,Action,cars2,49
+ENGINE VOICE,Action,cars2,60
+MILES AXLEROD (ON TV),Action,cars2,33
+ACER,Action,cars2,56
+GREM,Action,cars2,66
+FINN (OVER RADIO),Action,cars2,35
+DAVID HOBBSCAP,Action,cars2,47
+DARRELL CARTRIP,Action,cars2,54
+BRENT MUSTANGBURGER,Action,cars2,120
+PROFESSOR ZUNDAPP,Action,cars2,96
+MATER'S COMPUTER,Action,cars2,32
+MILES AXLEROD,Action,cars2,74
+LUIGI,Action,cars2,31
+(TO HOLLEY),Action,cars2,40
+FILLMORE,Action,cars2,22
+SALLY,Action,cars2,41
+HOLLEY,Action,cars2,301
+FINN,Action,cars2,321
+OTIS,Action,cars2,35
+FRANCESCO,Action,cars2,109
+MCQUEEN,Action,cars2,414
+MATER,Action,cars2,830
+RIEEKAN,Action,starwarstheempirestrikesback,42
+ZEV,Action,starwarstheempirestrikesback,25
+VEERS,Action,starwarstheempirestrikesback,25
+WEDGE,Action,starwarstheempirestrikesback,22
+CREATURE,Action,starwarstheempirestrikesback,69
+NEEDA,Action,starwarstheempirestrikesback,24
+BEN,Action,starwarstheempirestrikesback,32
+YODA,Action,starwarstheempirestrikesback,148
+HAN,Action,starwarstheempirestrikesback,566
+LEIA,Action,starwarstheempirestrikesback,314
+VADER,Action,starwarstheempirestrikesback,187
+PIETT,Action,starwarstheempirestrikesback,58
+THREEPIO,Action,starwarstheempirestrikesback,334
+LANDO,Action,starwarstheempirestrikesback,202
+LUKE,Action,starwarstheempirestrikesback,398
+BRODIE,Action,faceoff,40
+MILLER,Action,faceoff,26
+TITO,Action,faceoff,72
+HOAG,Action,faceoff,72
+WALTON,Action,faceoff,72
+POLLUX,Action,faceoff,121
+LAZARRO,Action,faceoff,64
+PRIEST,Action,faceoff,25
+SASHA,Action,faceoff,75
+DIETRICH,Action,faceoff,60
+CASTOR,Action,faceoff,575
+BUZZ,Action,faceoff,24
+WANDA,Action,faceoff,60
+JAMIE,Action,faceoff,62
+ARCHER,Action,faceoff,580
+EVE,Action,faceoff,283
+ABBOT,Action,alien3,299
+ANTHONY,Action,alien3,232
+KYLE,Action,alien3,62
+JOHN,Action,alien3,552
+RIPLEY,Action,alien3,757
+CHIEF,Action,feast,36
+MEAN GREEN,Action,feast,26
+NEWSCASTER,Action,feast,29
+HERO,Action,feast,68
+BELLE,Action,feast,58
+COACH,Action,feast,132
+BMAN,Action,feast,144
+ROADIE,Action,feast,94
+BEER GUY,Action,feast,67
+TRAMPY,Action,feast,72
+PARA,Action,feast,72
+GRANDPA,Action,feast,35
+BARTENDER,Action,feast,115
+ADULTERER,Action,feast,107
+TUFFY,Action,feast,91
+BOZO,Action,feast,311
+HEROINE,Action,feast,446
+THE MAN IN TAN,Action,feast,23
+IVANA,Action,austinpowersthespywhoshaggedme,31
+GURU PITKA,Action,austinpowersthespywhoshaggedme,108
+ROBIN SWALLOWS,Action,austinpowersthespywhoshaggedme,38
+FRAU,Action,austinpowersthespywhoshaggedme,21
+SCOTT,Action,austinpowersthespywhoshaggedme,68
+NUMBER TWO,Action,austinpowersthespywhoshaggedme,105
+FAT BASTARD,Action,austinpowersthespywhoshaggedme,115
+PRESIDENT,Action,austinpowersthespywhoshaggedme,33
+DR. EVIL,Action,austinpowersthespywhoshaggedme,492
+BASIL EXPOSITION,Action,austinpowersthespywhoshaggedme,120
+FELICITY,Action,austinpowersthespywhoshaggedme,304
+AUSTIN,Action,austinpowersthespywhoshaggedme,771
+BREEN,Action,terminator,25
+CLERK,Action,terminator,22
+ANCHORMAN,Action,terminator,21
+GINGER,Action,terminator,72
+MATT,Action,terminator,35
+GINGER'S VOICE,Action,terminator,27
+SILBERMAN,Action,terminator,75
+TRAXLER,Action,terminator,84
+VUKOVICH,Action,terminator,147
+DRIVER,Action,terminator,21
+TERMINATOR,Action,terminator,59
+REESE,Action,terminator,556
+SARAH,Action,terminator,667
+HARLAN,Action,thelmalouise,52
+LENA,Action,thelmalouise,24
+HITCHHIKER,Action,thelmalouise,23
+SARAH,Action,thelmalouise,26
+JIMMY,Action,thelmalouise,225
+J.D.,Action,thelmalouise,147
+DARRYL,Action,thelmalouise,78
+PATROLMAN,Action,thelmalouise,25
+TRUCKER,Action,thelmalouise,29
+HAL,Action,thelmalouise,290
+MAX,Action,thelmalouise,81
+LOUISE,Action,thelmalouise,984
+THELMA,Action,thelmalouise,1030
+COUGAR,Action,topgun,28
+G,Action,topgun,131
+SLIDER,Action,topgun,23
+WOLFMAN,Action,topgun,22
+HOLLYWOOD,Action,topgun,34
+ICE,Action,topgun,46
+STINGER,Action,topgun,22
+JESTER,Action,topgun,21
+VIPER,Action,topgun,87
+FUNGUS,Action,topgun,59
+CHARLIE,Action,topgun,171
+MAVERICK,Action,topgun,351
+WELCH,Action,hostage,21
+JANE,Action,hostage,41
+FISCHER,Action,hostage,22
+LOUISE'S VOICE,Action,hostage,36
+THE WATCHMAN,Action,hostage,58
+LOUISE,Action,hostage,22
+ANDERS,Action,hostage,31
+MADDOX,Action,hostage,21
+SEYMORE,Action,hostage,27
+KLAUS,Action,hostage,21
+KEVIN,Action,hostage,133
+MARTIN,Action,hostage,60
+MIKKELSON,Action,hostage,27
+DENNIS,Action,hostage,390
+MARS,Action,hostage,101
+JENNIFER,Action,hostage,124
+MR. JONES,Action,hostage,55
+THOMAS,Action,hostage,109
+WALTER,Action,hostage,86
+BELDONE,Action,hostage,21
+HOWELL,Action,hostage,111
+TALLEY,Action,hostage,786
+MARION,Action,hostage,26
+BENZA,Action,hostage,29
+(SINGING),Action,howtotrainyourdragon2,36
+STOICK,Action,howtotrainyourdragon2,211
+TUFFNUT,Action,howtotrainyourdragon2,42
+(BEAT),Action,howtotrainyourdragon2,47
+DRAGO,Action,howtotrainyourdragon2,111
+FISHLEGS,Action,howtotrainyourdragon2,40
+SNOTLOUT,Action,howtotrainyourdragon2,39
+RUFFNUT,Action,howtotrainyourdragon2,60
+ERET,Action,howtotrainyourdragon2,166
+VALKA,Action,howtotrainyourdragon2,206
+ASTRID,Action,howtotrainyourdragon2,153
+GOBBER,Action,howtotrainyourdragon2,115
+HICCUP,Action,howtotrainyourdragon2,652
+BOY,Action,terminatorsalvation,21
+MORRISON,Action,terminatorsalvation,40
+BARNES,Action,terminatorsalvation,42
+JEREMY,Action,terminatorsalvation,51
+JEREMY (cont'd),Action,terminatorsalvation,29
+SERENA (cont'd),Action,terminatorsalvation,41
+MARCUS (cont'd),Action,terminatorsalvation,60
+SERENA,Action,terminatorsalvation,102
+BLAIR (cont'd),Action,terminatorsalvation,48
+STAR,Action,terminatorsalvation,79
+BLAIR,Action,terminatorsalvation,171
+KYLE,Action,terminatorsalvation,113
+CONNOR,Action,terminatorsalvation,91
+KATE,Action,terminatorsalvation,30
+MARCUS,Action,terminatorsalvation,389
+(CONTINUED),Action,terminatorsalvation,206
+EDDIE,Action,getcarter,43
+HARRY,Action,getcarter,32
+DOREEN,Action,getcarter,32
+GERALD,Action,getcarter,38
+THORPE,Action,getcarter,34
+EDNA,Action,getcarter,125
+KEITH,Action,getcarter,90
+MARGARET,Action,getcarter,67
+GLENDA,Action,getcarter,97
+ALBERT,Action,getcarter,49
+CON,Action,getcarter,46
+PETER,Action,getcarter,30
+BRUMBY,Action,getcarter,133
+KINNEAR,Action,getcarter,98
+ERIC,Action,getcarter,79
+CARTER,Action,getcarter,887
+CHARLES,Action,pacifierthe,32
+HELGA,Action,pacifierthe,36
+DIRECTOR,Action,pacifierthe,21
+ILL,Action,pacifierthe,21
+MURNEY,Action,pacifierthe,116
+BILL,Action,pacifierthe,107
+TODD,Action,pacifierthe,87
+CUTE COP,Action,pacifierthe,21
+PRINCIPAL CLAIRE,Action,pacifierthe,111
+ZOE,Action,pacifierthe,174
+LULU,Action,pacifierthe,128
+JULIE,Action,pacifierthe,119
+SHANE,Action,pacifierthe,886
+PROSECUTOR,Action,ghostbusters2,36
+JUDGE,Action,ghostbusters2,77
+COP,Action,ghostbusters2,26
+SHERMAN,Action,ghostbusters2,27
+JANINE,Action,ghostbusters2,55
+VIGO,Action,ghostbusters2,22
+JANOSZ,Action,ghostbusters2,139
+LOUIS,Action,ghostbusters2,208
+HARDEMEYER,Action,ghostbusters2,65
+MAYOR,Action,ghostbusters2,40
+SPENGLER,Action,ghostbusters2,224
+WINSTON,Action,ghostbusters2,114
+STANTZ,Action,ghostbusters2,468
+DANA,Action,ghostbusters2,292
+VENKMAN,Action,ghostbusters2,755
+MASTER FU,Action,rushhour2,38
+HOSTESS,Action,rushhour2,21
+CAPTAIN DIEL,Action,rushhour2,22
+SPECIAL AGENT STERLING,Action,rushhour2,34
+SUPERINDENDENT CHIN,Action,rushhour2,37
+KENNY,Action,rushhour2,71
+ISABELLA,Action,rushhour2,136
+STEVEN REIGN,Action,rushhour2,47
+RICKY TAN,Action,rushhour2,124
+HU LI,Action,rushhour2,33
+CARTER,Action,rushhour2,1071
+LEE,Action,rushhour2,535
+THE HWIFE,Action,killbillvolume12,27
+VERNITA,Action,killbillvolume12,61
+THE ORDERLY,Action,killbillvolume12,51
+SUSHI CHEF (ENGLISH),Action,killbillvolume12,63
+MR. BARREL,Action,killbillvolume12,28
+O-REN (JAPANESE),Action,killbillvolume12,64
+O-REN (ENGLISH),Action,killbillvolume12,43
+SOFIE (JAPANESE),Action,killbillvolume12,31
+YUKI (JAPANESE),Action,killbillvolume12,49
+NURSE OWENS,Action,killbillvolume12,48
+L.F.,Action,killbillvolume12,85
+BILL (; ),Action,killbillvolume12,35
+THE BRIDE *,Action,killbillvolume12,66
+PAI MEI *,Action,killbillvolume12,188
+BUDD,Action,killbillvolume12,229
+ELLE,Action,killbillvolume12,275
+FADE TO BLACK.,Action,killbillvolume12,33
+HANZO (JAPANESE),Action,killbillvolume12,67
+BILL'S VOICE,Action,killbillvolume12,22
+B.B.,Action,killbillvolume12,59
+MOMMY,Action,killbillvolume12,22
+THE BRIDE (ENGLISH),Action,killbillvolume12,81
+KAREN,Action,killbillvolume12,21
+THE BRIDE (JAPANESE),Action,killbillvolume12,99
+THE BRIDE,Action,killbillvolume12,754
+BILL,Action,killbillvolume12,575
+SGT. ADAMS,Action,maxpayne,49
+TREVOR,Action,maxpayne,28
+NATASHA,Action,maxpayne,48
+ALEX,Action,maxpayne,27
+TATTOO ARTIST,Action,maxpayne,24
+VINNIE,Action,maxpayne,45
+YOUNG COP,Action,maxpayne,27
+HOMICIDE COP,Action,maxpayne,29
+COLVIN,Action,maxpayne,83
+AX,Action,maxpayne,59
+MAX,Action,maxpayne,405
+MONA,Action,maxpayne,136
+JOE SALLE,Action,maxpayne,48
+BRAVURA,Action,maxpayne,139
+BB,Action,maxpayne,412
+MAX'S VOICE,Action,maxpayne,30
+LARRY,Action,bladetrinity,30
+WHISTLER,Action,bladetrinity,41
+CUMBERLAND,Action,bladetrinity,49
+KING (V.0.),Action,bladetrinity,23
+VANCE,Action,bladetrinity,146
+HEDGES,Action,bladetrinity,37
+VREEDE,Action,bladetrinity,47
+SOMMERFIELD,Action,bladetrinity,100
+ASHER,Action,bladetrinity,25
+BLADE,Action,bladetrinity,176
+DANICA,Action,bladetrinity,127
+DRAKE,Action,bladetrinity,124
+ABIGAIL,Action,bladetrinity,91
+ABIGAIL (V.0.),Action,bladetrinity,39
+KING,Action,bladetrinity,332
+TRACY,Action,crowsalvationthe,28
+DUTTON,Action,crowsalvationthe,67
+GONZALEZ,Action,crowsalvationthe,34
+ERLICH,Action,crowsalvationthe,74
+TOMMY,Action,crowsalvationthe,69
+MERCER,Action,crowsalvationthe,64
+RANDALL,Action,crowsalvationthe,71
+WALSH,Action,crowsalvationthe,95
+LARKIN,Action,crowsalvationthe,47
+LAUREN,Action,crowsalvationthe,25
+MADDEN,Action,crowsalvationthe,83
+SECRETARY,Action,crowsalvationthe,48
+ALEX'S VOICE,Action,crowsalvationthe,39
+CAPTAIN,Action,crowsalvationthe,260
+ALEX,Action,crowsalvationthe,421
+ERIN'S VOICE,Action,crowsalvationthe,23
+ERIN,Action,crowsalvationthe,240
+PIKE,Action,wildbunchthe,48
+DUTCH,Action,wildbunchthe,24
+CONTINUED,Action,wildbunchthe,21
+AMAZING,Action,mysterymen,47
+MOTHER,Action,mysterymen,36
+SPHINX,Action,mysterymen,50
+HELLER,Action,mysterymen,75
+ANABEL,Action,mysterymen,23
+TONY P,Action,mysterymen,68
+CASANOVA,Action,mysterymen,292
+SPLEEN,Action,mysterymen,69
+BOWLER,Action,mysterymen,124
+INVISIBLE BOY,Action,mysterymen,58
+RAJA,Action,mysterymen,281
+SHOVELER,Action,mysterymen,175
+FURIOUS,Action,mysterymen,393
+MONICA,Action,mysterymen,160
+EDDIE,Action,batman,28
+NICK,Action,batman,44
+ECKHARDT,Action,batman,38
+GRISSOM,Action,batman,50
+JACK,Action,batman,66
+BATMAN (cont.),Action,batman,21
+GORDON,Action,batman,35
+VICKI (cont.),Action,batman,32
+ALICIA,Action,batman,21
+DENT,Action,batman,61
+BRUCE (cont.),Action,batman,30
+KNOX (cont.),Action,batman,55
+KNOX,Action,batman,316
+DICK,Action,batman,36
+BATMAN,Action,batman,116
+JOKER,Action,batman,230
+JOKER (cont.),Action,batman,205
+ANCHORWOMAN,Action,batman,24
+ALFRED,Action,batman,30
+VICKI,Action,batman,409
+BRUCE,Action,batman,262
+RADIO HOST,Action,2012,24
+ON THE RADIO,Action,2012,23
+CHARLIE'S VOICE,Action,2012,38
+CHARLIE FROST,Action,2012,91
+NEWSCASTER,Action,2012,21
+TONY,Action,2012,24
+HARRY,Action,2012,61
+PRESIDENT WILSON,Action,2012,83
+SASHA,Action,2012,77
+GORDON,Action,2012,107
+SATNAM,Action,2012,26
+LIN,Action,2012,29
+YURI,Action,2012,94
+NENG,Action,2012,35
+TAMARA,Action,2012,45
+(PAUSE),Action,2012,43
+OLEG,Action,2012,21
+LILLY,Action,2012,65
+LAURA,Action,2012,82
+PROF. WEST,Action,2012,42
+VOICE,Action,2012,22
+ANHEUSER,Action,2012,166
+CAPTAIN MICHAELS,Action,2012,58
+NOAH,Action,2012,78
+KATE,Action,2012,149
+JACKSON,Action,2012,334
+ADRIAN,Action,2012,344
+(CONTINUED),Action,2012,211
+JUDGE FRANKEL,Action,siegethe,34
+FRED,Action,siegethe,22
+MIKE,Action,siegethe,22
+DANNY,Action,siegethe,48
+TINA,Action,siegethe,55
+CHIEF OF STAFF,Action,siegethe,120
+COL. HARDWICK,Action,siegethe,26
+SAMIR,Action,siegethe,169
+ELISE,Action,siegethe,696
+DEVEREAUX,Action,siegethe,361
+HUB,Action,siegethe,1158
+FRANK,Action,siegethe,325
+STEVENS,Action,miamivice,52
+CROCKETT (cont'd),Action,miamivice,25
+FUJIMA,Action,miamivice,122
+MONTOYA (cont'd),Action,miamivice,23
+MONTOYA,Action,miamivice,67
+ISABELLA (cont'd),Action,miamivice,25
+EL TIBURON,Action,miamivice,25
+JOSE YERO (cont'd),Action,miamivice,22
+JOSE YERO,Action,miamivice,184
+GINA,Action,miamivice,106
+TUBBS,Action,miamivice,473
+TRUDY,Action,miamivice,62
+CASTILLO,Action,miamivice,122
+ISABELLA,Action,miamivice,348
+CROCKETT,Action,miamivice,656
+WAITRESS,Action,reindeergames,21
+PUG,Action,reindeergames,62
+JUMPY,Action,reindeergames,104
+MERLIN,Action,reindeergames,121
+JACK BANGS,Action,reindeergames,141
+GABRIEL,Action,reindeergames,559
+ASHLEY,Action,reindeergames,502
+RUDY,Action,reindeergames,1035
+NICK,Action,reindeergames,287
+LEADER,Action,fightclub,56
+SECURITY TFM,Action,fightclub,28
+DETECTIVE STERN,Action,fightclub,37
+BOSS,Action,fightclub,46
+LOU,Action,fightclub,29
+BOB,Action,fightclub,52
+MECHANIC,Action,fightclub,25
+RICKY,Action,fightclub,28
+TYLER,Action,fightclub,960
+MARLA,Action,fightclub,332
+JACK,Action,fightclub,1852
+HEDONIA,Action,flashgordon,25
+AURA,Action,flashgordon,177
+VULTAN,Action,flashgordon,75
+TIGER MAN,Action,flashgordon,35
+MING,Action,flashgordon,150
+FLASH'S VOICE,Action,flashgordon,72
+BARIN,Action,flashgordon,98
+KLYTUS,Action,flashgordon,48
+DALE'S VOICE,Action,flashgordon,23
+DALE,Action,flashgordon,164
+FLASH,Action,flashgordon,264
+ZARKOV,Action,flashgordon,175
+DENNIS,Action,backdraft,42
+CHIEF FITZGERALD,Action,backdraft,46
+WILLY,Action,backdraft,32
+SCHMIDT,Action,backdraft,23
+RICCO,Action,backdraft,43
+TIM,Action,backdraft,83
+WOMAN,Action,backdraft,32
+HELEN,Action,backdraft,94
+RONALD,Action,backdraft,133
+GRINDLE,Action,backdraft,71
+AXE,Action,backdraft,178
+STEPHEN,Action,backdraft,675
+SWAYZAK,Action,backdraft,97
+SHADOW,Action,backdraft,473
+JENNIFER,Action,backdraft,260
+BRIAN,Action,backdraft,781
+SETH,Action,looper,26
+JESSE,Action,looper,28
+KID BLUE,Action,looper,29
+ABE,Action,looper,29
+JOE,Action,looper,175
+OLD JOE,Action,looper,52
+SARA,Action,looper,134
+CID,Action,looper,54
+CHARLIE,Action,hardrain,146
+KENNY,Action,hardrain,77
+MR. MEHLOR,Action,hardrain,30
+RAY,Action,hardrain,68
+WAYNE,Action,hardrain,139
+PHIL,Action,hardrain,72
+SHERIFF,Action,hardrain,271
+HANK,Action,hardrain,52
+HENRY,Action,hardrain,36
+DOREEN,Action,hardrain,90
+JIM,Action,hardrain,350
+TOM,Action,hardrain,417
+KAREN,Action,hardrain,138
+LACHAISE,Action,worldisnotenoughthe,33
+DAVIDOV,Action,worldisnotenoughthe,34
+COLONEL AKAKIEVICH,Action,worldisnotenoughthe,21
+MONEYPENNY,Action,worldisnotenoughthe,31
+ZUKY,Action,worldisnotenoughthe,132
+ELEKTRA,Action,worldisnotenoughthe,436
+RENARD,Action,worldisnotenoughthe,190
+BOND,Action,worldisnotenoughthe,694
+TANNER,Action,worldisnotenoughthe,85
+CHRISTMAS,Action,worldisnotenoughthe,152
+"BATWING -- $19.95 and up.""  A PANHANDLER is perched at the",Action,batman2,25
+MR. BONIFACE,Action,batman2,23
+ANCHORWOMAN,Action,batman2,24
+BOAT THUG I,Action,batman2,21
+SHAW,Action,batman2,59
+KICKS HIM in the face.  HOP; KICK.  HOP; KICK.  The FIGURE has,Action,batman2,27
+BARRETT,Action,batman2,26
+SCULPTURE of the world turning.  His eyes rove downward along,Action,batman2,30
+GUARD,Action,batman2,23
+PROVOST,Action,batman2,66
+TRAFFIC COP,Action,batman2,24
+BULLOCK,Action,batman2,25
+COP,Action,batman2,24
+TIPTREE,Action,batman2,112
+PAGE 101 MISSING FROM HARD COPY,Action,batman2,26
+FRICK,Action,batman2,29
+PENGUIN (cont.),Action,batman2,40
+ALFRED,Action,batman2,180
+SELINA,Action,batman2,323
+SELINA (cont.),Action,batman2,77
+CATWOMAN (cont.),Action,batman2,22
+CATWOMAN,Action,batman2,106
+DICK,Action,batman2,37
+PENGUIN,Action,batman2,245
+BATMAN,Action,batman2,25
+GORDON,Action,batman2,91
+VICKI,Action,batman2,160
+BRUCE,Action,batman2,372
+WHITMAN,Action,hellboy,43
+MATLIN,Action,hellboy,21
+OLD MATLIN,Action,hellboy,28
+CLAY,Action,hellboy,82
+BROOM,Action,hellboy,283
+ABE,Action,hellboy,88
+MANNING,Action,hellboy,123
+GRIGORY,Action,hellboy,151
+ILSA,Action,hellboy,34
+MYERS,Action,hellboy,212
+LIZ,Action,hellboy,166
+HELLBOY,Action,hellboy,488
+DELONGPREE,Action,jasonx,34
+ADRIENNE,Action,jasonx,47
+STONEY,Action,jasonx,25
+AZRAEL,Action,jasonx,70
+DALLAS,Action,jasonx,27
+KICKER,Action,jasonx,67
+FAT LOU,Action,jasonx,29
+YLLO,Action,jasonx,349
+KKINSA,Action,jasonx,72
+COMPUTER VOICE,Action,jasonx,25
+JANESSA,Action,jasonx,133
+BOEMAN,Action,jasonx,255
+DELONGPRE,Action,jasonx,286
+THORGAN,Action,jasonx,222
+KAY-EM 14,Action,jasonx,230
+RIZZO,Action,jasonx,417
+BRI,Action,jasonx,176
+STANDARD,Action,drive,75
+COOK,Action,drive,24
+SHANNON,Action,drive,99
+NINO,Action,drive,85
+BERNIE ROSE,Action,drive,128
+DRIVER,Action,drive,168
+IRENE,Action,drive,95
+(CONTINUED),Action,drive,303
+MAN,Action,rambofirstbloodiithemission,44
+FUHRMAN,Action,rambofirstbloodiithemission,37
+CO,Action,rambofirstbloodiithemission,161
+TECH,Action,rambofirstbloodiithemission,25
+POD,Action,rambofirstbloodiithemission,125
+LIFER,Action,rambofirstbloodiithemission,21
+KIRKHILL,Action,rambofirstbloodiithemission,263
+DOYLE,Action,rambofirstbloodiithemission,87
+TRAUTMAN,Action,rambofirstbloodiithemission,204
+RAMBO,Action,rambofirstbloodiithemission,413
+BREWER,Action,rambofirstbloodiithemission,380
+DE FRAVIO,Action,rambofirstbloodiithemission,78
+CANNIBAL ISLAND,Action,piratesofthecaribbeandeadmanschest,30
+BELLAMY,Action,piratesofthecaribbeandeadmanschest,43
+JACK SPARROW,Action,piratesofthecaribbeandeadmanschest,526
+DAVY JONES,Action,piratesofthecaribbeandeadmanschest,132
+LORD CUTLER BECKETT,Action,piratesofthecaribbeandeadmanschest,129
+NORRINGTON,Action,piratesofthecaribbeandeadmanschest,82
+GIBBS,Action,piratesofthecaribbeandeadmanschest,232
+PINTEL,Action,piratesofthecaribbeandeadmanschest,92
+RAGETTI,Action,piratesofthecaribbeandeadmanschest,78
+ELIZABETH SWANN,Action,piratesofthecaribbeandeadmanschest,229
+WILL TURNER,Action,piratesofthecaribbeandeadmanschest,320
+TIA DALMA,Action,piratesofthecaribbeandeadmanschest,88
+COLONEL ANDERSON,Action,savingprivateryan,59
+SUPPLY SERGEANT,Action,savingprivateryan,31
+WADE,Action,savingprivateryan,102
+SARGE,Action,savingprivateryan,252
+UPHAM,Action,savingprivateryan,183
+JACKSON,Action,savingprivateryan,229
+REIBEN,Action,savingprivateryan,409
+RYAN,Action,savingprivateryan,74
+MILLER,Action,savingprivateryan,1137
+SIBEAL,Action,boondocksaints2allsaintsday,30
+CHIEF,Action,boondocksaints2allsaintsday,36
+REPORTER #1,Action,boondocksaints2allsaintsday,39
+CESAR,Action,boondocksaints2allsaintsday,37
+GEORGE,Action,boondocksaints2allsaintsday,96
+GUN DEALER,Action,boondocksaints2allsaintsday,21
+CONCEZIO,Action,boondocksaints2allsaintsday,106
+ROMEO,Action,boondocksaints2allsaintsday,294
+JIMMY,Action,boondocksaints2allsaintsday,27
+DOLLY,Action,boondocksaints2allsaintsday,105
+DOC,Action,boondocksaints2allsaintsday,30
+GREENLY,Action,boondocksaints2allsaintsday,143
+CREW CUT,Action,boondocksaints2allsaintsday,26
+DUFFY,Action,boondocksaints2allsaintsday,116
+(BEAT),Action,boondocksaints2allsaintsday,21
+ROCCO,Action,boondocksaints2allsaintsday,42
+EUNICE,Action,boondocksaints2allsaintsday,552
+KUNTSLER,Action,boondocksaints2allsaintsday,68
+ROMAN,Action,boondocksaints2allsaintsday,48
+POPPA M,Action,boondocksaints2allsaintsday,161
+CONNOR,Action,boondocksaints2allsaintsday,293
+MURPHY,Action,boondocksaints2allsaintsday,262
+PATROLMAN,Action,machete,31
+COP,Action,machete,25
+DOC FELIX,Action,machete,47
+JUNE,Action,machete,27
+APRIL,Action,machete,33
+BOSS,Action,machete,28
+(ON PHONE),Action,machete,53
+LUZ,Action,machete,85
+SNIPER,Action,machete,65
+PADRE,Action,machete,74
+MCLAUGHLIN,Action,machete,108
+VON,Action,machete,79
+BENZ,Action,machete,227
+TORREZ,Action,machete,32
+ELEKTRA,Action,machete,284
+MACHETE,Action,machete,175
+"SUPER:  Viet - Cambodian Border, 1972. Jungle foliage",Action,abovethelaw,21
+PIMP,Action,abovethelaw,38
+FIRES blindly -- trying to hit Nico.,Action,abovethelaw,25
+AGENT NEELEY                            *,Action,abovethelaw,25
+LIEUTENANT STROZAH,Action,abovethelaw,37
+FATHER GENARRO,Action,abovethelaw,93
+FIRST GIRL,Action,abovethelaw,37
+MACHETE MAN,Action,abovethelaw,23
+AGENT HALLORAN,Action,abovethelaw,32
+SISTER BONIFACIA,Action,abovethelaw,21
+SARA                                    *,Action,abovethelaw,40
+AGENT NEELEY                           *,Action,abovethelaw,25
+AGENT NEELEY                          *,Action,abovethelaw,37
+CLERK,Action,abovethelaw,23
+AGENT NEELEY                       *,Action,abovethelaw,32
+WATANABE,Action,abovethelaw,72
+SALVANO,Action,abovethelaw,64
+MIDDLE-AGED WOMAN,Action,abovethelaw,23
+FATHER TOMASSINO,Action,abovethelaw,46
+JACKSON,Action,abovethelaw,213
+QUICK DISSOLVE TO:,Action,abovethelaw,29
+ROSA,Action,abovethelaw,34
+SARA,Action,abovethelaw,54
+FREDERICO LARUSSO,Action,abovethelaw,47
+BRANCA,Action,abovethelaw,77
+DISSOLVE TO:,Action,abovethelaw,32
+FOX,Action,abovethelaw,166
+STEAM --,Action,abovethelaw,22
+FIRST SECURITY GUARD,Action,abovethelaw,38
+ZAGON,Action,abovethelaw,306
+ABOVE THE LAW - Rev. 4/29/87                             10,Action,abovethelaw,25
+LUKICH,Action,abovethelaw,91
+NICO,Action,abovethelaw,1151
+CHAD,Action,cellular,27
+BRITISH ASSHOLE (VO),Action,cellular,23
+MARILYN,Action,cellular,27
+MAIL CLERK,Action,cellular,24
+CRAIG,Action,cellular,91
+JESSICA (VO),Action,cellular,237
+DETECTIVE TOMLIN,Action,cellular,35
+SIMON COWELL,Action,cellular,30
+TELEMARKETER,Action,cellular,21
+RICKY,Action,cellular,28
+RYAN (VO),Action,cellular,59
+MATCH CUT TO:,Action,cellular,35
+TOMLIN,Action,cellular,83
+HODGES,Action,cellular,39
+ELLIS,Action,cellular,48
+CUT BACK TO:,Action,cellular,37
+GREEK,Action,cellular,60
+GREER,Action,cellular,250
+MOONEY,Action,cellular,253
+CHLOE,Action,cellular,60
+JESSICA,Action,cellular,423
+RYAN,Action,cellular,929
+NARRATOR,Action,kungfupanda,34
+COMMANDER,Action,kungfupanda,61
+ZENG,Action,kungfupanda,65
+OOGWAY,Action,kungfupanda,114
+VIPER,Action,kungfupanda,36
+MANTIS,Action,kungfupanda,47
+CRANE,Action,kungfupanda,52
+MONKEY,Action,kungfupanda,26
+TAI LUNG,Action,kungfupanda,97
+PDAD,Action,kungfupanda,132
+TIGRESS,Action,kungfupanda,109
+PO,Action,kungfupanda,717
+SHIFU,Action,kungfupanda,512
+TEACHER,Action,hackers,26
+AGENT RAY,Action,hackers,22
+PHREAK,Action,hackers,181
+BLADE,Action,hackers,31
+JOEY,Action,hackers,97
+RAZOR,Action,hackers,26
+HAL,Action,hackers,35
+NIKON,Action,hackers,108
+AGENT BOB,Action,hackers,29
+MRS. MURPHY,Action,hackers,71
+CEREAL,Action,hackers,210
+MARGO,Action,hackers,74
+GILL,Action,hackers,112
+PLAGUE,Action,hackers,273
+DADE,Action,hackers,349
+KATE,Action,hackers,229
+BURGLEKUTT,Action,willow,43
+HIGH ALDWIN,Action,willow,67
+CHERLINDREA,Action,willow,63
+TEEMO,Action,willow,67
+ROOL,Action,willow,40
+KAEL,Action,willow,36
+AIRK,Action,willow,79
+SA,Action,willow,119
+BADA,Action,willow,98
+RAZIEL,Action,willow,210
+MADMARTIGAN,Action,willow,456
+KIAYA,Action,willow,22
+WILLOW,Action,willow,641
+RESIDENT #1,Action,islandthe,33
+KLEINWORT,Action,islandthe,23
+MCCORD,Action,islandthe,78
+DR. SANGER (cont'd),Action,islandthe,24
+T H E WASP,Action,islandthe,27
+- - P L E A S U R E PARTNER SELECTED; PROGRAM COMMENCING...,Action,islandthe,32
+I C E ON SPEAKER,Action,islandthe,28
+THE DOCTOR,Action,islandthe,39
+JONES,Action,islandthe,76
+SCHEER (INTO HEADSET),Action,islandthe,21
+CENSOR (ON HOLOFRAME),Action,islandthe,27
+OZZIE,Action,islandthe,119
+THE SNAKE,Action,islandthe,28
+GREY DOVE,Action,islandthe,26
+BURDON,Action,islandthe,30
+DIGGS,Action,islandthe,150
+TOM,Action,islandthe,116
+SCHEER,Action,islandthe,204
+D R . ABRAMS,Action,islandthe,43
+CROWNE,Action,islandthe,171
+A VOICE,Action,islandthe,39
+DR. SANGER,Action,islandthe,322
+LYDIA,Action,islandthe,41
+MERRICK,Action,islandthe,412
+CENSOR,Action,islandthe,43
+ESTER,Action,islandthe,201
+KATHERINE,Action,islandthe,140
+LINCOLN,Action,islandthe,721
+JOE STEVENS,Action,deepcover,27
+STEVENS,Action,deepcover,86
+BELINDA,Action,deepcover,51
+EDDIE,Action,deepcover,102
+MIRANDA,Action,deepcover,22
+IVY,Action,deepcover,26
+CAL TECH,Action,deepcover,44
+BARBOSA,Action,deepcover,173
+HERNANDEZ,Action,deepcover,42
+GALLEGOS,Action,deepcover,48
+BLONDE WOMAN,Action,deepcover,21
+GOPHER,Action,deepcover,77
+VOICE,Action,deepcover,25
+TAFT,Action,deepcover,125
+ELIAS,Action,deepcover,607
+MCCUTCHEON,Action,deepcover,189
+HULL,Action,deepcover,727
+CARVER,Action,deepcover,302
+FRIZZY,Action,48hrs,23
+VANZANT,Action,48hrs,25
+ALGREN,Action,48hrs,28
+LISA,Action,48hrs,39
+RUTH,Action,48hrs,31
+BARTENDER,Action,48hrs,25
+SOSNA,Action,48hrs,25
+KEHOE,Action,48hrs,66
+LUTHER,Action,48hrs,66
+HADEN,Action,48hrs,103
+CASEY,Action,48hrs,45
+BILLY,Action,48hrs,51
+GANZ,Action,48hrs,177
+ELAINE,Action,48hrs,227
+CANDY,Action,48hrs,37
+CATES,Action,48hrs,1035
+HAMMOND,Action,48hrs,835
+WILDER,Action,arcticblue,161
+CORBETT (Cont'd),Action,arcticblue,22
+VIKING BOB,Action,arcticblue,103
+KENAI,Action,arcticblue,91
+LEMALLE,Action,arcticblue,128
+MITCHELL,Action,arcticblue,73
+ANNE MARIE,Action,arcticblue,201
+MEYERLING,Action,arcticblue,114
+NEFF,Action,arcticblue,104
+(CONTINUED),Action,arcticblue,90
+CORBETT,Action,arcticblue,688
+ERIC,Action,arcticblue,520
+MEKUM,Action,soldier,158
+MACE,Action,soldier,159
+HAWKINS,Action,soldier,57
+ELLEN,Action,soldier,21
+CAINE 607,Action,soldier,41
+SANDRA,Action,soldier,265
+JOHNNY,Action,soldier,27
+JIMMY PIG,Action,soldier,47
+RUBRICK,Action,soldier,144
+CHURCH,Action,soldier,261
+SLOAN,Action,soldier,136
+MEKUM/VIDEO IMAGE,Action,soldier,33
+SLADE,Action,soldier,100
+TODD,Action,soldier,58
+RILEY,Action,soldier,23
+PEPPER,Action,avengersthe2012,67
+THE OTHER,Action,avengersthe2012,36
+AGENT PHIL COULSON,Action,avengersthe2012,141
+SECURITY GUARD,Action,avengersthe2012,23
+NATASHA,Action,avengersthe2012,176
+CLINT BARTON,Action,avengersthe2012,58
+STEVE,Action,avengersthe2012,174
+BANNER,Action,avengersthe2012,208
+HAWKEYE,Action,avengersthe2012,29
+SELVIG,Action,avengersthe2012,52
+JARVIS,Action,avengersthe2012,31
+IRON MAN,Action,avengersthe2012,61
+BLACK WIDOW,Action,avengersthe2012,45
+CAPTAIN AMERICA,Action,avengersthe2012,116
+(A BEAT),Action,avengersthe2012,26
+THOR,Action,avengersthe2012,122
+TONY,Action,avengersthe2012,379
+LOKI,Action,avengersthe2012,196
+WORLD SECURITY COUNCIL #1,Action,avengersthe2012,37
+AGENT MARIA HILL,Action,avengersthe2012,67
+NICK FURY,Action,avengersthe2012,320
+CHAIRMAN,Action,getawaythe,35
+BEYNON,Action,getawaythe,105
+SOLDIER,Action,getawaythe,31
+RUDY,Action,getawaythe,136
+FRAN,Action,getawaythe,44
+LAUGHLIN,Action,getawaythe,48
+ACCOUNTANT,Action,getawaythe,37
+SLIM,Action,getawaythe,68
+CAROL,Action,getawaythe,407
+DOC,Action,getawaythe,692
+(CONTINUED),Action,getawaythe,146
+NAVIGATOR,Action,dune,44
+DR. YUEH,Action,dune,31
+MAPES,Action,dune,24
+KYNES,Action,dune,145
+DUNCAN,Action,dune,29
+YUEH,Action,dune,38
+PITER,Action,dune,63
+DUKE LETO,Action,dune,153
+REVEREND MOTHER RAMALLO,Action,dune,47
+RABBAN,Action,dune,30
+VOICE,Action,dune,44
+STILGAR,Action,dune,139
+BARON,Action,dune,159
+THUFIR,Action,dune,71
+REVEREND MOTHER,Action,dune,159
+GURNEY,Action,dune,113
+CHANI,Action,dune,37
+FEYD,Action,dune,28
+EMPEROR,Action,dune,124
+JESSICA,Action,dune,296
+PAUL,Action,dune,733
+ALIA,Action,dune,48
+CROUPIER,Action,walkingtall,23
+JIMMY,Action,walkingtall,21
+CONNIE,Action,walkingtall,26
+SHERIFF WATKINS,Action,walkingtall,99
+JUDGE,Action,walkingtall,33
+PETE,Action,walkingtall,29
+DENI,Action,walkingtall,52
+DAD,Action,walkingtall,51
+BOOTH,Action,walkingtall,23
+MICHELLE,Action,walkingtall,46
+JAY,Action,walkingtall,123
+CHRIS,Action,walkingtall,394
+RAY,Action,walkingtall,141
+FARGO,Action,judgedredd,27
+MCGRUDER,Action,judgedredd,25
+FERGIE (X),Action,judgedredd,48
+DREDD (X),Action,judgedredd,65
+GRIFFIN,Action,judgedredd,68
+FERGIE,Action,judgedredd,74
+HERSHEY (X),Action,judgedredd,39
+CENTRAL,Action,judgedredd,52
+RICO,Action,judgedredd,106
+HERSHEY,Action,judgedredd,113
+(CONTINUED),Action,judgedredd,168
+DREDD,Action,judgedredd,192
+OLMEYER (X),Action,judgedredd,36
+KOMMANDER,Action,fifthelementthe,36
+PRIEST,Action,fifthelementthe,53
+STAEDERT,Action,fifthelementthe,54
+GIRL,Action,fifthelementthe,34
+FINGER,Action,fifthelementthe,43
+THAI,Action,fifthelementthe,23
+CHECK-IN ATTENDANT,Action,fifthelementthe,28
+RIGHT ARM,Action,fifthelementthe,55
+STEWARDESS,Action,fifthelementthe,23
+PILOT,Action,fifthelementthe,32
+CAPTAIN,Action,fifthelementthe,55
+DIVA,Action,fifthelementthe,36
+ANGLE ON:,Action,fifthelementthe,24
+COP,Action,fifthelementthe,35
+AKANIT,Action,fifthelementthe,28
+COP 1,Action,fifthelementthe,21
+VOICE,Action,fifthelementthe,72
+ZORG,Action,fifthelementthe,306
+DAVID,Action,fifthelementthe,39
+CORNELIUS,Action,fifthelementthe,370
+KORBEN,Action,fifthelementthe,879
+LEELOO,Action,fifthelementthe,148
+SCIENTIST,Action,fifthelementthe,32
+LOC RHOD,Action,fifthelementthe,257
+MUNRO,Action,fifthelementthe,126
+PROFESSOR,Action,fifthelementthe,92
+MACTILBURGH,Action,fifthelementthe,67
+PRESIDENT,Action,fifthelementthe,175
+MOTHER,Action,fifthelementthe,48
+FRANCOIS,Action,ronin,40
+SWEDE,Action,ronin,69
+DAPPER GENT,Action,ronin,25
+LARRY,Action,ronin,135
+EDVARD,Action,ronin,26
+JEAN-PIERRE,Action,ronin,86
+TONY,Action,ronin,76
+MIKHI,Action,ronin,25
+GREGOR,Action,ronin,214
+SEAMUS,Action,ronin,155
+DEIRDRE,Action,ronin,347
+SAM,Action,ronin,649
+VINCENT,Action,ronin,538
+CHUPA,Action,bladeii,56
+ASAD,Action,bladeii,48
+SCUD,Action,bladeii,175
+STEVENS,Action,bladeii,71
+REINHARDT,Action,bladeii,72
+WHISTLER,Action,bladeii,227
+DAMASKINOS,Action,bladeii,127
+NOMAK,Action,bladeii,37
+NYSSA,Action,bladeii,257
+BLADE,Action,bladeii,386
+FARAMIR,Action,lordoftheringsreturnoftheking,31
+GANDALF V/0,Action,lordoftheringsreturnoftheking,23
+ELROND (cont'd),Action,lordoftheringsreturnoftheking,24
+GOLLUM (cont'd),Action,lordoftheringsreturnoftheking,36
+SMEAGOL,Action,lordoftheringsreturnoftheking,55
+GOTHMOG,Action,lordoftheringsreturnoftheking,24
+DENETHOR,Action,lordoftheringsreturnoftheking,65
+DENETHOR (cont'd),Action,lordoftheringsreturnoftheking,38
+EOWYN,Action,lordoftheringsreturnoftheking,53
+THEODEN,Action,lordoftheringsreturnoftheking,92
+THEODEN (cont'd),Action,lordoftheringsreturnoftheking,35
+MERRY,Action,lordoftheringsreturnoftheking,54
+GORBAG,Action,lordoftheringsreturnoftheking,24
+FRODO (cont'd),Action,lordoftheringsreturnoftheking,29
+EOMER,Action,lordoftheringsreturnoftheking,25
+LEGOLAS,Action,lordoftheringsreturnoftheking,32
+GIMLI,Action,lordoftheringsreturnoftheking,58
+PIPPIN,Action,lordoftheringsreturnoftheking,122
+GOLLUM,Action,lordoftheringsreturnoftheking,106
+INTERCUT WITH:,Action,lordoftheringsreturnoftheking,31
+ARAGORN,Action,lordoftheringsreturnoftheking,95
+ARAGORN (cont'd),Action,lordoftheringsreturnoftheking,31
+ELROND,Action,lordoftheringsreturnoftheking,34
+GANDALF,Action,lordoftheringsreturnoftheking,212
+GANDALF (cont'd),Action,lordoftheringsreturnoftheking,80
+FRODO,Action,lordoftheringsreturnoftheking,140
+(CONTINUED),Action,lordoftheringsreturnoftheking,242
+FRODO V/0,Action,lordoftheringsreturnoftheking,29
+SAM,Action,lordoftheringsreturnoftheking,189
+SAM (cont'd),Action,lordoftheringsreturnoftheking,63
+ROSCOE,Action,indianajonesandthelastcrusade,22
+FEDORA,Action,indianajonesandthelastcrusade,32
+KAZIM,Action,indianajonesandthelastcrusade,39
+VOGEL,Action,indianajonesandthelastcrusade,73
+DONOVAN,Action,indianajonesandthelastcrusade,270
+KNIGHT,Action,indianajonesandthelastcrusade,32
+ELSA,Action,indianajonesandthelastcrusade,214
+CONTINUED:,Action,indianajonesandthelastcrusade,47
+SALLAH,Action,indianajonesandthelastcrusade,82
+BRODY,Action,indianajonesandthelastcrusade,178
+HENRY,Action,indianajonesandthelastcrusade,429
+INDY,Action,indianajonesandthelastcrusade,959
+PRIME,Action,transformersthemovie,35
+MEGATRON,Action,transformersthemovie,106
+STARSCREAM,Action,transformersthemovie,64
+BLASTER,Action,transformersthemovie,44
+BUMBLEBEE,Action,transformersthemovie,21
+BLURR,Action,transformersthemovie,21
+ULTRA MAGNUS,Action,transformersthemovie,119
+PERCEPTOR,Action,transformersthemovie,57
+UNICRON,Action,transformersthemovie,79
+GRIMLOCK,Action,transformersthemovie,75
+ARCEE,Action,transformersthemovie,54
+ON DANIEL,Action,transformersthemovie,29
+DANIEL,Action,transformersthemovie,107
+SPIKE,Action,transformersthemovie,31
+WRECK-GAR,Action,transformersthemovie,81
+ANOTHER ANGLE,Action,transformersthemovie,30
+OPTIMUS PRIME,Action,transformersthemovie,49
+GALVATRON,Action,transformersthemovie,114
+HOT ROD,Action,transformersthemovie,247
+SPRINGER,Action,transformersthemovie,102
+(CONTINUED),Action,transformersthemovie,140
+JAZZ,Action,transformersthemovie,25
+KUP,Action,transformersthemovie,206
+TANNER,Action,tomorrowneverdies,75
+JENNY WU,Action,tomorrowneverdies,21
+COL. DOMINIQUE EVERHART,Action,tomorrowneverdies,39
+DOMINIQUE,Action,tomorrowneverdies,21
+MONEYPENNY,Action,tomorrowneverdies,46
+SAUNDERS,Action,tomorrowneverdies,67
+VALENTIN,Action,tomorrowneverdies,40
+PARIS,Action,tomorrowneverdies,50
+HELMSMAN,Action,tomorrowneverdies,23
+FIRST OFFICER,Action,tomorrowneverdies,73
+ADMIRAL ROEBUCK,Action,tomorrowneverdies,65
+MINISTER JOHNSTONE,Action,tomorrowneverdies,129
+CAPTAIN CHEONG,Action,tomorrowneverdies,28
+CAPTAIN MORTON,Action,tomorrowneverdies,75
+CAPTAIN,Action,tomorrowneverdies,29
+HARMSWAY (cont'd),Action,tomorrowneverdies,28
+YUNG,Action,tomorrowneverdies,51
+STAMPER,Action,tomorrowneverdies,68
+HARMSWAY,Action,tomorrowneverdies,657
+WADE,Action,tomorrowneverdies,102
+SIDNEY,Action,tomorrowneverdies,270
+BOND,Action,tomorrowneverdies,916
+BRETT,Action,cliffhanger,28
+EVAN,Action,cliffhanger,21
+KYNETTE,Action,cliffhanger,33
+FRANK,Action,cliffhanger,59
+DAVIS,Action,cliffhanger,47
+STUART,Action,cliffhanger,56
+MATHESON,Action,cliffhanger,68
+KRISTEL,Action,cliffhanger,87
+QUALEN,Action,cliffhanger,126
+TRAVERS,Action,cliffhanger,362
+WRIGHT,Action,cliffhanger,120
+GABE,Action,cliffhanger,574
+HAL,Action,cliffhanger,298
+MAGGIE,Action,cliffhanger,207
+WHITE H #2,Action,gijane,23
+CNN COMMENTATOR (TV),Action,gijane,22
+ENGLAND,Action,gijane,26
+THE SPOOK,Action,gijane,54
+HAYES,Action,gijane,50
+INSTRUCTOR JOHNS,Action,gijane,49
+WICKWIRE,Action,gijane,108
+BLONDELL,Action,gijane,53
+FLEA,Action,gijane,41
+CORTEZ,Action,gijane,50
+THE CHIEF,Action,gijane,384
+MCCOOL,Action,gijane,97
+SLUTNIK,Action,gijane,79
+DEHAVEN'S AIDE,Action,gijane,49
+INSTRUCTOR PYRO,Action,gijane,114
+DEHAVEN,Action,gijane,295
+C.O.,Action,gijane,249
+JORDAN,Action,gijane,781
+ROYCE,Action,gijane,260
